@@ -21,8 +21,8 @@ comments:
     MjAwOC0wNy0wMyAxNzoyOTo1OSArMDIwMA==
   date_gmt: !binary |-
     MjAwOC0wNy0wMyAxNjoyOTo1OSArMDIwMA==
-  content: ! '[...] jag skrivit i en tidigare post har jag skrivit ett program fÃ¶r
-    katalogisering av IF-spel. FÃ¶r att gÃ¶ra det hela lite mer [...]'
+  content: ! '[...] jag skrivit i en tidigare post har jag skrivit ett program f&ouml;r
+    katalogisering av IF-spel. F&ouml;r att g&ouml;ra det hela lite mer [...]'
 - id: 876
   author: Fredrik R
   author_email: fredrik@ramsberg.net
@@ -31,12 +31,12 @@ comments:
     MjAwOC0wNy0wNyAxNzoxMjo0OSArMDIwMA==
   date_gmt: !binary |-
     MjAwOC0wNy0wNyAxNjoxMjo0OSArMDIwMA==
-  content: ! "Hej!\r\n\r\nIntressant program! Jag ska testa det strax. SÃ¤rskilt intresserad
-    av om det klarar svenska tecken, men jag gissar att du som svensk har tÃ¤nkt pÃ¥
-    det.\r\n\r\nHar nyligen sjÃ¤lv bÃ¶rjat kÃ¶ra Ubuntu, och blev lite besviken pÃ¥
-    att inte hitta nÃ¥gon snygg tolk. Jag hade missat att Gargoyle finns fÃ¶r Linux,
-    sÃ¥ det tipset tackar vi fÃ¶r!\r\n\r\nMer om textÃ¤ventyr hittar du pÃ¥ min sajt
-    http://microheaven.com\r\n\r\nMvh,\r\n\r\n/Fredrik"
+  content: ! "Hej!\r\n\r\nIntressant program! Jag ska testa det strax. S&auml;rskilt
+    intresserad av om det klarar svenska tecken, men jag gissar att du som svensk
+    har t&auml;nkt p&aring; det.\r\n\r\nHar nyligen sj&auml;lv b&ouml;rjat k&ouml;ra
+    Ubuntu, och blev lite besviken p&aring; att inte hitta n&aring;gon snygg tolk.
+    Jag hade missat att Gargoyle finns f&ouml;r Linux, s&aring; det tipset tackar
+    vi f&ouml;r!\r\n\r\nMer om text&auml;ventyr hittar du p&aring; min sajt http:&#47;&#47;microheaven.com\r\n\r\nMvh,\r\n\r\n&#47;Fredrik"
 - id: 878
   author: Per Liedman
   author_email: per@liedman.net
@@ -45,19 +45,19 @@ comments:
     MjAwOC0wOC0xMiAwOTowODoxNSArMDIwMA==
   date_gmt: !binary |-
     MjAwOC0wOC0xMiAwODowODoxNSArMDIwMA==
-  content: ! "Hej Fredrik, kul att nÃ¥gon svensk hittar programmet. Jag Ã¤r mycket
-    tacksam fÃ¶r all feedback pÃ¥ hur det fungerar fÃ¶r andra.\r\n\r\nJag planerar
-    Ã¤ven att distribuera Gargoyle som ett Ubuntu-paket, dÃ¥ jag hÃ¥ller med om att
-    det Ã¤r vÃ¤ldigt tomt pÃ¥ IF-fronten i Ubuntu-biblioteket."
+  content: ! "Hej Fredrik, kul att n&aring;gon svensk hittar programmet. Jag &auml;r
+    mycket tacksam f&ouml;r all feedback p&aring; hur det fungerar f&ouml;r andra.\r\n\r\nJag
+    planerar &auml;ven att distribuera Gargoyle som ett Ubuntu-paket, d&aring; jag
+    h&aring;ller med om att det &auml;r v&auml;ldigt tomt p&aring; IF-fronten i Ubuntu-biblioteket."
 ---
-Stora nyheter. Jag har lyckats sÃ¤tta ihop mitt fÃ¶rsta <a href="http://www.gtk.org/">GTK+</a>-program och skapat mitt fÃ¶rsta Ubuntu-paket (som innehÃ¥ller programmet i frÃ¥ga). Men lÃ¥t oss bÃ¶rja frÃ¥n bÃ¶rjan.
+Stora nyheter. Jag har lyckats s&auml;tta ihop mitt f&ouml;rsta <a href="http:&#47;&#47;www.gtk.org&#47;">GTK+<&#47;a>-program och skapat mitt f&ouml;rsta Ubuntu-paket (som inneh&aring;ller programmet i fr&aring;ga). Men l&aring;t oss b&ouml;rja fr&aring;n b&ouml;rjan.
 
-De senaste mÃ¥naderna har jag fastnat i textÃ¤ventyr - den urÃ¥ldriga eller kanske urmodiga typ av datorspel dÃ¤r man spelar genom att lÃ¤sa text och sedan skriva kommandon fÃ¶r att berÃ¤tta fÃ¶r datorn vad man vill gÃ¶ra; <a href="http://en.wikipedia.org/wiki/Interactive_fiction">interactive fiction</a> (IF) Ã¤r den engelska termen, som jag gillar bÃ¤ttre, dÃ¥ det inte nÃ¶dvÃ¤ndigtvis rÃ¶r sig om Ã¤ventyr av drakar och demoner-karaktÃ¤r.
+De senaste m&aring;naderna har jag fastnat i text&auml;ventyr - den ur&aring;ldriga eller kanske urmodiga typ av datorspel d&auml;r man spelar genom att l&auml;sa text och sedan skriva kommandon f&ouml;r att ber&auml;tta f&ouml;r datorn vad man vill g&ouml;ra; <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Interactive_fiction">interactive fiction<&#47;a> (IF) &auml;r den engelska termen, som jag gillar b&auml;ttre, d&aring; det inte n&ouml;dv&auml;ndigtvis r&ouml;r sig om &auml;ventyr av drakar och demoner-karakt&auml;r.
 
-I detta Ã¤ventyrande bÃ¶rjade mina problem. Annars fÃ¶rtrÃ¤ffliga Ubuntu har inte nÃ¥gra program fÃ¶r att spela IF pÃ¥ nÃ¥got bekvÃ¤mt sÃ¤tt; nÃ¥gra program finns (frotz, tads och qtads), men de tÃ¤cker inte alla olika spelformat som finns, och Ã¤ven om jag gillar terminalfÃ¶nster sÃ¥ Ã¤r det inte optimalt fÃ¶r IF. Min favorit blev istÃ¤llet snart <a href="http://ccxvii.net/gargoyle/">Gargoyle</a>, som stÃ¶der alla format jag Ã¤r intresserad av, samt ser synnerligen elegant ut.
+I detta &auml;ventyrande b&ouml;rjade mina problem. Annars f&ouml;rtr&auml;ffliga Ubuntu har inte n&aring;gra program f&ouml;r att spela IF p&aring; n&aring;got bekv&auml;mt s&auml;tt; n&aring;gra program finns (frotz, tads och qtads), men de t&auml;cker inte alla olika spelformat som finns, och &auml;ven om jag gillar terminalf&ouml;nster s&aring; &auml;r det inte optimalt f&ouml;r IF. Min favorit blev ist&auml;llet snart <a href="http:&#47;&#47;ccxvii.net&#47;gargoyle&#47;">Gargoyle<&#47;a>, som st&ouml;der alla format jag &auml;r intresserad av, samt ser synnerligen elegant ut.
 
-Vad Gargoyle saknar Ã¤r dock ett bibliotek, eller smidigt sÃ¤tt att hÃ¥lla reda pÃ¥ de olika spel man samlar pÃ¥ sig. Det Ã¤r hÃ¤r mitt program kommer in. Ett slags katalogiseringsprogram fÃ¶r IF-spel med utseende som ett budget-iTunes. Arbetsnamnet Ã¤r <i>Grotesque</i> (eftersom en gargoyle Ã¤r en form av groteskornamentik - ja, jag fick slÃ¥ upp det sistnÃ¤mnda ordet).
+Vad Gargoyle saknar &auml;r dock ett bibliotek, eller smidigt s&auml;tt att h&aring;lla reda p&aring; de olika spel man samlar p&aring; sig. Det &auml;r h&auml;r mitt program kommer in. Ett slags katalogiseringsprogram f&ouml;r IF-spel med utseende som ett budget-iTunes. Arbetsnamnet &auml;r <i>Grotesque<&#47;i> (eftersom en gargoyle &auml;r en form av groteskornamentik - ja, jag fick sl&aring; upp det sistn&auml;mnda ordet).
 
-Jag Ã¤mnar nog gÃ¶ra nÃ¥got lite mer seriÃ¶st av detta lÃ¤ngre fram, men tills vidare lÃ¤gger jag upp <del>en screenshot, kÃ¤llkoden samt slutligen Ubuntu-paketet fÃ¶r Grotesque-0.1</del> (Uppdaterat 2008-07-03: se <a href="http://grotesque.sourceforge.net/">Grotesques hemsida</a> fÃ¶r senaste versionen av dessa filer). Eftersom jag bara byggt pÃ¥ min egen maskin och det Ã¤r fÃ¶rsta gÃ¥ngen jag paketerar fÃ¶r Ubuntu sÃ¥ har jag sÃ¤kert gjort nÃ¥got fel, men prÃ¶va gÃ¤rna.
+Jag &auml;mnar nog g&ouml;ra n&aring;got lite mer seri&ouml;st av detta l&auml;ngre fram, men tills vidare l&auml;gger jag upp <del>en screenshot, k&auml;llkoden samt slutligen Ubuntu-paketet f&ouml;r Grotesque-0.1<&#47;del> (Uppdaterat 2008-07-03: se <a href="http:&#47;&#47;grotesque.sourceforge.net&#47;">Grotesques hemsida<&#47;a> f&ouml;r senaste versionen av dessa filer). Eftersom jag bara byggt p&aring; min egen maskin och det &auml;r f&ouml;rsta g&aring;ngen jag paketerar f&ouml;r Ubuntu s&aring; har jag s&auml;kert gjort n&aring;got fel, men pr&ouml;va g&auml;rna.
 
-Min plan hÃ¤rnÃ¤st Ã¤r att paketera Ã¤ven Gargoyle som Ubuntu-paket, eftersom det Ã¤r lite vÃ¤l stÃ¶kigt att bygga fÃ¶r hand nu, lÃ¤gga pÃ¥ lite puts och glans pÃ¥ Grotesque, samt kanske hitta pÃ¥ ett ordentligt namn. Vi fÃ¥r se. Under tiden borde du prÃ¶va att spela lite IF - nÃ¥gra bra fÃ¶rslag pÃ¥ spel att prÃ¶va hittar du t.ex. <a href="http://www.astro.umd.edu/~marshall/ifmini.html">hÃ¤r</a>.
+Min plan h&auml;rn&auml;st &auml;r att paketera &auml;ven Gargoyle som Ubuntu-paket, eftersom det &auml;r lite v&auml;l st&ouml;kigt att bygga f&ouml;r hand nu, l&auml;gga p&aring; lite puts och glans p&aring; Grotesque, samt kanske hitta p&aring; ett ordentligt namn. Vi f&aring;r se. Under tiden borde du pr&ouml;va att spela lite IF - n&aring;gra bra f&ouml;rslag p&aring; spel att pr&ouml;va hittar du t.ex. <a href="http:&#47;&#47;www.astro.umd.edu&#47;~marshall&#47;ifmini.html">h&auml;r<&#47;a>.

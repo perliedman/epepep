@@ -87,15 +87,15 @@ comments:
     MjAxMS0wOC0yMiAxNToxNjo1NSArMDIwMA==
   content: Thanks.
 - id: 61297
-  author: DoMyself &raquo; Blog Archive &raquo; J2MEä¸‹çš„JSONåŒ…
+  author: DoMyself &raquo; Blog Archive &raquo; J2ME&auml;&cedil;&lsaquo;&ccedil;&scaron;&bdquo;JSON&aring;&OElig;&hellip;
   author_email: ''
   author_url: http://www.domyself.me/archives/the-lack-of-a-json-parser-for-j2me/
   date: !binary |-
     MjAxMi0wMi0xNSAwNjoyMzo1OSArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0wMi0xNSAwNToyMzo1OSArMDEwMA==
-  content: ! "[...] ä»Šå¤©åœ¨å¼€å\x8F‘ä¸€ä¸ªj2meç¨‹åº\x8Fçš„æ—¶å€™ï¼Œéœ€è¦\x81ç”¨åˆ°jsonæ•°æ\x8D®çš„è§£æž\x90ï¼Œä»Žç™¾åº¦ä¸Šæ\x90œäº†ä¸€åœˆéƒ½æ˜¯å\x90„ç§\x8Dæ•™ä½ æ€Žä¹ˆç”¨çš„ï¼Œä½†é—®é¢˜æ˜¯æ²¡æœ‰ä¸€ä¸ªè¯´ï¼Œè¿™ä¸ªåŒ…ä»Žå“ªé‡ŒèŽ·å¾—ã€‚ã€‚ã€‚ä»Žä¸€ä¸ªè€\x81å¤–çš„blogæ‰¾åˆ°ä¸€ä¸ªjaråŒ…ï¼Œè¿˜çœ‹åˆ°ä¸€ä¸ªé\x9DžjaråŒ…çš„ã€‚å…ˆè¯´jaråŒ…çš„ï¼Œè½¬è‡ªï¼šhttp://per.liedman.net/2010/06/07/the-lack-of-a-json-parser-for-j2me/
-    [...]"
+  content: ! '[...] 今天在开发一个j2me程序的时候，需要用到json数据的解析，从百度上搜了一圈都是各种教你怎么用的，但问题是没有一个说，这个包从哪里获得。。。从一个老外的blog找到一个jar包，还看到一个非jar包的。先说jar包的，转自：http:&#47;&#47;per.liedman.net&#47;2010&#47;06&#47;07&#47;the-lack-of-a-json-parser-for-j2me&#47;
+    [...]'
 - id: 66557
   author: mohan
   author_email: kuldeep@unixell.in
@@ -170,7 +170,7 @@ comments:
     MjAxMy0wNy0wMiAwMjoyMjo0MSArMDIwMA==
   content: ! '[...] Aplikasi mobile ini berbasis persistan dan network. Webserver
     pada aplikasi ini menggunakan Ruby on Rails. Aplikasi ini menggunakan library
-    json-me.jar yang didapat dari http://per.liedman.net/2010/06/07/the-lack-of-a-json-parser-for-j2me/
+    json-me.jar yang didapat dari http:&#47;&#47;per.liedman.net&#47;2010&#47;06&#47;07&#47;the-lack-of-a-json-parser-for-j2me&#47;
     [...]'
 - id: 152451
   author: Alev ARG
@@ -189,17 +189,7 @@ comments:
     MjAxMy0wOS0xNCAxMDo0MDowNCArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wOS0xNCAwOTo0MDowNCArMDIwMA==
-  content: ! "Att lÃ¤sa upp vartenda manligt namn fÃ¶r att spara skatt. Är du nÃ¥t
-    nervÃ¶s dÃ¥?\r\n\r\nJag kÃ¤nde till hans lÃ¤ngd, Ã¶gonfÃ¤rg, \r\nhÃ¥rstatus, ungefÃ¤rliga
-    kroppsbyggnad, klÃ¤dsel, civilstÃ¥nd, sambons profession: lÃ¤rare och kommunalrÃ¥d,\r\nursprung,
-    familjefÃ¶rhÃ¥llanden, jobb, bakgrund, adress, \r\ntelefonnummer, sexuella preferenser,
-    intressen, vardagsvanor, helgvanor, drÃ¶mmar och lite \r\ntill. Men han har sÃ¤kert
-    inget emot henne.\r\n\"Du ser, jag sa att hon skulle fÃ¶rlÃ¥ta mig hur man gÃ¶r,
-    Ã¤ven om mina genitalier. \"Ringde Madeleine?\" \"Är du tokig?\r\nDu kan inte
-    berÃ¤tta nu. Inte innan hon och jag fick med \r\nav mig sjÃ¤lv, med nytorkat hÃ¥r,
-    i min kompis \"Gary\". Jag hade en kÃ¤rleksfull stereotyp av det irlÃ¤ndska.\"
-    NÃ¤r jag kÃ¶rt lÃ¤ngst ner pÃ¥ bibliotek om man letar.\" \r\nJust dÃ¥ i alla fall.
-    Men nu genast. Tack fÃ¶r att du"
+  content: ! 'Att l&auml;sa upp vartenda manligt namn f&ouml;r att spara skatt. '
 - id: 160123
   author: Omolara
   author_email: larryade92@gmail.com
@@ -210,18 +200,18 @@ comments:
     MjAxMy0xMC0wMiAxMzozMTowNSArMDIwMA==
   content: Thanks much. Helped me solved many problems.
 ---
-In a pet project I'm spending my nights working on (hopefully more about that in a later post), I found myself in need of a JSON parser, or deserializer, for J2ME/CLDC. A bit to my surprise, I found that such a thing was not easy to find, even with the whole of the internets at my disposal.
+In a pet project I'm spending my nights working on (hopefully more about that in a later post), I found myself in need of a JSON parser, or deserializer, for J2ME&#47;CLDC. A bit to my surprise, I found that such a thing was not easy to find, even with the whole of the internets at my disposal.
 
-To summarize, it appears that there has been a JSON lib for J2ME up on <a href="http://www.google.se/search?aq=f&ie=UTF-8&q=org.json.me.zip">json.org at some point</a>, but at least I can't find it any longer. Also, <a href="https://meapplicationdevelopers.dev.java.net/mobileajax.html">some project on java.net</a> is popular to link to, but come on, no download link? No pre-compiled JAR-file?
+To summarize, it appears that there has been a JSON lib for J2ME up on <a href="http:&#47;&#47;www.google.se&#47;search?aq=f&ie=UTF-8&q=org.json.me.zip">json.org at some point<&#47;a>, but at least I can't find it any longer. Also, <a href="https:&#47;&#47;meapplicationdevelopers.dev.java.net&#47;mobileajax.html">some project on java.net<&#47;a> is popular to link to, but come on, no download link? No pre-compiled JAR-file?
 
-Anyway, after <a href="http://stackoverflow.com/questions/2981296/json-parser-for-j2me">asking over at stackoverflow.com</a> and getting surprisingly few answers, at least I found a link to some code that was easy enough to grab.
+Anyway, after <a href="http:&#47;&#47;stackoverflow.com&#47;questions&#47;2981296&#47;json-parser-for-j2me">asking over at stackoverflow.com<&#47;a> and getting surprisingly few answers, at least I found a link to some code that was easy enough to grab.
 
-As some kind of attempt to give back to the community, I upload the compiled JAR from that source code here. So if you need to serialize, deserialize, marshal or unmarshal JSON from J2ME/CLDC, grab this JAR and go ahead:
+As some kind of attempt to give back to the community, I upload the compiled JAR from that source code here. So if you need to serialize, deserialize, marshal or unmarshal JSON from J2ME&#47;CLDC, grab this JAR and go ahead:
 <ul>
-<li>Compiled JAR: <a href='http://per.liedman.net/wp-content/uploads/2010/06/json-me.jar'>json-me.jar</a></li>
-<li><del datetime="2010-09-25T09:42:04+00:00">Source code: <a href='http://per.liedman.net/wp-content/uploads/2010/06/json-me.tar.gz'>json-me.tar.gz</a></del> <strong>Updated 2010-09-25:</strong> the source is now <a href="http://bitbucket.org/liedman/json-me">available on BitBucket</a></li>
-</ul>
+<li>Compiled JAR: <a href='http:&#47;&#47;per.liedman.net&#47;wp-content&#47;uploads&#47;2010&#47;06&#47;json-me.jar'>json-me.jar<&#47;a><&#47;li>
+<li><del datetime="2010-09-25T09:42:04+00:00">Source code: <a href='http:&#47;&#47;per.liedman.net&#47;wp-content&#47;uploads&#47;2010&#47;06&#47;json-me.tar.gz'>json-me.tar.gz<&#47;a><&#47;del> <strong>Updated 2010-09-25:<&#47;strong> the source is now <a href="http:&#47;&#47;bitbucket.org&#47;liedman&#47;json-me">available on BitBucket<&#47;a><&#47;li>
+<&#47;ul>
 
-The code is most likely a copy of the one that was previously posted on json.org, and is distributed under <a href="http://www.json.org/license.html">the json.org license</a> according to the copyright notice in the source (most importantly: "The Software shall be used for Good, not Evil.")
+The code is most likely a copy of the one that was previously posted on json.org, and is distributed under <a href="http:&#47;&#47;www.json.org&#47;license.html">the json.org license<&#47;a> according to the copyright notice in the source (most importantly: "The Software shall be used for Good, not Evil.")
 
-As a very tiny modification, I have added the methods <i>remove</i> and <i>removeAll</i> to the class <i>JSONArray</i>, since I really needed them. I hope you don't mind too much.
+As a very tiny modification, I have added the methods <i>remove<&#47;i> and <i>removeAll<&#47;i> to the class <i>JSONArray<&#47;i>, since I really needed them. I hope you don't mind too much.

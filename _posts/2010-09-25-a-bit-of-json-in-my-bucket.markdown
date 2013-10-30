@@ -22,9 +22,10 @@ comments:
     MjAxMi0wNS0wMiAwMDo1Mjo0MyArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wMSAyMzo1Mjo0MyArMDIwMA==
-  content: A packet of envelopes http://rebamimabakim.blog.free.fr/ best site preteen  I
-    would love to have a boyfriend who would fuck me when he had invited a LOT of
-    his friends over and left the door open for them to just walk in and join us
+  content: A packet of envelopes http:&#47;&#47;rebamimabakim.blog.free.fr&#47; best
+    site preteen  I would love to have a boyfriend who would fuck me when he had invited
+    a LOT of his friends over and left the door open for them to just walk in and
+    join us
 - id: 70119
   author: Vdbjgqls
   author_email: john@hotmail.com
@@ -33,9 +34,9 @@ comments:
     MjAxMi0wNS0wMiAwMzozNDoxNyArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wMiAwMjozNDoxNyArMDIwMA==
-  content: Excellent work, Nice Design http://ehudutejupucu.blog.free.fr/ forum bbs
-    child  i cant really watch girl on girl shit for too long but this right here
-    is legendary...what dreams are made of
+  content: Excellent work, Nice Design http:&#47;&#47;ehudutejupucu.blog.free.fr&#47;
+    forum bbs child  i cant really watch girl on girl shit for too long but this right
+    here is legendary...what dreams are made of
 - id: 70215
   author: Dxsfbjaf
   author_email: john@hotmail.com
@@ -44,9 +45,9 @@ comments:
     MjAxMi0wNS0wMiAxODo1NToyNiArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wMiAxNzo1NToyNiArMDIwMA==
-  content: I'd like to pay this in, please http://rosydodyjy.de.tl teen brandi model  if
-    that is what you get when you party hard and leave a mess; I am missing the boat..
-    let me party even harderrrr
+  content: I'd like to pay this in, please http:&#47;&#47;rosydodyjy.de.tl teen brandi
+    model  if that is what you get when you party hard and leave a mess; I am missing
+    the boat.. let me party even harderrrr
 - id: 70218
   author: Ppdvpdvr
   author_email: john@hotmail.com
@@ -55,10 +56,10 @@ comments:
     MjAxMi0wNS0wMiAxODo1NzoxMyArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wMiAxNzo1NzoxMyArMDIwMA==
-  content: Free medical insurance http://sianetorotuk.de.tl fotoplenka sylvia model  see,
-    it's not that it's boring. it's actually pretty solid, i think. it's just that
-    she tries to act like it's something that it's not.  Why doesn't she just say
-    it's her hubby, it'd be just as good!
+  content: Free medical insurance http:&#47;&#47;sianetorotuk.de.tl fotoplenka sylvia
+    model  see, it's not that it's boring. it's actually pretty solid, i think. it's
+    just that she tries to act like it's something that it's not.  Why doesn't she
+    just say it's her hubby, it'd be just as good!
 - id: 70298
   author: Dzvhnuft
   author_email: john@hotmail.com
@@ -67,7 +68,7 @@ comments:
     MjAxMi0wNS0wMyAwODo0Njo1MSArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wMyAwNzo0Njo1MSArMDIwMA==
-  content: Do you like it here? http://cysaqimypa.de.tl nymphet glamour models  Mister
+  content: Do you like it here? http:&#47;&#47;cysaqimypa.de.tl nymphet glamour models  Mister
     sure had a hard fat cock for the lovely ladies .. loved watching blonde jerk it
     into redheads mouth .. secretary can't help but sneak a peek as her Boss stuffs
     his meat into redhead .. blonde gets off watching and it is not long before young
@@ -80,9 +81,9 @@ comments:
     MjAxMi0wNS0wNyAxODo1MTowMSArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0wNyAxNzo1MTowMSArMDIwMA==
-  content: How do you know each other? http://afineibiha.de.tl loli open hot nude  they
-    arn't completley fucked in the head yet, give them a few months or so and they
-    will be doing ass to mouth, sister style
+  content: How do you know each other? http:&#47;&#47;afineibiha.de.tl loli open hot
+    nude  they arn't completley fucked in the head yet, give them a few months or
+    so and they will be doing ass to mouth, sister style
 - id: 101482
   author: Gavin
   author_email: john@hotmail.com
@@ -91,9 +92,9 @@ comments:
     MjAxMi0xMS0yNSAxODo0MToxMCArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0xMS0yNSAxNzo0MToxMCArMDEwMA==
-  content: ! "I love the theatre <a href=\"http://topamaxonline.posterous.com/\" rel=\"nofollow\">topamax
-    online\r</a>  solving and decision skills. Fails to follow Sufficient problem-problem-solving
-    and problem-solving and"
+  content: ! "I love the theatre <a href=\"http:&#47;&#47;topamaxonline.posterous.com&#47;\"
+    rel=\"nofollow\">topamax online\r<&#47;a>  solving and decision skills. Fails
+    to follow Sufficient problem-problem-solving and problem-solving and"
 - id: 121526
   author: Urkldxgz
   author_email: john@hotmail.com
@@ -102,9 +103,9 @@ comments:
     MjAxMy0wNC0wOCAxMzozOTo1MCArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wNC0wOCAxMjozOTo1MCArMDIwMA==
-  content: Have you seen any good films recently? http://www.zoji.com/1230633 lolita
-    teens nudist tgp  If any ladies are willing to squirt in a bottle and send it
-    to me I will drink the whole thing at once in a video and post it on here.  Just
+  content: Have you seen any good films recently? http:&#47;&#47;www.zoji.com&#47;1230633
+    lolita teens nudist tgp  If any ladies are willing to squirt in a bottle and send
+    it to me I will drink the whole thing at once in a video and post it on here.  Just
     message me if you will.
 - id: 121652
   author: Ounmqogh
@@ -114,9 +115,9 @@ comments:
     MjAxMy0wNC0wOSAwMDoxMDoyNSArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wNC0wOCAyMzoxMDoyNSArMDIwMA==
-  content: Can I use your phone? http://www.zoji.com/1230691 lolita nymphet ls magazine  F'ing
-    hawt body! She's a real shot of life. If she was bouncing on my dick and taking
-    my load, I would die a happy man tomorrow
+  content: Can I use your phone? http:&#47;&#47;www.zoji.com&#47;1230691 lolita nymphet
+    ls magazine  F'ing hawt body! She's a real shot of life. If she was bouncing on
+    my dick and taking my load, I would die a happy man tomorrow
 - id: 121933
   author: Brooklyn
   author_email: greenwood@webtown.com
@@ -125,8 +126,8 @@ comments:
     MjAxMy0wNC0xMCAwNDo1NDoxNyArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wNC0xMCAwMzo1NDoxNyArMDIwMA==
-  content: Where are you from? <a href="http://www.boondocksbootleg.com/profile/uitutamohyn"
-    rel="nofollow">nn preteen loli toplist</a>  I am so lovin her. She's so happy
+  content: Where are you from? <a href="http:&#47;&#47;www.boondocksbootleg.com&#47;profile&#47;uitutamohyn"
+    rel="nofollow">nn preteen loli toplist<&#47;a>  I am so lovin her. She's so happy
     bout fuckin and getting fucked, esp in her ass! I LUV it!!
 - id: 121934
   author: Mia
@@ -136,9 +137,9 @@ comments:
     MjAxMy0wNC0xMCAwNDo1NzoxNSArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wNC0xMCAwMzo1NzoxNSArMDIwMA==
-  content: Will I be paid weekly or monthly? <a href="http://community.parents.com/fisitapify/blog/2013/04/04/nude_lolitas_thumbnails_child"
-    rel="nofollow">preteen lolita little russian</a>  oh the boy is very good looking
-    and amazing cock i love to suck it
+  content: Will I be paid weekly or monthly? <a href="http:&#47;&#47;community.parents.com&#47;fisitapify&#47;blog&#47;2013&#47;04&#47;04&#47;nude_lolitas_thumbnails_child"
+    rel="nofollow">preteen lolita little russian<&#47;a>  oh the boy is very good
+    looking and amazing cock i love to suck it
 - id: 131570
   author: Gavin
   author_email: john@hotmail.com
@@ -147,9 +148,9 @@ comments:
     MjAxMy0wNS0yNSAwMTozMDowNCArMDIwMA==
   date_gmt: !binary |-
     MjAxMy0wNS0yNSAwMDozMDowNCArMDIwMA==
-  content: What do you want to do when you've finished? http://www.jetphotos.net/members/viewprofile.php?id=68252
+  content: What do you want to do when you've finished? http:&#47;&#47;www.jetphotos.net&#47;members&#47;viewprofile.php?id=68252
     boys and girl lolita  thats the stuff love it!!!
 ---
-Since storing loose bits of code on my blog is far from ideal from pretty much any perspective, I took the time and put the <a href="http://per.liedman.net/2010/06/07/the-lack-of-a-json-parser-for-j2me/">JSON-ME source code</a> up on BitBucket, with all its Mercurial goodness. Enjoy!
+Since storing loose bits of code on my blog is far from ideal from pretty much any perspective, I took the time and put the <a href="http:&#47;&#47;per.liedman.net&#47;2010&#47;06&#47;07&#47;the-lack-of-a-json-parser-for-j2me&#47;">JSON-ME source code<&#47;a> up on BitBucket, with all its Mercurial goodness. Enjoy!
 
-<a href="https://bitbucket.org/liedman/json-me">https://bitbucket.org/liedman/json-me</a>
+<a href="https:&#47;&#47;bitbucket.org&#47;liedman&#47;json-me">https:&#47;&#47;bitbucket.org&#47;liedman&#47;json-me<&#47;a>

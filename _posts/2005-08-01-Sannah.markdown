@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-Utan nÃ¤rmare analys berÃ¤ttar jag fÃ¶r er att jag Ã¤r lite fÃ¶rÃ¤lskad i fotobloggen <a href="http://sannah.iamnotfromfinland.net/blog/">She broke my heart, so I broke her face</a>. SÃ¥ det sÃ¥.
+Utan n&auml;rmare analys ber&auml;ttar jag f&ouml;r er att jag &auml;r lite f&ouml;r&auml;lskad i fotobloggen <a href="http:&#47;&#47;sannah.iamnotfromfinland.net&#47;blog&#47;">She broke my heart, so I broke her face<&#47;a>. S&aring; det s&aring;.

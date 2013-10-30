@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: VÃ¥r (med en lÃ¤tt reservation)
+title: V&aring;r (med en l&auml;tt reservation)
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Jag prÃ¶vade att gÃ¥ ut i solen idag, och det visade sig att det var vÃ¥r eller nÃ¤stan sommar. Det var kvÃ¤ll men solen var fortfarande uppe. Allt var lite rosa och det var fortfarande fÃ¥glar som flÃ¶g omkring och sjÃ¶ng.
+Jag pr&ouml;vade att g&aring; ut i solen idag, och det visade sig att det var v&aring;r eller n&auml;stan sommar. Det var kv&auml;ll men solen var fortfarande uppe. Allt var lite rosa och det var fortfarande f&aring;glar som fl&ouml;g omkring och sj&ouml;ng.
 
-Det kÃ¤nns trist att allt som har med sÃ¥dant har Ã¤ltats i evigheter. Att man knappt kan prata om fin vÃ¥r utan att det blir banalt och platt. Jag tror jag eftersÃ¶ker en bild av vÃ¥ren med udd pÃ¥, nÃ¥got som inte bara Ã¤r rosor och fÃ¥glar, men fortfarande vackert. NÃ¥got som inte kvÃ¤ver med mjÃ¤kighet, utan kÃ¤nns friskt och hoppfullt.
+Det k&auml;nns trist att allt som har med s&aring;dant har &auml;ltats i evigheter. Att man knappt kan prata om fin v&aring;r utan att det blir banalt och platt. Jag tror jag efters&ouml;ker en bild av v&aring;ren med udd p&aring;, n&aring;got som inte bara &auml;r rosor och f&aring;glar, men fortfarande vackert. N&aring;got som inte kv&auml;ver med mj&auml;kighet, utan k&auml;nns friskt och hoppfullt.
 
-(Senare tillÃ¤gg: jag tror en del av det jag eftersÃ¶ker finns hÃ¤r: <a href="http://www.fotosidan.se/gallery/viewlarge.htm?ID=199986">http://www.fotosidan.se/gallery/viewlarge.htm?ID=199986</a>)
+(Senare till&auml;gg: jag tror en del av det jag efters&ouml;ker finns h&auml;r: <a href="http:&#47;&#47;www.fotosidan.se&#47;gallery&#47;viewlarge.htm?ID=199986">http:&#47;&#47;www.fotosidan.se&#47;gallery&#47;viewlarge.htm?ID=199986<&#47;a>)

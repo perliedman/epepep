@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Tyskt stÃ¥l
+title: Tyskt st&aring;l
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,9 +14,9 @@ categories: []
 tags: []
 comments: []
 ---
-<img width='512' height='77' border='0' hspace='5' src='/uploads/epepep-thdr.jpg' alt='' />
-I den annars ganska okÃ¤nda orten <a href="http://www.voelklingen.de/">VÃ¶lklingen</a>, nÃ¥gra mil frÃ¥n SaarbrÃ¼cken har <a href="http://www.unesco.org">UNESCO</a> hittat ett <a href="http://www.voelklinger-huette.org/site.php3?lang=en&sec=home&doc=main&session=1124022419">gammalt stÃ¥lverk</a> som de gjort till VÃ¤rldskulturarvsmusÃ©um, <em>VÃ¶lklinger HÃ¼tte</em>. Det Ã¤r ett mÃ¤ktigt monument Ã¶ver 1900-talsindustri och hur densamma ockuperar och dominerar landskapet kring sig.
+<img width='512' height='77' border='0' hspace='5' src='&#47;uploads&#47;epepep-thdr.jpg' alt='' &#47;>
+I den annars ganska ok&auml;nda orten <a href="http:&#47;&#47;www.voelklingen.de&#47;">V&ouml;lklingen<&#47;a>, n&aring;gra mil fr&aring;n Saarbr&uuml;cken har <a href="http:&#47;&#47;www.unesco.org">UNESCO<&#47;a> hittat ett <a href="http:&#47;&#47;www.voelklinger-huette.org&#47;site.php3?lang=en&sec=home&doc=main&session=1124022419">gammalt st&aring;lverk<&#47;a> som de gjort till V&auml;rldskulturarvsmus&eacute;um, <em>V&ouml;lklinger H&uuml;tte<&#47;em>. Det &auml;r ett m&auml;ktigt monument &ouml;ver 1900-talsindustri och hur densamma ockuperar och dominerar landskapet kring sig.
 
-VÃ¤l vÃ¤rt ett besÃ¶k om man Ã¤r det allra minsta intresserad av industri, historia eller bara vill lÃ¥ta sig imponeras av gigantiska, rostiga och Ã¶vergivna stÃ¥lkonstruktioner.
+V&auml;l v&auml;rt ett bes&ouml;k om man &auml;r det allra minsta intresserad av industri, historia eller bara vill l&aring;ta sig imponeras av gigantiska, rostiga och &ouml;vergivna st&aring;lkonstruktioner.
 
-VarfÃ¶r man sedan fÃ¥tt fÃ¶r sig att hÃ¥lla en <a href="http://www.voelklinger-huette.de/1001nacht/eng/index.html">utstÃ¤llning med historiska fÃ¶remÃ¥l frÃ¥n orienten</a> i den mÃ¤ktiga hallen som en gÃ¥ng producerade luftdraget som drev verkets ugnar (blower hall), Ã¤r fÃ¶r mig ett mysterium. "Malplacerat" Ã¤r ett ord som dyker upp.
+Varf&ouml;r man sedan f&aring;tt f&ouml;r sig att h&aring;lla en <a href="http:&#47;&#47;www.voelklinger-huette.de&#47;1001nacht&#47;eng&#47;index.html">utst&auml;llning med historiska f&ouml;rem&aring;l fr&aring;n orienten<&#47;a> i den m&auml;ktiga hallen som en g&aring;ng producerade luftdraget som drev verkets ugnar (blower hall), &auml;r f&ouml;r mig ett mysterium. "Malplacerat" &auml;r ett ord som dyker upp.

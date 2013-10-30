@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-Att all discodans slutar med brutna ben visste vi ju sen gammalt, men tydligen kan Ã¤ven en del vals resultera i det samma. Iallafall min nya bloggfavorit, <a href="http://hem.bredband.net/moalar/">BenknÃ¤ckarvals</a>. Moa Ã¤r bÃ¤st.
+Att all discodans slutar med brutna ben visste vi ju sen gammalt, men tydligen kan &auml;ven en del vals resultera i det samma. Iallafall min nya bloggfavorit, <a href="http:&#47;&#47;hem.bredband.net&#47;moalar&#47;">Benkn&auml;ckarvals<&#47;a>. Moa &auml;r b&auml;st.
 
-Helt okorrelerat Ã¤r <a href="http://www.last.fm/music/Sci-Fi+Sk%C3%A5ne">Sci-fi SkÃ¥nes</a> bÃ¤sta lÃ¥t den sista pÃ¥ skivan, <a href="http://www.last.fm/music/Sci-Fi+Sk%C3%A5ne/_/Valsen">Valsen</a>. Mycket vals blir det.
+Helt okorrelerat &auml;r <a href="http:&#47;&#47;www.last.fm&#47;music&#47;Sci-Fi+Sk%C3%A5ne">Sci-fi Sk&aring;nes<&#47;a> b&auml;sta l&aring;t den sista p&aring; skivan, <a href="http:&#47;&#47;www.last.fm&#47;music&#47;Sci-Fi+Sk%C3%A5ne&#47;_&#47;Valsen">Valsen<&#47;a>. Mycket vals blir det.

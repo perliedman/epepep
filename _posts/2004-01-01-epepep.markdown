@@ -14,10 +14,10 @@ categories: []
 tags: []
 comments: []
 ---
-<i>epepep</i> Ã¤r mitt fÃ¶rsÃ¶k att bidra till blogkaoset pÃ¥ nÃ¤tet. Eller kanske mitt fÃ¶rsÃ¶k att skapa lite ordning bland allt som rÃ¥kar passera genom mina tankar en vanlig dag. Det finns inga som helst garantier fÃ¶r att jag verkligen skriver nÃ¥got hÃ¤r med nÃ¥gon form av regelbundenhet, men det Ã¤r Ã¥tminstone min ambition. Jag tror att skrivandet bidrar till att fÃ¥ lite struktur i sÃ¥dant som annars lÃ¤tt fÃ¶rblir lÃ¶sryckta idÃ©er.
+<i>epepep<&#47;i> &auml;r mitt f&ouml;rs&ouml;k att bidra till blogkaoset p&aring; n&auml;tet. Eller kanske mitt f&ouml;rs&ouml;k att skapa lite ordning bland allt som r&aring;kar passera genom mina tankar en vanlig dag. Det finns inga som helst garantier f&ouml;r att jag verkligen skriver n&aring;got h&auml;r med n&aring;gon form av regelbundenhet, men det &auml;r &aring;tminstone min ambition. Jag tror att skrivandet bidrar till att f&aring; lite struktur i s&aring;dant som annars l&auml;tt f&ouml;rblir l&ouml;sryckta id&eacute;er.
 
-Namnet <i>epepep</i> Ã¤r resultatet av nÃ¥gra hastiga tangenttryckningar vid installation av mitt blogprogram. Mitt eget namn Ã¤r Per Liedman.
+Namnet <i>epepep<&#47;i> &auml;r resultatet av n&aring;gra hastiga tangenttryckningar vid installation av mitt blogprogram. Mitt eget namn &auml;r Per Liedman.
 
-FÃ¶rutom att berÃ¤tta om diverse datortekniska detaljer sÃ¥ intresserar jag mig fÃ¶r programmering (de flesta sprÃ¥k utom <a href="http://www.perl.com">Perl</a>, som Ã¤r en fÃ¶rbannad avart till programsprÃ¥k), foto (gÃ¤rna svart-vitt, gÃ¤rna analogt, gÃ¤rna digitalt, gÃ¤rna med gamla kameror), musik och en del annat som jag inte minns just nu.
+F&ouml;rutom att ber&auml;tta om diverse datortekniska detaljer s&aring; intresserar jag mig f&ouml;r programmering (de flesta spr&aring;k utom <a href="http:&#47;&#47;www.perl.com">Perl<&#47;a>, som &auml;r en f&ouml;rbannad avart till programspr&aring;k), foto (g&auml;rna svart-vitt, g&auml;rna analogt, g&auml;rna digitalt, g&auml;rna med gamla kameror), musik och en del annat som jag inte minns just nu.
 
-Jag Ã¤r en varm fÃ¶respÃ¥kare fÃ¶r Ã¶ppen kÃ¤llkod i olika former, och kÃ¶r <a href="http://www.debian.org">Debian GNU/Linux</a> samt <a href="http://www.apple.com">Mac</a> om jag sjÃ¤lv fÃ¥r vÃ¤lja; ofta fÃ¥r jag dock inte det, och dÃ¥ blir det <a href="http://www.microsoft.com/windows">Windows</a> istÃ¤llet.
+Jag &auml;r en varm f&ouml;resp&aring;kare f&ouml;r &ouml;ppen k&auml;llkod i olika former, och k&ouml;r <a href="http:&#47;&#47;www.debian.org">Debian GNU&#47;Linux<&#47;a> samt <a href="http:&#47;&#47;www.apple.com">Mac<&#47;a> om jag sj&auml;lv f&aring;r v&auml;lja; ofta f&aring;r jag dock inte det, och d&aring; blir det <a href="http:&#47;&#47;www.microsoft.com&#47;windows">Windows<&#47;a> ist&auml;llet.

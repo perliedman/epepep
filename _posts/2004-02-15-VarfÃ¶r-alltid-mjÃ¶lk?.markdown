@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: VarfÃ¶r alltid mjÃ¶lk?
+title: Varf&ouml;r alltid mj&ouml;lk?
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-Ett spÃ¥r som en anonym gÃ¤st i mitt hem lÃ¤mnat efter sig i form av magnetpoesi pÃ¥ mitt kylskÃ¥p:
+Ett sp&aring;r som en anonym g&auml;st i mitt hem l&auml;mnat efter sig i form av magnetpoesi p&aring; mitt kylsk&aring;p:
 
-<i>VarfÃ¶r alltid mjÃ¶lk?</i> - ja, precis: varfÃ¶r tjatas det alltid om mjÃ¶lk frÃ¥n det att man fÃ¶ds (ok, just dÃ¥ kan det vÃ¤l vara ok) och upp till vuxen Ã¥lder? Starka ben i all Ã¤ra, men det Ã¤r ju pÃ¥ grÃ¤nsen till hjÃ¤rntvÃ¤tt.
+<i>Varf&ouml;r alltid mj&ouml;lk?<&#47;i> - ja, precis: varf&ouml;r tjatas det alltid om mj&ouml;lk fr&aring;n det att man f&ouml;ds (ok, just d&aring; kan det v&auml;l vara ok) och upp till vuxen &aring;lder? Starka ben i all &auml;ra, men det &auml;r ju p&aring; gr&auml;nsen till hj&auml;rntv&auml;tt.

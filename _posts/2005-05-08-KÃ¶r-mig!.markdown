@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: KÃ¶r mig!
+title: K&ouml;r mig!
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Snubblade via <a href="http://copyriot.blogspot.com/">Copyriot</a> Ã¶ver den egendomliga sidan <a href="http://www.runme.org/">runme.org</a>, och kÃ¤nde att den hade nÃ¥got jag letat efter. Om man sÃ¤ger "mjukvarukonst" och tvingar sig att inte bry sig om den rÃ¤tt pretantiÃ¶sa kÃ¤nslan som dyker upp, sÃ¥ hÃ¶r man ju att det Ã¤r spÃ¤nnande och nÃ¥got man vill grÃ¤va vidare i. Den mjukvarukonst som ryms pÃ¥ runme Ã¤r <a href="http://www.runme.org/feature/read/+notepadminus/+83/">meningslÃ¶s</a>, <a href="http://www.runme.org/project/+f0rwardpunk/">bisarr</a> eller kanske i vissa fall <a href="http://www.runme.org/feature/read/+ssslh/+76/">stÃ¶tande</a>. Det hÃ¤r Ã¤r mjukvara som det inte Ã¤r uppenbart hur man ska anvÃ¤nda, eller om den alls ska anvÃ¤ndas, nÃ¥got som stÃ¥r i bjÃ¤rt kontrast till alla andra program jag anvÃ¤nder, dÃ¤r just anvÃ¤ndbarhet och funktion Ã¤r yttersta fokus.
+Snubblade via <a href="http:&#47;&#47;copyriot.blogspot.com&#47;">Copyriot<&#47;a> &ouml;ver den egendomliga sidan <a href="http:&#47;&#47;www.runme.org&#47;">runme.org<&#47;a>, och k&auml;nde att den hade n&aring;got jag letat efter. Om man s&auml;ger "mjukvarukonst" och tvingar sig att inte bry sig om den r&auml;tt pretanti&ouml;sa k&auml;nslan som dyker upp, s&aring; h&ouml;r man ju att det &auml;r sp&auml;nnande och n&aring;got man vill gr&auml;va vidare i. Den mjukvarukonst som ryms p&aring; runme &auml;r <a href="http:&#47;&#47;www.runme.org&#47;feature&#47;read&#47;+notepadminus&#47;+83&#47;">meningsl&ouml;s<&#47;a>, <a href="http:&#47;&#47;www.runme.org&#47;project&#47;+f0rwardpunk&#47;">bisarr<&#47;a> eller kanske i vissa fall <a href="http:&#47;&#47;www.runme.org&#47;feature&#47;read&#47;+ssslh&#47;+76&#47;">st&ouml;tande<&#47;a>. Det h&auml;r &auml;r mjukvara som det inte &auml;r uppenbart hur man ska anv&auml;nda, eller om den alls ska anv&auml;ndas, n&aring;got som st&aring;r i bj&auml;rt kontrast till alla andra program jag anv&auml;nder, d&auml;r just anv&auml;ndbarhet och funktion &auml;r yttersta fokus.
 
-Fast mest Ã¤r det bara konstigt. Ã„r man van vid de kortfattade och koncisa mjukvarubeskrivningarna hos <a href="www.sourceforge.net">Sourceforge</a> eller <a href="www.freshmeat.net">Freshmeat</a> sÃ¥ Ã¤r runme:s beskrivningar...annorlunda. UngefÃ¤r som att gÃ¥ pÃ¥ konstmuseum - man fattar inte riktigt, men man kÃ¤nner att det Ã¤r bra.
+Fast mest &auml;r det bara konstigt. &Auml;r man van vid de kortfattade och koncisa mjukvarubeskrivningarna hos <a href="www.sourceforge.net">Sourceforge<&#47;a> eller <a href="www.freshmeat.net">Freshmeat<&#47;a> s&aring; &auml;r runme:s beskrivningar...annorlunda. Ungef&auml;r som att g&aring; p&aring; konstmuseum - man fattar inte riktigt, men man k&auml;nner att det &auml;r bra.
 
-Mitt favorit hittills Ã¤r lÃ¤ttsmÃ¤lta <a href="http://douweosinga.com/projects/googletalk">Google Talk</a>. Jag gillar meningar som <i>"i hate microsoft I have a dream that one day this nation will rise up and be COUNTED/ making Music, Making meaning"</i>.
+Mitt favorit hittills &auml;r l&auml;ttsm&auml;lta <a href="http:&#47;&#47;douweosinga.com&#47;projects&#47;googletalk">Google Talk<&#47;a>. Jag gillar meningar som <i>"i hate microsoft I have a dream that one day this nation will rise up and be COUNTED&#47; making Music, Making meaning"<&#47;i>.

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: BegreppsfÃ¶rvirring
+title: Begreppsf&ouml;rvirring
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,9 +14,9 @@ categories: []
 tags: []
 comments: []
 ---
-En kort reflektion Ã¶ver medias lÃ¤tta begreppsfÃ¶rvirring. <i>Fildelning</i> och <i>piratkopiering</i> Ã¤r tvÃ¥ helt olika saker. Fildelning Ã¤r, som namnet tÃ¤mligen tydligt sÃ¤ger, helt enkelt system fÃ¶r att dela med sig av filer frÃ¥n en dator till en annan; fildelning Ã¤r nÃ¥got man Ã¤gnar sig Ã¥t i datornÃ¤tverket pÃ¥ jobbet, nÃ¤r man skickar mail-attachments till sina vÃ¤nner eller nÃ¤r man laddar ner den senaste Britney Spears-skivan med <a href="http://www.bittorrent.com/">BitTorrent</a>. Att pÃ¥stÃ¥ att fildelning Ã¤r olagligt eller ens nÃ¥got suspekt Ã¤r alltsÃ¥ direkt felaktigt eller korkat. DÃ¤remot kan man ha synpunkter pÃ¥ lagligheten beroende pÃ¥ <i>vilka</i> filer som delas: det sista av fÃ¶regÃ¥ende exempel kan t.ex. mycket vÃ¤l falla i en juridiskt tveksam kategori. Som det ser ut idag anvÃ¤nds dock fildelning som den frÃ¤msta transportvÃ¤gen fÃ¶r piratkopieringen, vilket olyckligt har lett till att fildelning numera i mÃ¥ngas Ã¶ron Ã¤r synonymt med piratkopiering.
+En kort reflektion &ouml;ver medias l&auml;tta begreppsf&ouml;rvirring. <i>Fildelning<&#47;i> och <i>piratkopiering<&#47;i> &auml;r tv&aring; helt olika saker. Fildelning &auml;r, som namnet t&auml;mligen tydligt s&auml;ger, helt enkelt system f&ouml;r att dela med sig av filer fr&aring;n en dator till en annan; fildelning &auml;r n&aring;got man &auml;gnar sig &aring;t i datorn&auml;tverket p&aring; jobbet, n&auml;r man skickar mail-attachments till sina v&auml;nner eller n&auml;r man laddar ner den senaste Britney Spears-skivan med <a href="http:&#47;&#47;www.bittorrent.com&#47;">BitTorrent<&#47;a>. Att p&aring;st&aring; att fildelning &auml;r olagligt eller ens n&aring;got suspekt &auml;r allts&aring; direkt felaktigt eller korkat. D&auml;remot kan man ha synpunkter p&aring; lagligheten beroende p&aring; <i>vilka<&#47;i> filer som delas: det sista av f&ouml;reg&aring;ende exempel kan t.ex. mycket v&auml;l falla i en juridiskt tveksam kategori. Som det ser ut idag anv&auml;nds dock fildelning som den fr&auml;msta transportv&auml;gen f&ouml;r piratkopieringen, vilket olyckligt har lett till att fildelning numera i m&aring;ngas &ouml;ron &auml;r synonymt med piratkopiering.
 
-Det finns fullt av glasklart lagliga och hÃ¶gst anvÃ¤ndbara tillÃ¤mpningar fÃ¶r fildelningssystem sÃ¥ som tidigare nÃ¤mnda BitTorrent Ã¤ven i en vÃ¤rld utan piratkopiering. Kanske en mer begrÃ¤nsad anvÃ¤ndning Ã¤n idag, men Ã¤ndÃ¥ hÃ¶gst pÃ¥taglig. En stor mÃ¤ngd fri programvara sprids idag via fildelning med BitTorrent, och ska dÃ¤rfÃ¶r inte fÃ¶rvÃ¤xlas med nÃ¥got moraliskt tveksamt.
+Det finns fullt av glasklart lagliga och h&ouml;gst anv&auml;ndbara till&auml;mpningar f&ouml;r fildelningssystem s&aring; som tidigare n&auml;mnda BitTorrent &auml;ven i en v&auml;rld utan piratkopiering. Kanske en mer begr&auml;nsad anv&auml;ndning &auml;n idag, men &auml;nd&aring; h&ouml;gst p&aring;taglig. En stor m&auml;ngd fri programvara sprids idag via fildelning med BitTorrent, och ska d&auml;rf&ouml;r inte f&ouml;rv&auml;xlas med n&aring;got moraliskt tveksamt.
 
-Exempel pÃ¥ dÃ¤r det rÃ¶rts ihop flitigt:
-<a href="http://www.dn.se/DNet/jsp/polopoly.jsp?d=1042&a=395332">Mp fÃ¶r fildelning pÃ¥ nÃ¤tet</a> (Varken Mp, C eller nÃ¥got annat parti fÃ¶r den delen, har nÃ¥got emot att man delar med sig av filer vars innehÃ¥ll inte Ã¤r upphovsrÃ¤ttsskyddat, vad jag fÃ¶rstÃ¥r - lagfÃ¶rslaget har alltsÃ¥ inte med fildelning i sig att gÃ¶ra, Ã¤ven om det Ã¤r ett omrÃ¥de som blir berÃ¶rt av lagen)
+Exempel p&aring; d&auml;r det r&ouml;rts ihop flitigt:
+<a href="http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=1042&a=395332">Mp f&ouml;r fildelning p&aring; n&auml;tet<&#47;a> (Varken Mp, C eller n&aring;got annat parti f&ouml;r den delen, har n&aring;got emot att man delar med sig av filer vars inneh&aring;ll inte &auml;r upphovsr&auml;ttsskyddat, vad jag f&ouml;rst&aring;r - lagf&ouml;rslaget har allts&aring; inte med fildelning i sig att g&ouml;ra, &auml;ven om det &auml;r ett omr&aring;de som blir ber&ouml;rt av lagen)

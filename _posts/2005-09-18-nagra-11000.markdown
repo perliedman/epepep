@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: NÃ¥gra tusendelar
+title: N&aring;gra tusendelar
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -22,12 +22,13 @@ comments:
     MjAwNS0wOS0yMCAxMDo1NTo0MiArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0yMCAxMDo1NTo0MiArMDIwMA==
-  content: ! 'Jag kÃ¤nner att jag har glÃ¶mt att kommentera den hÃ¤r jÃ¤ttenyheten.
-    Jag gÃ¶r det nu dÃ¥: Bortsett frÃ¥n att bilderna ju givetvis Ã¤r skitbra sÃ¥ Ã¤r
-    jag imponerad Ã¶ver genomfÃ¶randet. Har du byggt systemet sjÃ¤lv eller Ã¤r det
-    nÃ¥got befintligt som Ã¤r vÃ¤lmoddat? Det Ã¤r nog den bÃ¤sta fotobloggslÃ¶sning
-    jag har sett. Andra fotobloggar brukar vara fÃ¶r mycket blogg och fÃ¶r lite foto,
-    det vill sÃ¤ga bara lite mindre text och bara lite mer foto Ã¤n andra bloggar.'
+  content: ! 'Jag k&auml;nner att jag har gl&ouml;mt att kommentera den h&auml;r j&auml;ttenyheten.
+    Jag g&ouml;r det nu d&aring;: Bortsett fr&aring;n att bilderna ju givetvis &auml;r
+    skitbra s&aring; &auml;r jag imponerad &ouml;ver genomf&ouml;randet. Har du byggt
+    systemet sj&auml;lv eller &auml;r det n&aring;got befintligt som &auml;r v&auml;lmoddat?
+    Det &auml;r nog den b&auml;sta fotobloggsl&ouml;sning jag har sett. Andra fotobloggar
+    brukar vara f&ouml;r mycket blogg och f&ouml;r lite foto, det vill s&auml;ga bara
+    lite mindre text och bara lite mer foto &auml;n andra bloggar.'
 - id: 17
   author: Per
   author_email: ''
@@ -36,13 +37,14 @@ comments:
     MjAwNS0wOS0yMCAyMzo1NjoxMiArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0yMCAyMzo1NjoxMiArMDIwMA==
-  content: ! "Tack fÃ¶r dessa Ã¶versvallande ord. Jag funderade lÃ¤nge pÃ¥ att sjÃ¤lv
-    mixtra ihop nÃ¥got, men insÃ¥g att det bara skulle bli fÃ¶r tidsÃ¶dande.\r\n\r\nIstÃ¤llet
-    blev det PixelPost (http://www.pixelpost.org/) som fick hjÃ¤lpa mig. Det Ã¤r faktiskt
-    deras grundtema med nÃ¥gra lÃ¤ttare modfikationer som Ã¤r sÃ¥ stilrent. Mycket
-    bra. Annat var mindre bra, men med lite trixande sÃ¥ tror jag mig nu ha det under
-    kontroll.\r\n\r\nSka fÃ¶rhoppningsvis justera nÃ¥gra saker med layouten de nÃ¤rmaste
-    dagarna. NÃ¥gra stÃ¶righeter och detaljer kvar."
+  content: ! "Tack f&ouml;r dessa &ouml;versvallande ord. Jag funderade l&auml;nge
+    p&aring; att sj&auml;lv mixtra ihop n&aring;got, men ins&aring;g att det bara
+    skulle bli f&ouml;r tids&ouml;dande.\r\n\r\nIst&auml;llet blev det PixelPost (http:&#47;&#47;www.pixelpost.org&#47;)
+    som fick hj&auml;lpa mig. Det &auml;r faktiskt deras grundtema med n&aring;gra
+    l&auml;ttare modfikationer som &auml;r s&aring; stilrent. Mycket bra. Annat var
+    mindre bra, men med lite trixande s&aring; tror jag mig nu ha det under kontroll.\r\n\r\nSka
+    f&ouml;rhoppningsvis justera n&aring;gra saker med layouten de n&auml;rmaste dagarna.
+    N&aring;gra st&ouml;righeter och detaljer kvar."
 - id: 18
   author: Johannes
   author_email: ''
@@ -51,8 +53,8 @@ comments:
     MjAwNS0wOS0yMSAwODoxMToyNSArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0yMSAwODoxMToyNSArMDIwMA==
-  content: Ja, Pixelpost sÃ¥g ju klart snyggt ut frÃ¥n bÃ¶rjan. DÃ¥ tar jag tillbaka
-    lite av berÃ¶mmet. :) Men det var ju duktigt framletat.
+  content: Ja, Pixelpost s&aring;g ju klart snyggt ut fr&aring;n b&ouml;rjan. D&aring;
+    tar jag tillbaka lite av ber&ouml;mmet. :) Men det var ju duktigt framletat.
 - id: 19
   author: Hemma Hos 2.0
   author_email: ''
@@ -61,9 +63,10 @@ comments:
     MjAwNS0wOS0yMiAxMzoxNTo0MCArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0yMiAxMzoxNTo0MCArMDIwMA==
-  content: ! '...att Per Liedman gÃ¥r frÃ¥n klarhet till klarhet nufÃ¶rtiden. Nu lanserar
-    han NÃ¥gra Tusendelar Denivit. Fotobloggen som pÃ¥ ett utmÃ¤rkt sÃ¤tt presenterar
-    nya bilder och lyfter fram ganmla favoriter ur den digra skÃ¶rden.'
+  content: ! '...att Per Liedman g&aring;r fr&aring;n klarhet till klarhet nuf&ouml;rtiden.
+    Nu lanserar han N&aring;gra Tusendelar Denivit. Fotobloggen som p&aring; ett utm&auml;rkt
+    s&auml;tt presenterar nya bilder och lyfter fram ganmla favoriter ur den digra
+    sk&ouml;rden.'
 - id: 20
   author: lisa
   author_email: ''
@@ -72,11 +75,12 @@ comments:
     MjAwNS0wOS0yMyAwOTo0ODo0OCArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0yMyAwOTo0ODo0OCArMDIwMA==
-  content: snygg fotoblogg. gillar i synnerhet 'Dagen dÃ¥ mormor vÃ¤lte'. jag Ã¶nskar
-    jag var tillrÃ¤ckligt strukturerad och diciplinerad fÃ¶r attt klara att underhÃ¥lla
-    en fotoblogg, men jag Ã¤r attans bra pÃ¥ att glÃ¶mma bort att uppdatera. jag ska
-    nog inte ens erkÃ¤nna hur mÃ¥nga gÃ¥nger jag ens fÃ¶rsÃ¶kt..haha
+  content: snygg fotoblogg. gillar i synnerhet 'Dagen d&aring; mormor v&auml;lte'.
+    jag &ouml;nskar jag var tillr&auml;ckligt strukturerad och diciplinerad f&ouml;r
+    attt klara att underh&aring;lla en fotoblogg, men jag &auml;r attans bra p&aring;
+    att gl&ouml;mma bort att uppdatera. jag ska nog inte ens erk&auml;nna hur m&aring;nga
+    g&aring;nger jag ens f&ouml;rs&ouml;kt..haha
 ---
-Jag har bÃ¶rjat fotoblogga: <a href="http://www.liedman.net/foto/">NÃ¥gra tusendelar denivit</a>. Ytterligare en site som man kan lÃ¥te fÃ¶rfalla och glÃ¶mma bort att uppdatera.
+Jag har b&ouml;rjat fotoblogga: <a href="http:&#47;&#47;www.liedman.net&#47;foto&#47;">N&aring;gra tusendelar denivit<&#47;a>. Ytterligare en site som man kan l&aring;te f&ouml;rfalla och gl&ouml;mma bort att uppdatera.
 
-Konventionella fotoalbum pÃ¥ nÃ¤tet, som jag anvÃ¤nt nÃ¥gra Ã¥r nu, Ã¤r inte sÃ¥ roliga. Iallafall inte fÃ¶r att fÃ¶rsÃ¶ka visa nya bilder. Det blir snabbt alldeles fÃ¶r mÃ¥nga bilder, det Ã¤r svÃ¥rt fÃ¶r utomstÃ¥ende att hitta vad som Ã¤r nytt, etc. Det hjÃ¤lper ju inte till att <a href="http://gallery.menalto.com/">Gallery</a>, som jag anvÃ¤nt hittills, kÃ¤nns vÃ¤ldigt konservativt vad gÃ¤ller navigering och organistionsmÃ¶jligheter. Det duger fÃ¶rstÃ¥s bra fÃ¶r sjÃ¤lva fÃ¶rvaringen av personliga foton. <a href="http://www.flickr.com">Flickr</a> Ã¤r ju ett alternativ, och jag gillar skarpt deras tankar om hur man hoppar mellan olika kategorier och etiketter, men faller pÃ¥ att det inte Ã¤r nÃ¥got jag sjÃ¤lv kan kontrollera. Jag vill ha mina foton och webbapplikationen pÃ¥ min egen dator. Jag hoppas dÃ¤rfÃ¶r att fotobloggen kan bli ett lite smidigare och flexiblare alternativ att fÃ¶rsÃ¶ka visa nya foton.
+Konventionella fotoalbum p&aring; n&auml;tet, som jag anv&auml;nt n&aring;gra &aring;r nu, &auml;r inte s&aring; roliga. Iallafall inte f&ouml;r att f&ouml;rs&ouml;ka visa nya bilder. Det blir snabbt alldeles f&ouml;r m&aring;nga bilder, det &auml;r sv&aring;rt f&ouml;r utomst&aring;ende att hitta vad som &auml;r nytt, etc. Det hj&auml;lper ju inte till att <a href="http:&#47;&#47;gallery.menalto.com&#47;">Gallery<&#47;a>, som jag anv&auml;nt hittills, k&auml;nns v&auml;ldigt konservativt vad g&auml;ller navigering och organistionsm&ouml;jligheter. Det duger f&ouml;rst&aring;s bra f&ouml;r sj&auml;lva f&ouml;rvaringen av personliga foton. <a href="http:&#47;&#47;www.flickr.com">Flickr<&#47;a> &auml;r ju ett alternativ, och jag gillar skarpt deras tankar om hur man hoppar mellan olika kategorier och etiketter, men faller p&aring; att det inte &auml;r n&aring;got jag sj&auml;lv kan kontrollera. Jag vill ha mina foton och webbapplikationen p&aring; min egen dator. Jag hoppas d&auml;rf&ouml;r att fotobloggen kan bli ett lite smidigare och flexiblare alternativ att f&ouml;rs&ouml;ka visa nya foton.

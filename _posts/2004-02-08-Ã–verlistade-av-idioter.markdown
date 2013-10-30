@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Ã–verlistade av idioter
+title: ! '&Ouml;verlistade av idioter'
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,7 +14,7 @@ categories: []
 tags: []
 comments: []
 ---
-En intressant historia om hur spam-tjommarna (idioterna i rubriken) kommit pÃ¥ ett vÃ¤ldigt fiffigt sÃ¤tt att Ã¶verlista Hotmail och Yahoo:s system fÃ¶r att fÃ¶rhindra automatgenerering av mailkonton hos dem (ni vet de dÃ¤r siffrorna pÃ¥ en bild som man ska kÃ¤nna igen och mata in):
-<a href="http://boingboing.net/2004_01_01_archive.html#107525288693964966">http://boingboing.net/2004_01_01_archive.html#107525288693964966</a>
+En intressant historia om hur spam-tjommarna (idioterna i rubriken) kommit p&aring; ett v&auml;ldigt fiffigt s&auml;tt att &ouml;verlista Hotmail och Yahoo:s system f&ouml;r att f&ouml;rhindra automatgenerering av mailkonton hos dem (ni vet de d&auml;r siffrorna p&aring; en bild som man ska k&auml;nna igen och mata in):
+<a href="http:&#47;&#47;boingboing.net&#47;2004_01_01_archive.html#107525288693964966">http:&#47;&#47;boingboing.net&#47;2004_01_01_archive.html#107525288693964966<&#47;a>
 
-SvÃ¥rt att inte bli fascinerad av hur irriterande lÃ¤tt man kan komma runt till synes smarta lÃ¶sningar.
+Sv&aring;rt att inte bli fascinerad av hur irriterande l&auml;tt man kan komma runt till synes smarta l&ouml;sningar.

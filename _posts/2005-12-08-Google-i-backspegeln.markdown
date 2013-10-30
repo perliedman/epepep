@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Antagligen var jag nÃ¥gon annanstans nÃ¤r alla uppmÃ¤rksammade det hÃ¤r, fÃ¶r annars har en vÃ¤ldig massa mÃ¤nniskor gÃ¥tt miste om en intressant blogg fylld av intressant lÃ¤sning: <a href="http://xooglers.blogspot.com/">Xooglers</a>.
+Antagligen var jag n&aring;gon annanstans n&auml;r alla uppm&auml;rksammade det h&auml;r, f&ouml;r annars har en v&auml;ldig massa m&auml;nniskor g&aring;tt miste om en intressant blogg fylld av intressant l&auml;sning: <a href="http:&#47;&#47;xooglers.blogspot.com&#47;">Xooglers<&#47;a>.
 
-Ron & Doug, f.d. Google-anstÃ¤lld berÃ¤ttar nyanserat, inspirerat och fÃ¤ngslande om sina erfarenheter frÃ¥n tiden pÃ¥ Google. Ã„r man det minsta teknikintresserad eller bara Google-fan sÃ¥ Ã¤r det omistligt. Och misstanken att det skulle rÃ¶ra sig om att bara baktala en fÃ¶re detta arbetsgivare kommer lyckligtvis pÃ¥ skam.
+Ron & Doug, f.d. Google-anst&auml;lld ber&auml;ttar nyanserat, inspirerat och f&auml;ngslande om sina erfarenheter fr&aring;n tiden p&aring; Google. &Auml;r man det minsta teknikintresserad eller bara Google-fan s&aring; &auml;r det omistligt. Och misstanken att det skulle r&ouml;ra sig om att bara baktala en f&ouml;re detta arbetsgivare kommer lyckligtvis p&aring; skam.
 
-(Via <a href="http://www.graphicpush.com/">graphicPUSH</a>.)
+(Via <a href="http:&#47;&#47;www.graphicpush.com&#47;">graphicPUSH<&#47;a>.)

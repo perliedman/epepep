@@ -7,12 +7,13 @@ author: Per Liedman
 author_login: per
 author_email: per@liedman.net
 author_url: http://per.liedman.net
-excerpt: ! "Andreas Malm, som man numera lyckligtvis inte bara kan lÃ¤sa i <a href=\"http://www.arbetaren.se\">Arbetaren</a>
-  utan Ã¤ven i <a href=\"http://www.dn.se\">DN</a>, har skrivit <a href=\"http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=442624\">tvÃ¥</a>
-  <a href=\"http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=442579\">artiklar</a>
-  om vÃ¥r anvÃ¤ndning av fossila brÃ¤nslen. De borde vara obligatorisk lÃ¤sning fÃ¶r
-  var och en i vÃ¤stvÃ¤rlden, eftersom de sakligt belyser den orimliga situation vi
-  skapat genom vÃ¥r oljekonsumtion.\r\n\r\n\n"
+excerpt: ! "Andreas Malm, som man numera lyckligtvis inte bara kan l&auml;sa i <a
+  href=\"http:&#47;&#47;www.arbetaren.se\">Arbetaren<&#47;a> utan &auml;ven i <a href=\"http:&#47;&#47;www.dn.se\">DN<&#47;a>,
+  har skrivit <a href=\"http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=1058&a=442624\">tv&aring;<&#47;a>
+  <a href=\"http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=1058&a=442579\">artiklar<&#47;a>
+  om v&aring;r anv&auml;ndning av fossila br&auml;nslen. De borde vara obligatorisk
+  l&auml;sning f&ouml;r var och en i v&auml;stv&auml;rlden, eftersom de sakligt belyser
+  den orimliga situation vi skapat genom v&aring;r oljekonsumtion.\r\n\r\n\n"
 wordpress_id: 32
 wordpress_url: http://www.liedman.netmilj&amp;#246;/bensinstopp/
 date: 2005-08-01 00:53:20.000000000 +02:00
@@ -27,17 +28,17 @@ comments:
     MjAwNS0wOC0yMyAyMjo1NjoxOSArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOC0yMyAyMjo1NjoxOSArMDIwMA==
-  content: NÃ¥gra som kommer att skratta gott nÃ¤r vÃ¤rldens oljetillgÃ¥ngar sinar
-    Ã¤r Amish-folket, i den mÃ¥n de skrattar gott Ã¶verhuvudtaget (de har oftast sett
-    allvarliga ut pÃ¥ de bilder jag sett). Med en befolkning pÃ¥ ungefÃ¤r 230 000
-    mÃ¤nniskor i vÃ¤rldens energihungri
+  content: N&aring;gra som kommer att skratta gott n&auml;r v&auml;rldens oljetillg&aring;ngar
+    sinar &auml;r Amish-folket, i den m&aring;n de skrattar gott &ouml;verhuvudtaget
+    (de har oftast sett allvarliga ut p&aring; de bilder jag sett). Med en befolkning
+    p&aring; ungef&auml;r 230 000 m&auml;nniskor i v&auml;rldens energihungri
 ---
-Andreas Malm, som man numera lyckligtvis inte bara kan lÃ¤sa i <a href="http://www.arbetaren.se">Arbetaren</a> utan Ã¤ven i <a href="http://www.dn.se">DN</a>, har skrivit <a href="http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=442624">tvÃ¥</a> <a href="http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=442579">artiklar</a> om vÃ¥r anvÃ¤ndning av fossila brÃ¤nslen. De borde vara obligatorisk lÃ¤sning fÃ¶r var och en i vÃ¤stvÃ¤rlden, eftersom de sakligt belyser den orimliga situation vi skapat genom vÃ¥r oljekonsumtion.
+Andreas Malm, som man numera lyckligtvis inte bara kan l&auml;sa i <a href="http:&#47;&#47;www.arbetaren.se">Arbetaren<&#47;a> utan &auml;ven i <a href="http:&#47;&#47;www.dn.se">DN<&#47;a>, har skrivit <a href="http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=1058&a=442624">tv&aring;<&#47;a> <a href="http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=1058&a=442579">artiklar<&#47;a> om v&aring;r anv&auml;ndning av fossila br&auml;nslen. De borde vara obligatorisk l&auml;sning f&ouml;r var och en i v&auml;stv&auml;rlden, eftersom de sakligt belyser den orimliga situation vi skapat genom v&aring;r oljekonsumtion.
 
 
 <a id="more"></a><a id="more-32"></a>
-Allt sedan jag lÃ¤ste om <a href="http://www.nyteknik.se/pub/ipsart.asp?art_id=26843">nya uppskattningar av vÃ¤rldens oljetillgÃ¥ngar</a> fÃ¶r nÃ¥gra Ã¥r sedan, har jag med stigande fÃ¶rundran lagt mÃ¤rke till den mycket stillsamma debatt som trots situationen bedrivs pÃ¥ omrÃ¥det. Det faktum att vi inom bara nÃ¥gra decennier skulle kunna stÃ¥ praktiskt taget utan olja och idag Ã¤r helt utan tillfredstÃ¤llande ersÃ¤ttning borde vara hÃ¶gsta prioritet fÃ¶r sÃ¥vÃ¤l statsledningar, nÃ¤ringsliv som privatpersoner, men bortsett frÃ¥n nÃ¥gra anmÃ¤rkningar hÃ¤r och dÃ¤r verkar diskussionen egentligen mest gÃ¤lla exakt nÃ¤r oljan kommer att ta slut, snarare Ã¤n vad vi ska gÃ¶ra Ã¥t det nÃ¤r vi verkligen Ã¤r dÃ¤r, oavsett om det rÃ¶r sig om 10, 15 eller 50 Ã¥r.
+Allt sedan jag l&auml;ste om <a href="http:&#47;&#47;www.nyteknik.se&#47;pub&#47;ipsart.asp?art_id=26843">nya uppskattningar av v&auml;rldens oljetillg&aring;ngar<&#47;a> f&ouml;r n&aring;gra &aring;r sedan, har jag med stigande f&ouml;rundran lagt m&auml;rke till den mycket stillsamma debatt som trots situationen bedrivs p&aring; omr&aring;det. Det faktum att vi inom bara n&aring;gra decennier skulle kunna st&aring; praktiskt taget utan olja och idag &auml;r helt utan tillfredst&auml;llande ers&auml;ttning borde vara h&ouml;gsta prioritet f&ouml;r s&aring;v&auml;l statsledningar, n&auml;ringsliv som privatpersoner, men bortsett fr&aring;n n&aring;gra anm&auml;rkningar h&auml;r och d&auml;r verkar diskussionen egentligen mest g&auml;lla exakt n&auml;r oljan kommer att ta slut, snarare &auml;n vad vi ska g&ouml;ra &aring;t det n&auml;r vi verkligen &auml;r d&auml;r, oavsett om det r&ouml;r sig om 10, 15 eller 50 &aring;r.
 
-Andreas Malm reder ut begreppen, och gÃ¶r det med sÃ¥dan effektivitet att det Ã¤r svÃ¥rt att inte bli riktigt missmodig infÃ¶r vÃ¥ra framtidsutsikter pÃ¥ kuppen. Den nivÃ¥ med vilken vi suger ut naturens lager av fossila brÃ¤nslen idag Ã¤r nÃ¤mligen sÃ¥ formidabel att det Ã¤r svÃ¥rt att se nÃ¥gon mÃ¶jlighet att ersÃ¤tta den med de "fÃ¶rnyelsebara" energikÃ¤llor som idag Ã¤r pÃ¥ tapeten (frÃ¤mst el och etanol, vad jag vet): <i>"Simms pÃ¥pekar att de fossila brÃ¤nslena nu fÃ¶rbrukas en miljon gÃ¥nger snabbare Ã¤n den tid fotosyntesen tog pÃ¥ sig fÃ¶r att alstra dem."</i> - att ersÃ¤tta oljan med fÃ¶rnyelsebara energikÃ¤llor stÃ¤ller alltsÃ¥ orimliga krav pÃ¥ produktionstakten, Ã¥tminstone sÃ¥ lÃ¤nge vi antar att de ska produceras med samma fotosyntes, vilket etanol fÃ¶r drivmedel gÃ¶r. Elproduktion Ã¤r knappast ett mindre komplicerat Ã¤mne, och vi har redan idag problem att tÃ¤cka vÃ¥ra behov utan inblandning av kol- och oljetillgÃ¥ngar.
+Andreas Malm reder ut begreppen, och g&ouml;r det med s&aring;dan effektivitet att det &auml;r sv&aring;rt att inte bli riktigt missmodig inf&ouml;r v&aring;ra framtidsutsikter p&aring; kuppen. Den niv&aring; med vilken vi suger ut naturens lager av fossila br&auml;nslen idag &auml;r n&auml;mligen s&aring; formidabel att det &auml;r sv&aring;rt att se n&aring;gon m&ouml;jlighet att ers&auml;tta den med de "f&ouml;rnyelsebara" energik&auml;llor som idag &auml;r p&aring; tapeten (fr&auml;mst el och etanol, vad jag vet): <i>"Simms p&aring;pekar att de fossila br&auml;nslena nu f&ouml;rbrukas en miljon g&aring;nger snabbare &auml;n den tid fotosyntesen tog p&aring; sig f&ouml;r att alstra dem."<&#47;i> - att ers&auml;tta oljan med f&ouml;rnyelsebara energik&auml;llor st&auml;ller allts&aring; orimliga krav p&aring; produktionstakten, &aring;tminstone s&aring; l&auml;nge vi antar att de ska produceras med samma fotosyntes, vilket etanol f&ouml;r drivmedel g&ouml;r. Elproduktion &auml;r knappast ett mindre komplicerat &auml;mne, och vi har redan idag problem att t&auml;cka v&aring;ra behov utan inblandning av kol- och oljetillg&aring;ngar.
 
-Vi lever helt enkelt Ã¶ver vÃ¥r budget, och har fÃ¶rst nu bÃ¶rjat kontrollera saldot pÃ¥ det enorma konto av fossila brÃ¤nslen som fÃ¶regÃ¥ende generationer lÃ¤mnat efter sig - det visar sig att det minskar i en alarmerande och svÃ¥rkompenserbar takt.
+Vi lever helt enkelt &ouml;ver v&aring;r budget, och har f&ouml;rst nu b&ouml;rjat kontrollera saldot p&aring; det enorma konto av fossila br&auml;nslen som f&ouml;reg&aring;ende generationer l&auml;mnat efter sig - det visar sig att det minskar i en alarmerande och sv&aring;rkompenserbar takt.

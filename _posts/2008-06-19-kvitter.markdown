@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-HÃ¤r verkar det inte hÃ¤nda mycket, men om ni Ã¤r vÃ¤ldigt intresserad av vad jag hÃ¥ller pÃ¥ med kan ni numera fÃ¶rsÃ¶ka fÃ¶lja mig pÃ¥ <a href="http://twitter.com/liedman">Twitter</a>.
+H&auml;r verkar det inte h&auml;nda mycket, men om ni &auml;r v&auml;ldigt intresserad av vad jag h&aring;ller p&aring; med kan ni numera f&ouml;rs&ouml;ka f&ouml;lja mig p&aring; <a href="http:&#47;&#47;twitter.com&#47;liedman">Twitter<&#47;a>.

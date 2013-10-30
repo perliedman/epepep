@@ -21,9 +21,9 @@ comments:
     MjAwNi0xMC0zMSAyMDowMTo1MyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0zMSAyMDowMTo1MyArMDEwMA==
-  content: ! 'HÃ¤r sitter jag i godan ro och surfar nya lÃ¤nkar pÃ¥ vÃ¤nners bloggar,
-    hittar en oemotstÃ¥ndlig titel som mÃ¥ste fÃ¶ljas upp och konstaterar att det
-    hela kÃ¤nns bekant: inte bara det att jag tror jag sett fotot fÃ¶rut, men visst
-    Ã¤r det konstigt att det finns en l'
+  content: ! 'H&auml;r sitter jag i godan ro och surfar nya l&auml;nkar p&aring; v&auml;nners
+    bloggar, hittar en oemotst&aring;ndlig titel som m&aring;ste f&ouml;ljas upp och
+    konstaterar att det hela k&auml;nns bekant: inte bara det att jag tror jag sett
+    fotot f&ouml;rut, men visst &auml;r det konstigt att det finns en l'
 ---
-Dagens festligaste: Mr Muscle PropplÃ¶sare; frÃ¤ser, ryker, luktar fÃ¶rbluffande illa utan att skÃ¤mmas, och gÃ¶r vÃ¤ldigt rent. FÃ¥ saker ger Ã¥ngest som ett badkar som vÃ¤grar tÃ¶mmas efter anvÃ¤ndning.
+Dagens festligaste: Mr Muscle Proppl&ouml;sare; fr&auml;ser, ryker, luktar f&ouml;rbluffande illa utan att sk&auml;mmas, och g&ouml;r v&auml;ldigt rent. F&aring; saker ger &aring;ngest som ett badkar som v&auml;grar t&ouml;mmas efter anv&auml;ndning.

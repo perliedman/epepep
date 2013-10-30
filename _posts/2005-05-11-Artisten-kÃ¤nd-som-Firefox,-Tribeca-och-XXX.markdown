@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Artisten kÃ¤nd som Firefox, Tribeca och XXX
+title: Artisten k&auml;nd som Firefox, Tribeca och XXX
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -21,10 +21,11 @@ comments:
     MjAwNS0wOS0xNCAwODo1ODo0MyArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0xNCAwODo1ODo0MyArMDIwMA==
-  content: Jag kom att tÃ¤nka pÃ¥ den hÃ¤r gamla posten nÃ¤r jag lÃ¤ste Metro i morse,
-    dÃ¤r duon Cat5 intervjuades. Jag tyckar att sjÃ¤lva namnet Ã¤r rÃ¤tt snyggt, och
-    det Ã¤r ju rÃ¤tt kooolt att uppkalla sig efter en anvÃ¤ndbar kabel. Men, hallÃ¥,
-    man fÃ¥r en och annan teknisk specifikation nÃ¤r man googlar pÃ¥ det.
+  content: Jag kom att t&auml;nka p&aring; den h&auml;r gamla posten n&auml;r jag
+    l&auml;ste Metro i morse, d&auml;r duon Cat5 intervjuades. Jag tyckar att sj&auml;lva
+    namnet &auml;r r&auml;tt snyggt, och det &auml;r ju r&auml;tt kooolt att uppkalla
+    sig efter en anv&auml;ndbar kabel. Men, hall&aring;, man f&aring;r en och annan
+    teknisk specifikation n&auml;r man googlar p&aring; det.
 - id: 2
   author: Per
   author_email: ''
@@ -33,9 +34,9 @@ comments:
     MjAwNS0wOS0xNCAxNzoyODoxOCArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0xNCAxNzoyODoxOCArMDIwMA==
-  content: ! "Helt klart ett coolt namn, men likaledes hopplÃ¶st ur sÃ¶ksynpunkt,
-    som sagt.\r\n\r\nF.Ã¶. hittade jag igÃ¥r en bild pÃ¥ artisten som heter Firefox:
-    http://www.fotosidan.se/gallery/viewpic.htm?set=lp&ID=472150"
+  content: ! "Helt klart ett coolt namn, men likaledes hoppl&ouml;st ur s&ouml;ksynpunkt,
+    som sagt.\r\n\r\nF.&ouml;. hittade jag ig&aring;r en bild p&aring; artisten som
+    heter Firefox: http:&#47;&#47;www.fotosidan.se&#47;gallery&#47;viewpic.htm?set=lp&ID=472150"
 - id: 3
   author: Johannes
   author_email: ''
@@ -44,13 +45,13 @@ comments:
     MjAwNS0wOS0xNSAwODo1MTozMyArMDIwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0xNSAwODo1MTozMyArMDIwMA==
-  content: Jag hade ingen koll pÃ¥ vem Firefox var. Jag blev rÃ¤tt fÃ¶rvÃ¥nad, trodde
-    att det var  nÃ¥t mer high tech.
+  content: Jag hade ingen koll p&aring; vem Firefox var. Jag blev r&auml;tt f&ouml;rv&aring;nad,
+    trodde att det var  n&aring;t mer high tech.
 ---
-Mer uppsnappat frÃ¥n <a href="http://copyriot.blogspot.com/">Copyriot</a>, den blog dÃ¤r jag oftast hittar spÃ¤nnande saker. <a href="http://www.blogger.com/profile/3213372">Rasmus</a> sÃ¤ger att artister mÃ¥ste bÃ¶rja <a href="http://copyriot.blogspot.com/2005/05/agoogliska-artistnamn.html">tÃ¤nka pÃ¥ Google nÃ¤r de vÃ¤ljer sitt namn</a>, och nÃ¤mner som exempel att <a href="http://www.google.com/search?q=firefox"</a> Ã¤r ett utomordentligt dÃ¥ligt valt sÃ¥dant.
+Mer uppsnappat fr&aring;n <a href="http:&#47;&#47;copyriot.blogspot.com&#47;">Copyriot<&#47;a>, den blog d&auml;r jag oftast hittar sp&auml;nnande saker. <a href="http:&#47;&#47;www.blogger.com&#47;profile&#47;3213372">Rasmus<&#47;a> s&auml;ger att artister m&aring;ste b&ouml;rja <a href="http:&#47;&#47;copyriot.blogspot.com&#47;2005&#47;05&#47;agoogliska-artistnamn.html">t&auml;nka p&aring; Google n&auml;r de v&auml;ljer sitt namn<&#47;a>, och n&auml;mner som exempel att <a href="http:&#47;&#47;www.google.com&#47;search?q=firefox"<&#47;a> &auml;r ett utomordentligt d&aring;ligt valt s&aring;dant.
 
-Jag har funderat pÃ¥ samma sak flera gÃ¥nger, kanske frÃ¤mst nÃ¤r jag skulle fÃ¶rsÃ¶ka leta efter en grupp med namnet <i>Tribeca</i>, nÃ¥got som vid tillfÃ¤llet (sÃ¤kert ett Ã¥r sedan) visade sig vara nÃ¤st intill omÃ¶jligt, dÃ¥ namnet sammanfaller med <a href="http://www.tribeca.org/default.aspx">en del av New York</a>; jag fÃ¶rbannade precis som Rasmus att artisterna inte kunde funderat Ã¶ver hur man skulle hitta dem pÃ¥ nÃ¤tet innan de valde sitt namn. DÃ¤rfÃ¶r Ã¤r det inte utan viss fÃ¶rvÃ¥ning som jag idag noterar att en <a href="http://www.google.com/search?q=tribeca">naivsÃ¶kning pÃ¥ Google</a> ger <a href="http://www.labrador.se/artists/tribeca.php3">svaret jag sÃ¶kte</a> som tredje trÃ¤ff. Ibland fungerar saker bÃ¤ttre Ã¤n man tror, eller nÃ¤stan obehagligt bra.
+Jag har funderat p&aring; samma sak flera g&aring;nger, kanske fr&auml;mst n&auml;r jag skulle f&ouml;rs&ouml;ka leta efter en grupp med namnet <i>Tribeca<&#47;i>, n&aring;got som vid tillf&auml;llet (s&auml;kert ett &aring;r sedan) visade sig vara n&auml;st intill om&ouml;jligt, d&aring; namnet sammanfaller med <a href="http:&#47;&#47;www.tribeca.org&#47;default.aspx">en del av New York<&#47;a>; jag f&ouml;rbannade precis som Rasmus att artisterna inte kunde funderat &ouml;ver hur man skulle hitta dem p&aring; n&auml;tet innan de valde sitt namn. D&auml;rf&ouml;r &auml;r det inte utan viss f&ouml;rv&aring;ning som jag idag noterar att en <a href="http:&#47;&#47;www.google.com&#47;search?q=tribeca">naivs&ouml;kning p&aring; Google<&#47;a> ger <a href="http:&#47;&#47;www.labrador.se&#47;artists&#47;tribeca.php3">svaret jag s&ouml;kte<&#47;a> som tredje tr&auml;ff. Ibland fungerar saker b&auml;ttre &auml;n man tror, eller n&auml;stan obehagligt bra.
 
-En liknande historia Ã¥terberÃ¤ttades av min vÃ¤n <a href="http://www.algonet.se/~jbjork/">Johannes</a>, nÃ¤r nÃ¥gon av hans vÃ¤nner i glad obetÃ¤nksamhet fÃ¶rsÃ¶kte leta efter filmer <i>XXX</i> genom att sÃ¶ka pÃ¥ Google. Svaret heter fÃ¶rstÃ¥s <a href="http://www.imdb.com">IMDB</a>, som <a href="http://www.imdb.com/title/tt0295701/">lÃ¤tt hittar den sÃ¶kta filmen</a>.
+En liknande historia &aring;terber&auml;ttades av min v&auml;n <a href="http:&#47;&#47;www.algonet.se&#47;~jbjork&#47;">Johannes<&#47;a>, n&auml;r n&aring;gon av hans v&auml;nner i glad obet&auml;nksamhet f&ouml;rs&ouml;kte leta efter filmer <i>XXX<&#47;i> genom att s&ouml;ka p&aring; Google. Svaret heter f&ouml;rst&aring;s <a href="http:&#47;&#47;www.imdb.com">IMDB<&#47;a>, som <a href="http:&#47;&#47;www.imdb.com&#47;title&#47;tt0295701&#47;">l&auml;tt hittar den s&ouml;kta filmen<&#47;a>.
 
-F.Ã¶. rekommenderar jag Ã¤ven varmt att ni lÃ¤ser Copyriots lite lÃ¤ngre text om hur <a href="http://copyriot.blogspot.com/2004/07/markeringens-logik-erstter.html">Google pÃ¥verkar vÃ¥rt sÃ¤tt att arbeta med datorer</a>.
+F.&ouml;. rekommenderar jag &auml;ven varmt att ni l&auml;ser Copyriots lite l&auml;ngre text om hur <a href="http:&#47;&#47;copyriot.blogspot.com&#47;2004&#47;07&#47;markeringens-logik-erstter.html">Google p&aring;verkar v&aring;rt s&auml;tt att arbeta med datorer<&#47;a>.

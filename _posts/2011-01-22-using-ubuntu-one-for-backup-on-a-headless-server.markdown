@@ -25,7 +25,7 @@ comments:
     MjAxMS0wMS0yMiAxNDowNzo1MSArMDEwMA==
   content: ! '[...] This post was mentioned on Twitter by Stuart Langridge and Per
     Liedman, Christopher. Christopher said: Great will try this RT @liedman Finally
-    got around to document how to use Ubuntu One from a headless server: http://goo.gl/FC4sW
+    got around to document how to use Ubuntu One from a headless server: http:&#47;&#47;goo.gl&#47;FC4sW
     (ping @sil) [...]'
 - id: 13412
   author: sil
@@ -38,11 +38,11 @@ comments:
   content: ! "This is very cool. I should re-iterate that u1sync isn't supported by
     us, so it's best-effort only :-)\r\n\r\nBetter way of getting the oauth token:\r\n\r\n1.
     Request a new token at Ubuntu SSO\r\n\r\nwget --user=stuart.langridge@canonical.com-O
-    token-details --ask-password \"https://login.ubuntu.com/api/1.0/authentications?ws.op=authenticate&amp;token_name=Ubuntu%20One%20@%20$(hostname)\"\r\n\r\nChange
+    token-details --ask-password \"https:&#47;&#47;login.ubuntu.com&#47;api&#47;1.0&#47;authentications?ws.op=authenticate&amp;token_name=Ubuntu%20One%20@%20$(hostname)\"\r\n\r\nChange
     --user to be your Ubuntu One username, and enter your Ubuntu One password when
     prompted. You will now have a file named \"token-details\" which contains your
     OAuth token.\r\n\r\n2. Tell Ubuntu One that that token's OK\r\n\r\nwget -O token-approval
-    'https://one.ubuntu.com/oauth/sso-finished-so-get-tokens/stuart.langridge%40canonical.com'\r\n\r\n(there
+    'https:&#47;&#47;one.ubuntu.com&#47;oauth&#47;sso-finished-so-get-tokens&#47;stuart.langridge%40canonical.com'\r\n\r\n(there
     seems to be a slight problem with this step right now, but it should work :))\r\n\r\nAfter
     that, you ought to be able to use the token information in token-details with
     u1sync."
@@ -74,7 +74,7 @@ comments:
     MjAxMS0wNS0wNCAxMjozMjoxNiArMDIwMA==
   date_gmt: !binary |-
     MjAxMS0wNS0wNCAxMTozMjoxNiArMDIwMA==
-  content: ! 'Same here. Step 1 works fine, Step 2 gives this: â€˜https://one.ubuntu.com/oauth/sso-finished-so-get-tokens/my%40email.comâ€™:
+  content: ! 'Same here. Step 1 works fine, Step 2 gives this: &lsquo;https:&#47;&#47;one.ubuntu.com&#47;oauth&#47;sso-finished-so-get-tokens&#47;my%40email.com&rsquo;:
     Scheme missing.'
 - id: 40928
   author: Torsten Bronger
@@ -96,7 +96,7 @@ comments:
     MjAxMS0wOC0xMSAwMTowMToxNSArMDIwMA==
   date_gmt: !binary |-
     MjAxMS0wOC0xMSAwMDowMToxNSArMDIwMA==
-  content: s/send/second/
+  content: s&#47;send&#47;second&#47;
 - id: 56317
   author: Nick Yeoman
   author_email: c@nickyeoman.com
@@ -139,10 +139,10 @@ comments:
   date_gmt: !binary |-
     MjAxMS0xMi0yOCAxMToxMzowNyArMDEwMA==
   content: ! "I wrote a follow up post with instructions regarding later Ubuntu versions
-    (in particular 11.10 Oneiric Ocelot): http://per.liedman.net/2011/12/28/using-ubuntu-one-from-a-headless-oneiric-ocelot/\r\n\r\nThis
+    (in particular 11.10 Oneiric Ocelot): http:&#47;&#47;per.liedman.net&#47;2011&#47;12&#47;28&#47;using-ubuntu-one-from-a-headless-oneiric-ocelot&#47;\r\n\r\nThis
     post also documents how to get a new oauth token for your headless server."
 - id: 113622
-  author: http://enbase.net/db/User:Kimipnzai
+  author: http:&#47;&#47;enbase.net&#47;db&#47;User:Kimipnzai
   author_email: zella.rooney@gmail.com
   author_url: http://enbase.net/db/User:Kimipnzai
   date: !binary |-
@@ -152,8 +152,8 @@ comments:
   content: Thanks to my father who informed me about this webpage, this website is
     actually awesome.
 - id: 127135
-  author: Cosmetic Dentistry- Warwick Archives Â« Dentists in Orange County NY Dentists
-    in Orange County NY
+  author: Cosmetic Dentistry- Warwick Archives &Acirc;&laquo; Dentists in Orange County
+    NY Dentists in Orange County NY
   author_email: nola.levi@zoho.com
   author_url: http://ocnydentistreviews.com/category/cosmeticwarwick/
   date: !binary |-
@@ -220,40 +220,40 @@ comments:
     destinations around Pune.\r\nOnce you uncover the hill station of Bhandardara,
     it's certain you will be drawn by its tranquility \r\nagain and again."
 ---
-<em>Update 2011-12-28:</em> I wrote a follow up post on how to fix some of the issues with the instructions below, especially with regard to Ubuntu 11.10 Oneiric Ocelot: <a href="http://per.liedman.net/2011/12/28/using-ubuntu-one-from-a-headless-oneiric-ocelot/">Using Ubuntu One from a headless Oneiric Ocelot server</a>
+<em>Update 2011-12-28:<&#47;em> I wrote a follow up post on how to fix some of the issues with the instructions below, especially with regard to Ubuntu 11.10 Oneiric Ocelot: <a href="http:&#47;&#47;per.liedman.net&#47;2011&#47;12&#47;28&#47;using-ubuntu-one-from-a-headless-oneiric-ocelot&#47;">Using Ubuntu One from a headless Oneiric Ocelot server<&#47;a>
 
-Ok, let me start by stating that I know, and you should also know, that Ubuntu One and the other cloud storage services like DropBox are not for serious backups. So if you're reading this post to learn something about backing up your enterprisy data, you have <em>come to the wrong place</em>. But if you're like me, and have a server in your closet as a hobby, and just want some sort of backup that's also off site, you have come to the right place.
+Ok, let me start by stating that I know, and you should also know, that Ubuntu One and the other cloud storage services like DropBox are not for serious backups. So if you're reading this post to learn something about backing up your enterprisy data, you have <em>come to the wrong place<&#47;em>. But if you're like me, and have a server in your closet as a hobby, and just want some sort of backup that's also off site, you have come to the right place.
 
 The problem at hand: I have a server in my closet at home, and I store some stuff on it that I would be very sorry if I lost. (I also store a lot more on it that I don't care the least about.) So, I want to back that stuff up. It's primarily a couple of MySQL databases and some version control repositories.
 
-Ubuntu comes with a cloud storage service called <a href="https://one.ubuntu.com/">Ubuntu One</a>. Ubuntu One gives you a free account with two gigabytes of storage, and you can pay a small subscription fee to get significantly more storage if you need it. While there are <a href="http://peterthorin.wordpress.com/2010/01/28/backup-solutions/">lots of other similar solutions</a>, Ubuntu One seems like a nice choice if you're into Ubuntu, since its neatly integrated into the Gnome desktop.
+Ubuntu comes with a cloud storage service called <a href="https:&#47;&#47;one.ubuntu.com&#47;">Ubuntu One<&#47;a>. Ubuntu One gives you a free account with two gigabytes of storage, and you can pay a small subscription fee to get significantly more storage if you need it. While there are <a href="http:&#47;&#47;peterthorin.wordpress.com&#47;2010&#47;01&#47;28&#47;backup-solutions&#47;">lots of other similar solutions<&#47;a>, Ubuntu One seems like a nice choice if you're into Ubuntu, since its neatly integrated into the Gnome desktop.
 
 The bad news is that for a headless (no screen) machine, like my server, Ubuntu One is currently a bit harder to set up. I really need the backups to work even if I don't start a remote session and type my password, and so on. A backup that requires manual intervention is about as bad as no backup at all, in my opinion.
 
-I was sort of frustrated when I found this out, and <a href="http://twitter.com/#!/liedman/status/23337089936392192">Twittered angrily</a> about the lack of command line interface. A couple of days later, I got a very friendly reply from Stuart Langridge (<a href="http://twitter.com/#!/sil">@sil</a>), who happens to be technical architect for Ubuntu One. Wow. Not only a response to my rant, but a short conversation ended up with enough clues for me to solve the problem at hand.
+I was sort of frustrated when I found this out, and <a href="http:&#47;&#47;twitter.com&#47;#!&#47;liedman&#47;status&#47;23337089936392192">Twittered angrily<&#47;a> about the lack of command line interface. A couple of days later, I got a very friendly reply from Stuart Langridge (<a href="http:&#47;&#47;twitter.com&#47;#!&#47;sil">@sil<&#47;a>), who happens to be technical architect for Ubuntu One. Wow. Not only a response to my rant, but a short conversation ended up with enough clues for me to solve the problem at hand.
 
 So, to save you from having to finding out the details yourself, here is how you could go about making Ubuntu One work as a backup for your headless server:
 
-<h3>Install ubuntuone-client-tools</h3>
-The program you need is called <code>u1sync</code>, and is distributed in a package called <code>ubuntuone-client-tools</code>. Install it:
+<h3>Install ubuntuone-client-tools<&#47;h3>
+The program you need is called <code>u1sync<&#47;code>, and is distributed in a package called <code>ubuntuone-client-tools<&#47;code>. Install it:
 
-<code>sudo apt-get install ubuntuone-client-tools</code>
+<code>sudo apt-get install ubuntuone-client-tools<&#47;code>
 
-<h3>Get an authentication token</h3>
-The tricky part about getting Ubuntu One working standalone is really authentication. Normally, Ubuntu One authenticates using information stored in your Gnome keyring. On the server, you might not even have the keyring deamon installed, and even if it is, the backup must work even if you haven't entered your keyring password, and so on. Fortunately, <code>u1sync</code> can authenticate without the keyring, but you will have to provide an <a href="http://en.wikipedia.org/wiki/OAuth">OAuth</a> token manually. Getting that token feels sort of like a hack, but this is how I do it:
+<h3>Get an authentication token<&#47;h3>
+The tricky part about getting Ubuntu One working standalone is really authentication. Normally, Ubuntu One authenticates using information stored in your Gnome keyring. On the server, you might not even have the keyring deamon installed, and even if it is, the backup must work even if you haven't entered your keyring password, and so on. Fortunately, <code>u1sync<&#47;code> can authenticate without the keyring, but you will have to provide an <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;OAuth">OAuth<&#47;a> token manually. Getting that token feels sort of like a hack, but this is how I do it:
 <ol>
-	<li>Go to a desktop machine where you have Ubuntu One set up with the account you want to use</li>
-	<li>Go to <strong>System</strong> menu -> <strong>Preferences</strong> -> <strong>Passwords and Encryption Keys</strong></li>
-	<li>Under the tab <strong>Passwords</strong>, you will find an entry called <strong>UbuntuOne token for https://ubuntuone.com</strong> - double click it.</li>
-	<li>In the dialog, open the password label and mark the <strong>Show password</strong> checkbox. It should now look something like this:
+	<li>Go to a desktop machine where you have Ubuntu One set up with the account you want to use<&#47;li>
+	<li>Go to <strong>System<&#47;strong> menu -> <strong>Preferences<&#47;strong> -> <strong>Passwords and Encryption Keys<&#47;strong><&#47;li>
+	<li>Under the tab <strong>Passwords<&#47;strong>, you will find an entry called <strong>UbuntuOne token for https:&#47;&#47;ubuntuone.com<&#47;strong> - double click it.<&#47;li>
+	<li>In the dialog, open the password label and mark the <strong>Show password<&#47;strong> checkbox. It should now look something like this:
 
-<img src="http://per.liedman.net/wp-content/uploads/2011/01/ubuntuone-oauth-token-dialog.png" alt="" title="Ubuntu One OAuth token dialog" width="361" height="332" class="aligncenter size-full wp-image-230" />
-</li>
+<img src="http:&#47;&#47;per.liedman.net&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;ubuntuone-oauth-token-dialog.png" alt="" title="Ubuntu One OAuth token dialog" width="361" height="332" class="aligncenter size-full wp-image-230" &#47;>
+<&#47;li>
 	<li>Copy the text from the password field into a text editor of your choice. It will look like this:
-<code>oauth_token_secret=xxxx&oauth_token=yyyy</code>, but with <code>xxxx</code> and <code>yyyy</code> replaced with much more gibberish. It's those to parts of the strings you're after.</li>
-	<li>In your backup script on your server (you have one of those already, right? Mine is based around <a href="http://sourceforge.net/projects/automysqlbackup/">AutoMySQLBackup</a> and lots of <code>tar</code> commands), insert this line somewhere at the end:<br/><code>u1sync --oauth=yyyy:xxxx [your backup folder]</code><br/>Note the order of things: u1sync needs to oauth token (key) first, and the secret as a seconds argument; at least for me, they were stored in the other way around in the keyring string.</lI>
+<code>oauth_token_secret=xxxx&oauth_token=yyyy<&#47;code>, but with <code>xxxx<&#47;code> and <code>yyyy<&#47;code> replaced with much more gibberish. It's those to parts of the strings you're after.<&#47;li>
+	<li>In your backup script on your server (you have one of those already, right? Mine is based around <a href="http:&#47;&#47;sourceforge.net&#47;projects&#47;automysqlbackup&#47;">AutoMySQLBackup<&#47;a> and lots of <code>tar<&#47;code> commands), insert this line somewhere at the end:<br&#47;><code>u1sync --oauth=yyyy:xxxx [your backup folder]<&#47;code><br&#47;>Note the order of things: u1sync needs to oauth token (key) first, and the secret as a seconds argument; at least for me, they were stored in the other way around in the keyring string.<&#47;lI>
 
-And that's about it! The <code>u1sync</code> command will automatically synchronize the directory contents against your account every time the script is run. It will also output a lot of information about what it's doing, so if you're running the backup script from <code>cron</code> (you should), you might want to redirect the output to a log or <code>/dev/null</code>, or you will get lots of long mails.
+And that's about it! The <code>u1sync<&#47;code> command will automatically synchronize the directory contents against your account every time the script is run. It will also output a lot of information about what it's doing, so if you're running the backup script from <code>cron<&#47;code> (you should), you might want to redirect the output to a log or <code>&#47;dev&#47;null<&#47;code>, or you will get lots of long mails.
 
 Also note, that if you for some reason unauthorize the machine you got the OAuth token from, you will also unauthorize the backup server. Unauthorizing a machine really means revoking the OAuth token, and since the machines share the same token, both will now be unauthorized.
 
