@@ -2,3 +2,5 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 paginate:     5
+encoding:     utf-8
+baseurl:      "http://perliedman.github.io/epepep"
