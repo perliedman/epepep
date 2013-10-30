@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Drukqs
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 52
+wordpress_url: http://www.liedman.netmusik/drukqs/
+date: 2006-04-23 01:01:00.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 26
+  author: Johan
+  author_email: johan.wennerby@vehco.se
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNC0zMCAxMzoyNjozMiArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0zMCAxMzoyNjozMiArMDIwMA==
+  content: ! "hittar inte drukqs pÃ¥ din ftp?????????\r\nhur ska man dÃ¥ kunna komentera
+    ditt inlÃ¤gg ------------jwby"
+---
+Idag skiner solen och man fÃ¶rvÃ¤ntas ha vÃ¥rkÃ¤nslor, omvÃ¤rlden stinker av grillat kÃ¶tt och tÃ¤ndvÃ¤tska, samtidigt som det egentligen fortfarande Ã¤r sÃ¥ kallt att endast total desperation kan leda en att tro att det Ã¤r nÃ¥got annat Ã¤n vinter. IstÃ¤llet sitter jag inne och lyssnar pÃ¥ <a href="http://en.wikipedia.org/wiki/Drukqs">drukqs</a> frÃ¥n 2001, som just nu fÃ¶refaller vara det mest geniala jag stÃ¶tt pÃ¥. En optimal blandning av sentimentalromantiska melodier kombinerade med helt vansinniga beats, i sin tur varvat med minimalistiska pianokompositioner. En initial chock mot min vers-refrÃ¤ng-styrda vÃ¤rld, men snart verkar mattorna av hamrande trummor, samplade ljud och enstaka tjut fullkomligt meningsfulla. Mycket lÃ¥ter ganska likt en tandlÃ¤karborr, men blandar upp det med kÃ¤nslan av en vaggvisa. Det Ã¤r ungefÃ¤r lika motsÃ¤gelsefullt som det Ã¤r behagligt.
+
+<a href="http://en.wikipedia.org/wiki/Aphex_Twin">Richard D. James</a> verkar fÃ¶r Ã¶vrigt vara ungefÃ¤r som sin musik: konstig och intressant. Ljud ur en dator designad ljudlÃ¶s och fotograferar sina egna <a href="http://www.votolatino.com.ar/2003/fotos/aphex.jpg">omslag</a> (som Ã¤r...tja, <a href="http://images.google.se/images?q=aphex+twin&svnum=10&hl=en&lr=&safe=off">spÃ¤nnande</a>). Jag Ã¤lskar estetiken i de gaeliskinspirerade lÃ¥ttitlarna, samtidigt som de gÃ¶r det helt omÃ¶jligt fÃ¶r mig att minnas nÃ¥gra favoritspÃ¥r (vem kan pÃ¥ allvar skilja "Lornaderek" frÃ¥n "Vordhosbn" eller "jynweythek" frÃ¥n "beskhu3epnm" mer Ã¤n fem minuter?). SÃ¥ledes Ã¤r min favorit just nu, kanske inte sÃ¥ lite pÃ¥ grund av att dess titel gÃ¥r att utlÃ¤sa, "Mt Saint Michel + Saint Michaels mount" - de avslutande trettio sekunderna Ã¤r nÃ¥got slags avancerad, audiell dropptortyr om de avnjuts pÃ¥ hÃ¶g volym i hÃ¶rlurar. Faktum Ã¤r att alltsammans nog avnjuts bÃ¤st i hÃ¶rlurar.
+
+Om man vill bÃ¶rja med nÃ¥got aningen mer lÃ¤ttsmÃ¤lt men i samma riktning kan man alltid lyssna pÃ¥ <a href="http://en.wikipedia.org/wiki/Come_to_Daddy">Come To Daddy</a>. LÃ¥ter ungefÃ¤r som en liten, batteridriven sÃ¥g inne i ditt vÃ¤nstra Ã¶ra, samtidigt som nÃ¥gon skriker hÃ¶gljutt om sjÃ¤lslig misÃ¤r i ditt hÃ¶gra. Det Ã¤r betydligt bÃ¤ttre Ã¤n jag kan beskriva hÃ¤r. Skulle nog kunna fortsÃ¤tta jiddra om hur bra det hÃ¤r Ã¤r ett tag till, men jag lugnar mig tills vidare. Ni fattar nog Ã¤ndÃ¥, typ.

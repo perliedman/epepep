@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+excerpt: ! "Glada piratkopierare Ã¤r vi allihopa. Ã…tminstone de flesta. Ã…tminstone
+  fÃ¶r min del sitter piratkopierandet i ryggraden, enda sen jag Ã¤gde min fÃ¶rsta
+  dator (en <a href=\"http://susning.nu/Spectravideo_728\">MSX Spectravideo 728</a>)
+  har det varit vedertaget att man byter spel, C64-Ã¤garna hade alltid kasetter med
+  en miljon spel pÃ¥. Hela min generation, eller Ã¥tminstone den datorliterata delen
+  av den, har helt enkelt en moralsyn som inte innefattar nÃ¥gon stÃ¶rre respekt fÃ¶r
+  upphovsrÃ¤tt; vare sig det gÃ¤ller videofilmer, bÃ¶cker, kasettband, datorspel eller
+  mp3-filer sÃ¥ ligger det nÃ¤ra till hands att kopiera utan att fundera nÃ¤rmare
+  pÃ¥ konsekvenserna.\r\n\r\nMed de senaste veckornas rabalder om <a href=\"http://www.antipiratbyran.se\">AntipiratbyrÃ¥n</a>,
+  <a href=\"http://www.bahnhof.se\">Bahnhof</a> och <a href=\"http://www.piratbyran.org\">PiratbyrÃ¥n</a>
+  har piratkopiering, fildelning och de frÃ¥gor de ger upphov till blivit nÃ¥got som
+  fler Ã¤n f.d. finniga hackers och skivbolagsjurister bryr sig om. T.o.m. sÃ¥ ovÃ¤ntade
+  parter som <a href=\"http://johanlinander.se/blog/index.php?p=25\">jordbruksorienterat
+  parti</a> har plÃ¶tsligt bÃ¶rjat ta in synpunkter och tÃ¤nka till kring upphovsrÃ¤tt.\r\n\r\nDet
+  har gjorts mÃ¥nga tÃ¤nkvÃ¤rda inlÃ¤gg i debatten, ett av de bÃ¤ttre i min mening
+  frÃ¥n Rasmus Fleischer, frilansskribent i bl.a. <a href=\"http://www.arbetaren.se\">Arbetaren</a>
+  och aktiv inom <a href=\"http://www.piratbyran.org\">PiratbyrÃ¥n</a>, som skrivit
+  artikeln <a href=\"http://www.piratbyran.org/index.php?view=articles&id=96\">VarfÃ¶r
+  den skÃ¤rpta upphovsrÃ¤ttslagen Ã¤r en dum idÃ©</a>, samt Ã¤ven en omarbetad och
+  i mitt tycke bÃ¤ttre version i just Arbetaren; den senare finns tyvÃ¤rr endast i
+  pappersform under avdelningen Radar.\r\n\r\nFÃ¶r egen del Ã¤r jag kluven vad gÃ¤ller
+  upphovsrÃ¤ttens och piratkopieringens framtid, lÃ¤s vidare om mina frÃ¥gestÃ¤llningar...\n"
+wordpress_id: 17
+wordpress_url: http://www.liedman.netreflektion//
+date: 2005-04-09 17:48:22.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Glada piratkopierare Ã¤r vi allihopa. Ã…tminstone de flesta. Ã…tminstone fÃ¶r min del sitter piratkopierandet i ryggraden, enda sen jag Ã¤gde min fÃ¶rsta dator (en <a href="http://susning.nu/Spectravideo_728">MSX Spectravideo 728</a>) har det varit vedertaget att man byter spel, C64-Ã¤garna hade alltid kasetter med en miljon spel pÃ¥. Hela min generation, eller Ã¥tminstone den datorliterata delen av den, har helt enkelt en moralsyn som inte innefattar nÃ¥gon stÃ¶rre respekt fÃ¶r upphovsrÃ¤tt; vare sig det gÃ¤ller videofilmer, bÃ¶cker, kasettband, datorspel eller mp3-filer sÃ¥ ligger det nÃ¤ra till hands att kopiera utan att fundera nÃ¤rmare pÃ¥ konsekvenserna.
+
+Med de senaste veckornas rabalder om <a href="http://www.antipiratbyran.se">AntipiratbyrÃ¥n</a>, <a href="http://www.bahnhof.se">Bahnhof</a> och <a href="http://www.piratbyran.org">PiratbyrÃ¥n</a> har piratkopiering, fildelning och de frÃ¥gor de ger upphov till blivit nÃ¥got som fler Ã¤n f.d. finniga hackers och skivbolagsjurister bryr sig om. T.o.m. sÃ¥ ovÃ¤ntade parter som <a href="http://johanlinander.se/blog/index.php?p=25">jordbruksorienterat parti</a> har plÃ¶tsligt bÃ¶rjat ta in synpunkter och tÃ¤nka till kring upphovsrÃ¤tt.
+
+Det har gjorts mÃ¥nga tÃ¤nkvÃ¤rda inlÃ¤gg i debatten, ett av de bÃ¤ttre i min mening frÃ¥n Rasmus Fleischer, frilansskribent i bl.a. <a href="http://www.arbetaren.se">Arbetaren</a> och aktiv inom <a href="http://www.piratbyran.org">PiratbyrÃ¥n</a>, som skrivit artikeln <a href="http://www.piratbyran.org/index.php?view=articles&id=96">VarfÃ¶r den skÃ¤rpta upphovsrÃ¤ttslagen Ã¤r en dum idÃ©</a>, samt Ã¤ven en omarbetad och i mitt tycke bÃ¤ttre version i just Arbetaren; den senare finns tyvÃ¤rr endast i pappersform under avdelningen Radar.
+
+FÃ¶r egen del Ã¤r jag kluven vad gÃ¤ller upphovsrÃ¤ttens och piratkopieringens framtid, lÃ¤s vidare om mina frÃ¥gestÃ¤llningar...
+<a id="more"></a><a id="more-17"></a>
+<b>Hur ser artisters fÃ¶rdelning av inkomster egentligen ut?</b>
+Den vanligaste synpunkten frÃ¥n de mÃ¤nniskor som inte Ã¤gnar sig Ã¥t piratkopiering mest p.g.a. att de inte Ã¤r insatta i hur det gÃ¥r till Ã¤r att piratkopieringen Ã¤r omoralisk och destruktiv eftersom den berÃ¶var artisterna, skivbolagen och skivaffÃ¤rerna deras inkomstkÃ¤lla, vilket i fÃ¶rlÃ¤ngningen leder till ett utarmat och fÃ¶rsvagat eller t.o.m. dÃ¶tt musikliv. PiratfÃ¶resprÃ¥karnas svar gÃ¥r Ã¥tminstone till viss del ut pÃ¥ att en stor del av musikernas intÃ¤kter inte kommer frÃ¥n skivfÃ¶rsÃ¤ljning, utan att biljettfÃ¶rsÃ¤ljning, promotionmaterial, etc. Ã¤r minst lika betydande inkomster.
+
+Min frÃ¥ga Ã¤r om detta verkligen stÃ¤mmer? Jag kan inte pÃ¥minna mig att jag nÃ¥gonsin sett nÃ¥got faktaunderlag som stÃ¶der denna teori,  men Ã¥ andra sidan inte heller nÃ¥got som sÃ¤ger motsatsen, och det verkar inte heller orimligt, lite beroende pÃ¥ vilken artist vi talar om.
+
+Vad gÃ¤ller skivbolagen och skivaffÃ¤rerna Ã¤r det enligt mig rÃ¤tt uppenbart att de kommer att stÃ¥ som fÃ¶rlorare av en Ã¶kad piratkopiering, om man antar att Ã¶kad piratkopiering leder till minskad skivfÃ¶rsÃ¤ljning (mÃ¥nga piratfÃ¶resprÃ¥kare motsÃ¤tter sig detta samband, men utifrÃ¥n min begrÃ¤nsade erfarenhet frÃ¥n vÃ¤nner och bekanta mÃ¥ste jag nog sÃ¤ga att sambandet finns och Ã¤r starkt). Samtidigt Ã¤r det i sig inte nÃ¥got som oroar eller bekymrar mig sÃ¤rskilt mycket; de Ã¤r enbart distributÃ¶rer och Ã¥terfÃ¶rsÃ¤ljare av en vara, och i hÃ¤ndelse att denna vara i framtiden distribueras pÃ¥ nÃ¥got annat vis sÃ¥ Ã¤r det upp till dem att anpassa sig efter detta.
+
+Mitt fokus i frÃ¥gan ligger alltsÃ¥ pÃ¥ att sÃ¤kerstÃ¤lla att de som skapar och framfÃ¶r musiken fÃ¥r betalt fÃ¶r sin insats eller pÃ¥ annat vis klarar sig. Om sÃ¥dan betalning kommer frÃ¥n <a href="http://www.stim.se">STIM</a>-pengar eller liknande, intÃ¤kter frÃ¥n konserter, eller frÃ¥n betalning per inkÃ¶pt lÃ¥t frÃ¥n nÃ¤tet/skivor, Ã¤r mindre relevant.
+
+<b>Hur ser framtiden ut utan piratkopiering?</b>
+En av de starkaste skÃ¤len att jag lutar Ã¥t en fÃ¶rÃ¤ndring av upphovsrÃ¤tten till en mer piratvÃ¤nlig linje, Ã¤r att jag helt enkelt har svÃ¥rt att se hur den motsatta vÃ¤gen ser ut. Som Rasmus Fleischer pÃ¥pekar i sin artikel, Ã¤r det helt enkelt mycket svÃ¥rt att fÃ¶rhindra att digital data dupliceras - dupliceringsfÃ¶rmÃ¥gan Ã¤r en av de grundlÃ¤ggande poÃ¤ngerna med att Ã¶verhuvudtaget digitalisera information.
+
+Att fÃ¶rsÃ¶ka reglera denna fÃ¶rmÃ¥ga enbart genom lagar tycks dÃ¶mt att misslyckas, man hamnar i ungefÃ¤r den situation vi redan har idag. Att anpassa hÃ¥rd- och mjukvara pÃ¥ ett sÃ¥dant sÃ¤tt att kopiering kan kontrolleras och stoppas Ã¤r nÃ¥got man fÃ¶rsÃ¶kt sig pÃ¥ sen jag bÃ¶rjade anvÃ¤nda datorer, och hittills har det inte lyckats nÃ¥got vidare, framfÃ¶r allt har det i en mÃ¤ngd fall skapat problem fÃ¶r folk som faktiskt betalat lagligt fÃ¶r sin kopia (mitt favorit-hatexempel hÃ¤r Ã¤r kopieringsskyddade musik-CD, som gÃ¶r att jag endast med svÃ¥righeter kan fÃ¥ lyssna pÃ¥ musiken jag betalt fÃ¶r i min dator eller iPod). Det talas mycket om <a href="http://en.wikipedia.org/wiki/Digital_rights_management">Digital Rights Management</a> (DRM) och <a href="http://en.wikipedia.org/wiki/Trusted_computing">trusted computing</a> fÃ¶r att lÃ¶sa detta, men jag Ã¤r kraftigt skeptisk till bÃ¥da delar, dÃ¥ jag anser att de frÃ¥ntar konsumenten rÃ¤ttigheter och mÃ¶jligheter i en orimlig grad och nÃ¤rmast kvÃ¤vande fÃ¶r kreativt anvÃ¤ndande av bÃ¥de teknik och kultur.
+
+Kort sagt: hur ska vi fÃ¶rsvara upphovsrÃ¤tten, om vi bestÃ¤mmer oss att behÃ¥lla den i ungefÃ¤r den form den har idag?

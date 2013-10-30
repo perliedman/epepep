@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: NypremiÃ¤r
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 14
+wordpress_url: http://www.liedman.netepepep/nypremi&amp;#228;r/
+date: 2005-04-09 14:10:59.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Idag Ã¤r det lite nypremiÃ¤r pÃ¥ <i>epepep</i>. Nu Ã¤r det dags att vara duktig, skriva spÃ¤nnande, tÃ¤nkvÃ¤rda, djupa och insiktsfulla saker med imponerande regelbundenhet, o.s.v. Till allas stora fÃ¶rtjusning.
+
+FÃ¶r att fira det hela lite extra har jag flyttat Ã¶ver alla gamla inlÃ¤gg frÃ¥n <a href="http://www.sixapart.com/movabletype/">MovableType</a> till <a href="http://www.s9y.org/">Serendipity</a>, som en nÃ¥got slags gratishistoria av sympatiskt snitt (Ã¤n sÃ¥ lÃ¤nge iallafall). Bort med den sÃ¶nderspammade gamla bloggen, alltsÃ¥. TyvÃ¤rr betyder det att alla gamla kommentarer, Ã¤ven de som inte var spam, Ã¤r borta. SÃ¥ kan det gÃ¥.

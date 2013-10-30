@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Rysshat
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 29
+wordpress_url: http://www.liedman.netreflektion/rysshat/
+date: 2005-05-13 00:04:16.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Ibland hittar man obegripligheter. Som t.ex. <a href="http://eatfrog.blogspot.com/">Eatfrog</a>s <a href="http://eatfrog.blogspot.com/2005/05/hur-r-det-mjligt.html">lilla utbrott</a> mot "ryssen". Jag har svÃ¥rt att tolka bÃ¥de vad som orsakade det, och vad det egentligen innebÃ¤r - fÃ¶r det Ã¤r vÃ¤l inte sÃ¥ korkat att han fortfarande hatar alla ryssar p.g.a. ett krig fÃ¶r sisÃ¥dÃ¤r 60 Ã¥r sedan? FÃ¶rvÃ¤ntas man i sÃ¥ fall hata Ã¤ven tyskar, italienare, japaner, amerikaner och alla andra nationaliteter som nÃ¥gon gÃ¥ng gjort nÃ¥got dumt ocksÃ¥? Verkar jobbigt.
+
+Jo, Eatfrog tar f.Ã¶. <a href="http://www.fotosidan.se/gallery/listpic.htm?type=st&authorID=31098">en hel del schyssta foton</a> ocksÃ¥.

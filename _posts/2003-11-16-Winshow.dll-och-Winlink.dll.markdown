@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Winshow.dll och Winlink.dll
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 2
+wordpress_url: http://www.liedman.netdatorer-&amp;-teknik/winshow.dll-och-winlink.dll/
+date: 2003-11-16 15:46:29.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+Trots att jag tidvis hetsat rÃ¤tt mycket mot Windows och dess anvÃ¤ndare, sÃ¥ mÃ¥ste jag erkÃ¤nna att jag numera trivs rÃ¤tt bra med att ha Windows pÃ¥ min arbetsstation, medan jag lÃ¥ter Linux tuffa pÃ¥ min server. Det stÃ¶rsta smolket i glÃ¤djebÃ¤garen Ã¤r dock sÃ¤kerheten. FrÃ¥n att varit en glad desktop-anvÃ¤ndare av Linux, dÃ¤r jag aldrig behÃ¶vt bekymra mig om vare sig virus, spyware eller annat, tycks jag nu inte behÃ¶va tÃ¤nka pÃ¥ annat, trots att min Windows-burk sitter bakom en brandvÃ¤gg, Ã¤r slaviskt uppdaterad efter Windows Update och kÃ¶r antivirusprogram. Nedan fÃ¶ljer en beskrivning av de senaste vedermÃ¶dorna.
+
+Jag har plÃ¥gats en tid av egendomliga pop-ups som inte verkar kopplade till de platser jag surfar till. NÃ¤r jag fick upp Ã¶gonen fÃ¶r problemet visade det sig att de flesta av annonserna tycktes komma frÃ¥n samma domÃ¤n: <i>ad8.com</i>. InnehÃ¥llet i annonserna verkade strÃ¶mlinjeformat efter de platser jag besÃ¶kte, sÃ¥ en krypande misstanke om att nÃ¥got program pÃ¥ min dator spionerade pÃ¥ vart jag surfade formades i mitt huvud.
+
+Misstanken visade sig senare korrekt. <a href="http://mjc1.com/mirror/hjt/">HijackThis</a> (fÃ¶rtrÃ¤ffligt program) kunde berÃ¤tta fÃ¶r mig att jag hade en installation av <i>Winshow.dll</i> pÃ¥ min dator. TyvÃ¤rr lyckades HijackThis aldrig riktigt fÃ¥ bort programmet, som tycktes Ã¥teruppstÃ¥ varje gÃ¥ng jag startade om systemet. Inte fanns det sÃ¥ vÃ¤rst lÃ¤ttbegriplig information pÃ¥ nÃ¤tet heller om hur man skulle bete sig fÃ¶r att fÃ¥ bort den.
+
+Slutligen hjÃ¤lpte detta: starta om systemet i <i>Safe Mode</i>, plocka bort dll-filerna (som lÃ¥g under min anvÃ¤ndares <i>Application data</i>-bibliotek), samt ta bort alla nycklar som innehÃ¶ll orden <i>"winshow"</i> eller <i>"winlink"</i> ur registret (behÃ¶ll dock en trÃ¤ff pÃ¥ just <i>"winlink"</i>, eftersom den verkade relaterad till Windows inre och inte reklamprogrammet). Detta gjorde susen!
+
+Naturligtvis Ã¤r det sÃ¥ att en av Explorers alla sÃ¤kerhetsluckor Ã¤r orsaken till problemet: genom att anvÃ¤nda ett hÃ¥l i Explorers JVM installerar sig programmet pÃ¥ maskinen och hÃ¥ller sedan lÃ¥da och slÃ¤nger upp pop-up-rutor med reklam. Mest fascinerad blev jag Ã¶ver att programmet kunde tÃ¤nka sig att gÃ¶ra reklam fÃ¶r ett program som sades dÃ¶da pop-ups. Tala om att sÃ¥ga av den gren man sitter pÃ¥. Inte fÃ¶r att jag tror att programmet verkligen skulle dÃ¶da nÃ¥gra pop-ups om man verkligen kÃ¶pte det, men principen!
+
+Mer information om Winshow: <a href="http://www.pestpatrol.com/PestInfo/w/winshow.asp">http://www.pestpatrol.com/PestInfo/w/winshow.asp</a>

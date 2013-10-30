@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: Ragnar
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 46
+wordpress_url: http://www.liedman.netmusik/ragnar/
+date: 2005-10-16 22:56:11.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+NorrlÃ¤ndskt svÃ¥rmod, revolution mot musiketablisemanget, osv. Jag bryr mig inte just nu, fÃ¶r nÃ¤r <a href="http://www.last.fm/music/Mattias+Alkberg+BD">Mattias Alkberg</a> gnyr fram rader som <i>allt Ã¤r fest, grannen spelar punk och man Ã¤r bÃ¤st</i>, ylar fram en refrÃ¤ng om <a href="http://www.albertbonniersforlag.se/200/201.asp?AuthorId=5896">Ragnar StrÃ¶mberg</a> och avslutar med <i>hur man Ã¤n beter sig Ã¤r det kÃ¶rt</i>, ja dÃ¥ Ã¤r faktiskt allting fest.

@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: Foozma
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 56
+wordpress_url: http://www.liedman.netmusik/foozma/
+date: 2006-02-21 23:58:54.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+I sÃ¶kandet efter lÃ¥ten "Where The Hell Did You Go With My Toothbrush" med Reverend Horton Heat (frÃ¥ga inte) rÃ¥kade jag ladda ner <a href="http://thepiratebay.org/details.php?id=3401414">Foozmas About Me-soundtrack</a>. Fascinerande saker. BÃ¶r laddas ner om inte annat fÃ¶r orginalversionen av "Where did you sleep last night" med Leadbelly, som jag inte hÃ¶rt innan. Och varfÃ¶r har jag inte hÃ¶rt "Digging the Grave" med Faith no more pÃ¥ flera Ã¥r?
+

@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: Kvitter
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 124
+wordpress_url: http://per.liedman.net/?p=124
+date: 2008-06-19 08:42:13.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+HÃ¤r verkar det inte hÃ¤nda mycket, men om ni Ã¤r vÃ¤ldigt intresserad av vad jag hÃ¥ller pÃ¥ med kan ni numera fÃ¶rsÃ¶ka fÃ¶lja mig pÃ¥ <a href="http://twitter.com/liedman">Twitter</a>.

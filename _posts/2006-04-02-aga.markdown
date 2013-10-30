@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Aga
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 60
+wordpress_url: http://www.liedman.netreflektion/aga/
+date: 2006-04-02 21:45:25.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 29
+  author: Sanna
+  author_email: sanna@feelthemachine.com
+  author_url: sanna.feelthemachine.com
+  date: !binary |-
+    MjAwNi0wNi0xOCAyMjo0Nzo0OCArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNi0xOCAyMjo0Nzo0OCArMDIwMA==
+  content: Min katt gÃ¶r precis samma sak. :)
+---
+<a href='http://per.liedman.net/wp-content/uploads/2007/05/sargad-hand.jpg' title='Aj!'><img src='http://per.liedman.net/wp-content/uploads/2007/05/sargad-hand.thumbnail.jpg' alt='Aj!' class="right"/></a>Den man Ã¤lskar agar man, det Ã¤r iallafall vad min katt tycker. Eller hur ska man annars resonera kring att min hand ser ut pÃ¥ detta vis, samtidigt som han Ã¤r mycket ivrig pÃ¥ att dela sÃ¤ngen med mig om nÃ¤tterna?
+
+Dagens tema Ã¤r annars <em>adagio</em>. Jag har lyssnat pÃ¥ samtliga adagios i min samling:
+<ol>
+	<li>The Doors - Albinoni's Adagio</li>
+	<li>Barber - Adagio for Strings</li>
+	<li>Albinoni - Adagio per flauto</li>
+	<li>Rodrigo - Adagio ur Concierto De Aranjuez</li>
+	<li>William Orbit - Barber's Adagio for Strings</li>
+</ol>
+Barber Ã¤r bÃ¤st. OerhÃ¶rt vemodig och trulig, och sÃ¥ <a href="http://imdb.com/title/tt0091763/?fr=c2l0ZT1kZnx0dD0xfGZiPXV8cG49MHxrdz0xfHE9cGxhdG9vbnxmdD0xfG14PTIwfGxtPTUwMHxjbz0xfGh0bWw9MXxubT0x;fc=1;ft=20;fm=1">Plutonen</a> dÃ¥; den funkar till och med i William Orbits sent-90-tal-techno-tappning.

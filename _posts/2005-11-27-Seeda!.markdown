@@ -1,0 +1,97 @@
+---
+layout: post
+status: publish
+published: true
+title: Seeda!
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 48
+wordpress_url: http://www.liedman.netsnyggt,-vackert,-fult/seeda!/
+date: 2005-11-27 12:42:39.000000000 +01:00
+categories: []
+tags: []
+comments:
+- id: 21
+  author: Mattias
+  author_email: ''
+  author_url: http://www.mattias.st
+  date: !binary |-
+    MjAwNS0xMS0yOSAxMjowNjoxOCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMS0yOSAxMjowNjoxOCArMDEwMA==
+  content: ! "Visst Ã¤r det jobbigt nÃ¤r program, som man tror skall komma upp pÃ¥
+    typ swebits eller TPB, inte dyker upp. \r\n\r\nJag har gjort ngr sÃ¥dana missar
+    av program jag tÃ¤nkt spela in, men som jag inte orkat och istÃ¤llet tÃ¤nkt -
+    den kommer ju att finnas pÃ¥ TPB."
+- id: 22
+  author: Utsikt frÃ¥n HÃ¶jden
+  author_email: ''
+  author_url: http://www.mattias.st/blogg.asp?ID=610
+  date: !binary |-
+    MjAwNS0xMS0yOSAyMTo0ODo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMS0yOSAyMTo0ODo1NCArMDEwMA==
+  content: ! 'Per pÃ¥ epepep har uppmÃ¤rksammat en intressant grej:'
+- id: 23
+  author: Low
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0xMi0wMyAxODowODo1NSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMi0wMyAxODowODo1NSArMDEwMA==
+  content: Om ni kan och brukar anvÃ¤nda *DC++* sÃ¥ finns bÃ¥da avsnitten pÃ¥ mÃ¥nga
+    hubbar.
+- id: 24
+  author: Lollie
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wMS0yMSAyMzozMDo1MSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0yMSAyMzozMDo1MSArMDEwMA==
+  content: VAd betyder seeda, och hur ska man gÃ¶ra fÃ¶r att seeda?
+- id: 25
+  author: Per
+  author_email: per@liedman.net
+  author_url: http://per.liedman.net
+  date: !binary |-
+    MjAwNi0wMS0yMyAyMTowNTozMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0yMyAyMTowNTozMCArMDEwMA==
+  content: ! 'Hej och vÃ¤lkommen till verkligheten: http://www.vladd44.com/torrent/terms.php'
+- id: 210
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNy0xMS0wNSAxMzo0NTowNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMS0wNSAxMjo0NTowNyArMDEwMA==
+  content: Hur Seedar man  svara gÃ¤rna mig pÃ¥ msn hehe   mgs177@msn.com        mvh
+    Markus
+- id: 211
+  author: ''
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNy0xMS0wNSAxMzo0Njo1NyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMS0wNSAxMjo0Njo1NyArMDEwMA==
+  content: Hej Hur Seedar Man Skulle Vara Mkt Tacksam Ã–ver Svar Svara GÃ¤rna Till
+    Mig PÃ¥ Msn    mga177@msn.com  hehe   Mvh Markus
+- id: 720
+  author: luzz3bulle
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wNS0wMyAxMjo1NjoyMSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNS0wMyAxMTo1NjoyMSArMDIwMA==
+  content: anvÃ¤nd aldrig DC++
+---
+Det har nu gÃ¥tt sÃ¥ lÃ¥ngt att jag inser att jag inte kan fÃ¶lja <a href="http://svt.se/svt/jsp/Crosslink.jsp?d=39760&lid=Dokument_Humor">Dokument: humor</a> eftersom det inte visas pÃ¥ <a href="http://thepiratebay.org/">The Pirate Bay</a>. Ã…tminstone inte fÃ¶r tillfÃ¤llet. FÃ¶rsta avsnittet, vars repris jag rÃ¥kade se av misstag, var mycket lovande.
+
+SnÃ¤lla, nÃ¥gon, seeda!

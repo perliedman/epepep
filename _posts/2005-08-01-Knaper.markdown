@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: Knaper
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 33
+wordpress_url: http://www.liedman.netsnyggt,-vackert,-fult/knaper/
+date: 2005-08-01 01:49:29.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 9
+  author: sannah
+  author_email: sannah.k@gmail.com
+  author_url: http://sannah.iamnotfromfinland.net
+  date: !binary |-
+    MjAwNS0wOC0wMSAxNjoyMTo1MyArMDIwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOC0wMSAxNjoyMTo1MyArMDIwMA==
+  content: tack :D
+---
+Efter flera Ã¥rs glÃ¶mska, har jag Ã¥terupptÃ¤ckt knÃ¤ckebrÃ¶det. Underbara uppfinning. BÃ¥de gott och en tillfÃ¶rlitlig rÃ¤ddning om man, som jag, har en fÃ¶rkÃ¤rlek fÃ¶r att lÃ¥ta vanligt brÃ¶d ligga i brÃ¶dburken tills det Ã¤r mÃ¶gligt just nÃ¤r man som mest behÃ¶ver det.
+
+<a href="http://www.wasabrod.se/">Wasas</a> <a href="http://se.wasa.com/Wasa/smpage.fwx?page=197&group=447&product=451&main=products">runda grovrÃ¥g</a> Ã¤r det jag fÃ¶r tillfÃ¤llet har som backup-lÃ¶sning i mitt skafferi.

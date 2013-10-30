@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: OrÃ¤ttvisa
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 68
+wordpress_url: http://www.liedman.netsnyggt,-vackert,-fult/or&amp;#228;ttvisa/
+date: 2006-11-25 16:32:23.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+Idag grÃ¤mer jag mig Ã¶ver att <a href="http://maps.google.com/?ie=UTF8&z=13&ll=57.70378,11.94231&spn=0.062368,0.09716&t=k&om=1">GÃ¶teborg</a> fortsÃ¤tter att vara fult i Google Maps/Earth, medan <a href="http://googlesightseeing.com/2006/11/24/google-earth-imagery-update-nov-06/">alla andra</a> fÃ¥r fina satellitbilder Ã¶ver sin stad. Skall det behÃ¶va vara sÃ¥ hÃ¤r? (Ja, jag kÃ¤nner till flygfoton pÃ¥ hitta/eniro. Nej, det duger inte.)

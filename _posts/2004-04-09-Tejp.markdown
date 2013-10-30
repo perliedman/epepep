@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Tejp
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 12
+wordpress_url: http://www.liedman.netdatorer-&amp;-teknik/tejp/
+date: 2004-04-09 12:09:53.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Teknik meets konst meets...vansinne?
+
+<a href="http://civ.idc.cs.chalmers.se/projects/pps/tejp/">http://civ.idc.cs.chalmers.se/projects/pps/tejp/</a>
+
+Coolt som fan.

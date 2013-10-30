@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: T-shirts
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 93
+wordpress_url: http://per.liedman.net/?p=93
+date: 2007-02-24 15:53:02.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+Via <a href="http://rotacoo.com/wrapping-an-ipod">Rotacoo</a>: fÃ¶runderligt enkel och snygg metod att <a href="http://www.albinoblacksheep.com/flash/fold.php">vika T-shirts</a>, kunskap som lever i snittet mellan oerhÃ¶rt oviktigt, fantastiskt praktiskt och ganska nerdigt.

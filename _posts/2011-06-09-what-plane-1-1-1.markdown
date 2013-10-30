@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: What Plane 1.1.1
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 240
+wordpress_url: http://per.liedman.net/?p=240
+date: 2011-06-09 22:16:30.000000000 +02:00
+categories:
+- What plane
+tags: []
+comments:
+- id: 46724
+  author: kober
+  author_email: pavel.kobersky@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAxMS0wOS0yMCAxNTowMDo0MCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMS0wOS0yMCAxNDowMDo0MCArMDIwMA==
+  content: Big thumbs up! Although I have bought the FR24 Pro app, I use yours more
+    often because of the simplicity, I have very quickly everything I need without
+    all the bells and whistles. What would make it a killer app for me - possibility
+    to filter (at least by distance and altitude) together with audible notification,
+    when there is a new plane in the list. For example when I'm contrailspotting with
+    a telescope, I filter just planes above FL240. When I'm near the airport, then
+    I filter just planes below 5000 feet and nearer than 3 km. Then I can use free
+    time to drink without missing interesting pieces of machinery! But anyway thanks
+    for the app even as it is!
+- id: 50804
+  author: Per Liedman
+  author_email: per@liedman.net
+  author_url: http://per.liedman.net
+  date: !binary |-
+    MjAxMS0xMC0xOCAxODo1Njo0MSArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMS0xMC0xOCAxNzo1Njo0MSArMDIwMA==
+  content: ! "That's great to hear!\r\n\r\nI certainly won't promise I'll implement
+    those things, but it's great suggestions, and I'll keep them in mind when/if I
+    get around to do some more development.\r\n\r\n(And in case you or anyone else
+    is interested, I wouldn't mind opening up the source for others.)"
+---
+I'm still alive even if posts here are even less frequent than usual.
+
+<a href="http://www.liedman.net/share/WhatPlane-android-1.1.1.apk">What Plane? version 1.1.1</a> is now available for download. It has a lot of bug fixes, adds a small needle pointing the direction of the plane (if your compass works, mine never does on my HTC Desire), and also adds an application icon. I have more fun with this version than is really healthy.

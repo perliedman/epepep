@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: SR
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 41
+wordpress_url: http://www.liedman.netreflektion/sr/
+date: 2005-09-26 22:32:17.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+LÃ¤ser hur <a href="http://www.mymarkup.net/">Stattin</a> <a href="http://mymarkup.net/blog/archives/007884.html">fÃ¶rsvarar SR</a> mot ett <a href="http://http://www.nyteknik.se/art/42132">utfall i Ny Teknik</a> (puh, lÃ¤nksaturation), och kan inte annat Ã¤n som vanligt dumsnÃ¤llt lalla med: SR och public service-radio Ã¤r sÃ¥ vansinnigt lÃ¥ngt ifrÃ¥n dÃ¶tt, Ã¥tminstone i min vÃ¤rld. Medan kommersiell TV helt klart hittat nischer och visar <a href="http://www.discovery.com/">mÃ¥nga</a> <a href="http://www.kanal5.se/templates/page.aspx?id=9615">program</a> <a href="http://tv4.se/visa/artikel/366607.html">jag</a> <a href="http://www.tv3.se/index.php?option=com_content&task=view&id=2884&timetableid=31508">gillar</a>, sÃ¥ Ã¤r kommersiell radio bara dÃ¥lig. Dum och dÃ¥lig. KvÃ¤llstidningsdum och -dÃ¥lig.
+
+SR Ã¤r dÃ¤remot fyllt av bra, intressanta och torra program i stort sett nÃ¤r som helst. Som om inte det var nog Ã¤r det vÃ¤l den medieorganisation som absolut bÃ¤st anpassat sig till nya tekniker (och jag vÃ¤ljer hÃ¤r att hÃ¥lla fÃ¶r Ã¶ronen, sjunga hÃ¶gt och ignorera digitalradioelÃ¤ndet) i och med all <a href="http://sr.se/cgi-bin/mall/index.asp?ProgramID=2332">podradio</a> och webbradio. Jag blir lycklig av att kunna lyssna pÃ¥ <a href="http://sr.se/cgi-bin/P1/program/artikel.asp?ProgramID=438&artikel=156225">allt bra som sÃ¤nds dÃ¥ jag i vanliga fall sover</a>.
+
+Med sin torra <a href="http://sr.se/ekot">ekot</a>- och <a href="http://sr.se/P1/folkminnen/">folkminnen</a>kÃ¤nsla som nÃ¶dvÃ¤ndig grund, sÃ¥ kÃ¤nns SR frÃ¤scht, genomtÃ¤nkt och fÃ¶rstÃ¥ndigt. Till skillnad frÃ¥n t.ex. sunk-<a href="http://www.nrj.se">NRJ</a>.
+
+Mer SR-hyllande Ã¤n argumentation mot Richard Gatarskis. SÃ¥ kan det vara.

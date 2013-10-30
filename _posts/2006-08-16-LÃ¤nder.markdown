@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: LÃ¤nder
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 62
+wordpress_url: http://www.liedman.net/l&amp;#228;nder/
+date: 2006-08-16 22:17:44.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Hittade en sida fÃ¶r att <a href="http://www.world66.com/myworld66">generera en vÃ¤rldskarta med de lÃ¤nder man besÃ¶kt</a> via <a href="http://blogs.msdn.com/cwilso/default.aspx">Chris Wilsons blog</a> (som f.Ã¶. verkar vara en klok man, trots att han jobbar seriÃ¶st med att utveckla <a href="http://www.microsoft.com/sverige/windows/ie/default.mspx">IE</a> hos Microsoft).
+
+HÃ¤r Ã¤r lÃ¤nderna jag besÃ¶kt hittills:
+<img src="http://www.world66.com/myworld66/visitedCountries/worldmap?visited=USDOVEMATNALATBGCZDKFRDEGRITLUMCNOPLESSEUKVACYILJOSYTR"/>

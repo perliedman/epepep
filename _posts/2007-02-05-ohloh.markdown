@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Ohloh
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 81
+wordpress_url: http://per.liedman.net/?p=81
+date: 2007-02-05 20:31:07.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+Via <a href="http://martijndashorst.com/blog/2007/02/04/oh-no-another-open-source-catalogue-ohlo/">A Wicket Diary</a> hittade till <a href="http://www.ohloh.net/">Ohloh</a>, en indexeringstjÃ¤nst fÃ¶r Ã¶ppen kÃ¤llkod. En fÃ¶rdel jÃ¤mfÃ¶rt med liknande tidigare initiativ Ã¤r att Ohloh fokuserar mycket pÃ¥ statistik som hÃ¤mtas ur projektens <a href="http://en.wikipedia.org/wiki/Revision_control">versionshanteringssystem</a> (CVS, Subversion); sÃ¥vÃ¤l kodkvalitÃ© (eller iallafall mÃ¤ngden kommentarer) som aktivitet och storlek bedÃ¶ms. Dessutom ser det sÃ¶tt och Web 2.0-igt ut ocksÃ¥.
+
+Jag passade pÃ¥ att lÃ¤gga till mitt gamla projekt <a href="http://www.ohloh.net/projects/4304">Atlas</a>. Det kommer med all sannolikhet varken vinna priser fÃ¶r sina tÃ¤ta kommentarer eller strÃ¥lande aktivitet. Jag borde bidra med nÃ¥got lite senare, och lite mer aktivt...

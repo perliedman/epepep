@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 27
+wordpress_url: http://www.liedman.netdatorer-&amp;-teknik//
+date: 2005-05-12 08:55:11.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+http://www.paulgraham.com/hiring.html

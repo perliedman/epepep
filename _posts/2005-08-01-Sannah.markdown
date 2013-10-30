@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: Sannah
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 34
+wordpress_url: http://www.liedman.netfoto/sannah/
+date: 2005-08-01 17:46:05.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Utan nÃ¤rmare analys berÃ¤ttar jag fÃ¶r er att jag Ã¤r lite fÃ¶rÃ¤lskad i fotobloggen <a href="http://sannah.iamnotfromfinland.net/blog/">She broke my heart, so I broke her face</a>. SÃ¥ det sÃ¥.

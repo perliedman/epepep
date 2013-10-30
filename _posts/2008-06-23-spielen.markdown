@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: Spielen!
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 127
+wordpress_url: http://per.liedman.net/?p=127
+date: 2008-06-23 19:44:28.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 875
+  author: epepep &raquo; Blog Archive &raquo; Grotesque
+  author_email: ''
+  author_url: http://per.liedman.net/?p=130
+  date: !binary |-
+    MjAwOC0wNy0wMyAxNzoyOTo1OSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNy0wMyAxNjoyOTo1OSArMDIwMA==
+  content: ! '[...] jag skrivit i en tidigare post har jag skrivit ett program fÃ¶r
+    katalogisering av IF-spel. FÃ¶r att gÃ¶ra det hela lite mer [...]'
+- id: 876
+  author: Fredrik R
+  author_email: fredrik@ramsberg.net
+  author_url: http://microheaven.com
+  date: !binary |-
+    MjAwOC0wNy0wNyAxNzoxMjo0OSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNy0wNyAxNjoxMjo0OSArMDIwMA==
+  content: ! "Hej!\r\n\r\nIntressant program! Jag ska testa det strax. SÃ¤rskilt intresserad
+    av om det klarar svenska tecken, men jag gissar att du som svensk har tÃ¤nkt pÃ¥
+    det.\r\n\r\nHar nyligen sjÃ¤lv bÃ¶rjat kÃ¶ra Ubuntu, och blev lite besviken pÃ¥
+    att inte hitta nÃ¥gon snygg tolk. Jag hade missat att Gargoyle finns fÃ¶r Linux,
+    sÃ¥ det tipset tackar vi fÃ¶r!\r\n\r\nMer om textÃ¤ventyr hittar du pÃ¥ min sajt
+    http://microheaven.com\r\n\r\nMvh,\r\n\r\n/Fredrik"
+- id: 878
+  author: Per Liedman
+  author_email: per@liedman.net
+  author_url: http://per.liedman.net
+  date: !binary |-
+    MjAwOC0wOC0xMiAwOTowODoxNSArMDIwMA==
+  date_gmt: !binary |-
+    MjAwOC0wOC0xMiAwODowODoxNSArMDIwMA==
+  content: ! "Hej Fredrik, kul att nÃ¥gon svensk hittar programmet. Jag Ã¤r mycket
+    tacksam fÃ¶r all feedback pÃ¥ hur det fungerar fÃ¶r andra.\r\n\r\nJag planerar
+    Ã¤ven att distribuera Gargoyle som ett Ubuntu-paket, dÃ¥ jag hÃ¥ller med om att
+    det Ã¤r vÃ¤ldigt tomt pÃ¥ IF-fronten i Ubuntu-biblioteket."
+---
+Stora nyheter. Jag har lyckats sÃ¤tta ihop mitt fÃ¶rsta <a href="http://www.gtk.org/">GTK+</a>-program och skapat mitt fÃ¶rsta Ubuntu-paket (som innehÃ¥ller programmet i frÃ¥ga). Men lÃ¥t oss bÃ¶rja frÃ¥n bÃ¶rjan.
+
+De senaste mÃ¥naderna har jag fastnat i textÃ¤ventyr - den urÃ¥ldriga eller kanske urmodiga typ av datorspel dÃ¤r man spelar genom att lÃ¤sa text och sedan skriva kommandon fÃ¶r att berÃ¤tta fÃ¶r datorn vad man vill gÃ¶ra; <a href="http://en.wikipedia.org/wiki/Interactive_fiction">interactive fiction</a> (IF) Ã¤r den engelska termen, som jag gillar bÃ¤ttre, dÃ¥ det inte nÃ¶dvÃ¤ndigtvis rÃ¶r sig om Ã¤ventyr av drakar och demoner-karaktÃ¤r.
+
+I detta Ã¤ventyrande bÃ¶rjade mina problem. Annars fÃ¶rtrÃ¤ffliga Ubuntu har inte nÃ¥gra program fÃ¶r att spela IF pÃ¥ nÃ¥got bekvÃ¤mt sÃ¤tt; nÃ¥gra program finns (frotz, tads och qtads), men de tÃ¤cker inte alla olika spelformat som finns, och Ã¤ven om jag gillar terminalfÃ¶nster sÃ¥ Ã¤r det inte optimalt fÃ¶r IF. Min favorit blev istÃ¤llet snart <a href="http://ccxvii.net/gargoyle/">Gargoyle</a>, som stÃ¶der alla format jag Ã¤r intresserad av, samt ser synnerligen elegant ut.
+
+Vad Gargoyle saknar Ã¤r dock ett bibliotek, eller smidigt sÃ¤tt att hÃ¥lla reda pÃ¥ de olika spel man samlar pÃ¥ sig. Det Ã¤r hÃ¤r mitt program kommer in. Ett slags katalogiseringsprogram fÃ¶r IF-spel med utseende som ett budget-iTunes. Arbetsnamnet Ã¤r <i>Grotesque</i> (eftersom en gargoyle Ã¤r en form av groteskornamentik - ja, jag fick slÃ¥ upp det sistnÃ¤mnda ordet).
+
+Jag Ã¤mnar nog gÃ¶ra nÃ¥got lite mer seriÃ¶st av detta lÃ¤ngre fram, men tills vidare lÃ¤gger jag upp <del>en screenshot, kÃ¤llkoden samt slutligen Ubuntu-paketet fÃ¶r Grotesque-0.1</del> (Uppdaterat 2008-07-03: se <a href="http://grotesque.sourceforge.net/">Grotesques hemsida</a> fÃ¶r senaste versionen av dessa filer). Eftersom jag bara byggt pÃ¥ min egen maskin och det Ã¤r fÃ¶rsta gÃ¥ngen jag paketerar fÃ¶r Ubuntu sÃ¥ har jag sÃ¤kert gjort nÃ¥got fel, men prÃ¶va gÃ¤rna.
+
+Min plan hÃ¤rnÃ¤st Ã¤r att paketera Ã¤ven Gargoyle som Ubuntu-paket, eftersom det Ã¤r lite vÃ¤l stÃ¶kigt att bygga fÃ¶r hand nu, lÃ¤gga pÃ¥ lite puts och glans pÃ¥ Grotesque, samt kanske hitta pÃ¥ ett ordentligt namn. Vi fÃ¥r se. Under tiden borde du prÃ¶va att spela lite IF - nÃ¥gra bra fÃ¶rslag pÃ¥ spel att prÃ¶va hittar du t.ex. <a href="http://www.astro.umd.edu/~marshall/ifmini.html">hÃ¤r</a>.

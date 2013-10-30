@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: KÃ¶r mig!
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 25
+wordpress_url: http://www.liedman.netdatorer-&amp;-teknik/k&amp;#246;r-mig!/
+date: 2005-05-08 19:39:03.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Snubblade via <a href="http://copyriot.blogspot.com/">Copyriot</a> Ã¶ver den egendomliga sidan <a href="http://www.runme.org/">runme.org</a>, och kÃ¤nde att den hade nÃ¥got jag letat efter. Om man sÃ¤ger "mjukvarukonst" och tvingar sig att inte bry sig om den rÃ¤tt pretantiÃ¶sa kÃ¤nslan som dyker upp, sÃ¥ hÃ¶r man ju att det Ã¤r spÃ¤nnande och nÃ¥got man vill grÃ¤va vidare i. Den mjukvarukonst som ryms pÃ¥ runme Ã¤r <a href="http://www.runme.org/feature/read/+notepadminus/+83/">meningslÃ¶s</a>, <a href="http://www.runme.org/project/+f0rwardpunk/">bisarr</a> eller kanske i vissa fall <a href="http://www.runme.org/feature/read/+ssslh/+76/">stÃ¶tande</a>. Det hÃ¤r Ã¤r mjukvara som det inte Ã¤r uppenbart hur man ska anvÃ¤nda, eller om den alls ska anvÃ¤ndas, nÃ¥got som stÃ¥r i bjÃ¤rt kontrast till alla andra program jag anvÃ¤nder, dÃ¤r just anvÃ¤ndbarhet och funktion Ã¤r yttersta fokus.
+
+Fast mest Ã¤r det bara konstigt. Ã„r man van vid de kortfattade och koncisa mjukvarubeskrivningarna hos <a href="www.sourceforge.net">Sourceforge</a> eller <a href="www.freshmeat.net">Freshmeat</a> sÃ¥ Ã¤r runme:s beskrivningar...annorlunda. UngefÃ¤r som att gÃ¥ pÃ¥ konstmuseum - man fattar inte riktigt, men man kÃ¤nner att det Ã¤r bra.
+
+Mitt favorit hittills Ã¤r lÃ¤ttsmÃ¤lta <a href="http://douweosinga.com/projects/googletalk">Google Talk</a>. Jag gillar meningar som <i>"i hate microsoft I have a dream that one day this nation will rise up and be COUNTED/ making Music, Making meaning"</i>.

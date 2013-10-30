@@ -1,0 +1,70 @@
+---
+layout: post
+status: publish
+published: true
+title: Dolt tras
+author: Per Liedman
+author_login: per
+author_email: per@liedman.net
+author_url: http://per.liedman.net
+wordpress_id: 106
+wordpress_url: http://per.liedman.net/?p=106
+date: 2007-08-16 19:59:21.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 206
+  author: epepep &raquo; Blog Archive &raquo; AdjÃ¶ Windows, hej Ubuntu
+  author_email: ''
+  author_url: http://per.liedman.net/?p=116
+  date: !binary |-
+    MjAwNy0xMS0wNCAxNToyNjoxNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMS0wNCAxNDoyNjoxNyArMDEwMA==
+  content: ! '[...] jag sagt tidigare Ã¶nskar jag att jag kunde vara lite mindre fÃ¶rutsÃ¤gbar
+    och sÃ¤ga nÃ¥got positivt om Vista, men [...]'
+- id: 341
+  author: tz
+  author_email: kreuzweg@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNy0xMi0yMCAxMzoxNToyNCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0xMi0yMCAxMjoxNToyNCArMDEwMA==
+  content: Tack! Har problem med exakt detta. En javaapplikation vi kÃ¶per in frÃ¥n
+    tredjepart pÃ¥ vÃ¥r website ger timeouts och browserhÃ¤ngningar hos en del kunder
+    som kÃ¶r Vista. I min enfald trodde jag ju att det kunde bero pÃ¥ felaktigt instÃ¤lld
+    brandvÃ¤gg eller sÃ¤kerhetspolicies i IE7, men sÃ¥ ser man detta :D
+---
+Jag Ã¶nskar att jag kunde sÃ¤ga bra saker om Windows Vista. Jag skulle vilja vara positiv, sÃ¤ga att det fungerar smidigt, att det var vÃ¤rt att vÃ¤nta pÃ¥, eller Ã¥tminstone att det fungerar ok. Eftersom det kÃ¤nns ungefÃ¤r lika gammalt, trÃ¶tt och fÃ¶rutsÃ¤gbart nÃ¤r nÃ¥gon klagar pÃ¥ Microsoft eller Windows som nÃ¤r Tomas Ledin fÃ¥r en sÃ¥gning, sÃ¥ <i>vill</i> jag gÃ¤rna gilla Vista. TyvÃ¤rr gÃ¥r det inte.
+
+Efter att ha anvÃ¤nt Vista nÃ¤rmast dagligen i arbetet under fyra mÃ¥naders tid, kan jag konstatera att min frÃ¥n bÃ¶rjan fÃ¶rsiktigt positiva instÃ¤llning till slut fÃ¥tt sÃ¥ mÃ¥nga tÃ¶rnar att den liknar en tillplattad Ã¶lburk, kvarglÃ¶md efter en riktigt vild midsommarfest. Jag har svÃ¥rt att hitta nÃ¥got som jag egentligen gillar med Vista, eller iallafall nÃ¥got som jag gillar bÃ¤ttre i Vista Ã¤n i XP. De genomskinliga fÃ¶nsterramarna Ã¤r fina. IE7 (som ju egentligen Ã¤r fristÃ¥ende frÃ¥n Vista) klarar numera ganska mycket av det Firefox alltid klarat.
+
+Under nÃ¥gra veckors tid har jag upplevt att det gÃ¥r lÃ¥ngsamt att surfa till vissa platser. KÃ¤nslan Ã¤r vag, eftersom det ofta Ã¤r svÃ¥rt att sÃ¤ga om det Ã¤r uppkopplingen som Ã¤r lÃ¥ngsam, servern Ã¤r belastad eller min dator som tillfÃ¤lligt Ã¤r upptagen med annat (Vistas favoritsysselsÃ¤ttning Ã¤r att swappa disk utan nÃ¤rmare fÃ¶rklaring, gÃ¤rna minuter i stÃ¶ten och utan fÃ¶rvarning, men jag har Ã¥ andra sidan bara 2GB RAM i min dator...suck...).
+
+Mina misstankar pendlade mellan kvarlÃ¤mnade rester av McAfees skÃ¤mt till brandvÃ¤gg som Dell fÃ¶rinstallerat pÃ¥ maskinen, och som jag prompt avinstallerade som fÃ¶rsta Ã¥tgÃ¤rd nÃ¤r jag fick maskinen, och att det helt enkelt var nÃ¥got mer allmÃ¤nt fel med min nÃ¤tverkskonfiguration. Ett tag var jag inne pÃ¥ att det i sjÃ¤lva verket var Java som var problemet, eftersom Java-applikationer med HTTP-anvÃ¤ndning, som Ã¤r nÃ¥got av kÃ¤rnverksamheten pÃ¥ fÃ¶retaget dÃ¤r jag jobbar, verkade mer exponerade Ã¤n andra.
+
+Den slutliga ledtrÃ¥den kom idag, dÃ¥ jag fick information om att Ã¥tminstone en annan Vista-anvÃ¤ndare upplevde precis samma problem som jag. Genom att jÃ¤mfÃ¶ra tiderna det tog att hÃ¤mta nÃ¥gra statiska sidor med hjÃ¤lp av Java, wget och en vanlig browser frÃ¥n en och samma webserver frÃ¥n min Vista-maskin, en XP-maskin och en Linux-maskin, stod det klart: Vista hade problem med samtliga program, de andra hade det inte. Det stod Ã¤ven klart att bara enstaka webservrar drabbades av problemet, medan de flesta gav liknande tider i Vista som i XP och Linux.
+
+Rustad med denna information var det inte svÃ¥rt att googla upp problemet och dess lÃ¶sning. Hemligheten heter <i>TCP Receive Window Auto-Tuning</i>, en ny funktion i Vistas nÃ¤tverkslager. Microsoft beskriver problemet lugnt och sakligt sÃ¥ hÃ¤r: <a href="http://support.microsoft.com/kb/934430">Network connectivity may fail when you try to use Windows Vista behind a firewall device</a>. TyvÃ¤rr har artikeln helt fel nÃ¤r den pÃ¥stÃ¥r:
+<blockquote>
+This issue may occur if the following conditions are true:
+â€¢	You try to make a non-HTTP network connection.
+â€¢	The firewall device has a problem with its implementation of the TCP Window Scale Option that is defined in Internet Engineering Task Force (IETF) Request For Comments (RFC) 1323.
+
+By default, the Receive Window Auto-Tuning feature in Windows Vista uses a Window Scaling factor of 8 for non-HTTP connections. This issue does not occur when you try to make an HTTP connection.</blockquote>
+TvÃ¤rtemot vad ovanstÃ¥ende pÃ¥stÃ¥r, sÃ¥ uppstÃ¥r problemet i allra hÃ¶gsta grad fÃ¶r HTTP-anslutningar. LÃ¶sningen Ã¤r helt enkelt att stÃ¤nga av auto-tuning:
+
+<code>netsh interface tcp set global autotuninglevel=restricted</code>
+
+Efter att ha kÃ¶rt detta kommando beter sig Vista-maskinen pÃ¥ samma vis som XP och Linux, d.v.s. anslutningarna till de berÃ¶rda servrarna gÃ¥r Ã¥tminstone en faktor tio snabbare. Detaljerna beskrivs i <a href="http://blogs.msdn.com/wndp/archive/2007/07/05/receive-window-auto-tuning-on-vista.aspx">bloggen fÃ¶r Windows Core Networking</a>.
+
+Mitt stÃ¶rsta problem med hur Vista fungerar hÃ¤r Ã¤r den totala avsaknaden av transparens: det finns inget som helst som antyder att nÃ¥got egentligen Ã¤r felaktigt konfigurerat eller trasigt; den enda indikationen Ã¤r att jag av erfarenhet <i>vet</i> att det skall gÃ¥ fortare Ã¤n det faktiskt gÃ¶r. Jag inser att kÃ¤llan till problemet egentligen ligger hos tillverkare av nÃ¤tverksutrustning, som inte fÃ¶ljer en <a href="http://www.ietf.org/rfc/rfc1323.txt">RFC frÃ¥n 1992</a>, men Microsoft har i min mening hÃ¤r gjort tvÃ¥ misstag:
+<ul>
+<li>Problemet gÃ¥r inte att diagnostisera. Det finns ingen indikation pÃ¥ att nÃ¥got Ã¤r fel, sÃ¥ att jag som anvÃ¤ndare manuellt kan avhjÃ¤lpa det. Andra maskiner i nÃ¤tverket fungerar felfritt, vilket leder till (den felaktiga) slutsatsen att det Ã¤r Vista-maskinen det Ã¤r fel pÃ¥.</li>
+<li>De har frÃ¥ngÃ¥tt <a href="http://en.wikipedia.org/wiki/Jon_Postel#Postel.27s_Law">Postels lag</a>: "be conservative in what you do, be liberal in what you accept from others". NÃ¤tverksutrustningen fÃ¶ljer inte reglerna (RFC 1323 i det hÃ¤r fallet), men i och med ovanstÃ¥ende, d.v.s. att anvÃ¤ndaren inte meddelas om var felet ligger, sÃ¥ mÃ¥ste Windows sjÃ¤lv kunna Ã¥tgÃ¤rda felet. Att istÃ¤llet misslyckas i tysthet ("fail silently") placerar anvÃ¤ndaren i en omÃ¶jlig situation.</li>
+</ul>
+
+TyvÃ¤rr kÃ¤nns detta inte som en engÃ¥ngsfÃ¶reteelse, utan snarare som nÃ¥got symptomatiskt fÃ¶r hela Vista.
+
+<em>Uppdatering 2007-08-23:</em> Hittade en bÃ¤ttre Microsoft-artikel som beskriver samma problem: <a href="http://support.microsoft.com/kb/929868">A Web site sends data very slowly or drops the data completely when you use Windows Vista Enterprise</a> (artikeln listar samtliga Vista-versioner under "Applies to", Ã¤ven om bara Vista Enterprise nÃ¤mns i rubriken).
