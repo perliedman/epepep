@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: P&aring;st&aring;ende fr&aring;n de d&ouml;da
+title: Påstående från de döda
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -21,14 +21,13 @@ comments:
     MjAwNi0wOS0yNCAxMjowODowOCArMDIwMA==
   date_gmt: !binary |-
     MjAwNi0wOS0yNCAxMjowODowOCArMDIwMA==
-  content: ! "Som jag n&auml;mnt tidigare verkar DN ha en inst&auml;llning till terroristers
-    d&ouml;d som p&aring;minner om Schr&ouml;dingers katt. En terroristledare kan
-    p&aring;st&aring; sig vara levande, men han &auml;r mestadels &auml;nd&aring;
-    d&ouml;d, f&ouml;r det har &auml;nd&aring; CIA sagt, och s&aring; vidare.\r\n\r\nSenast
+  content: ! "Som jag nämnt tidigare verkar DN ha en inställning till terroristers
+    död som påminner om Schrödingers katt. En terroristledare kan påstå sig vara levande,
+    men han är mestadels ändå död, för det har ändå CIA sagt, och så vidare.\r\n\r\nSenast
     i raden ligger nu"
 ---
-J&auml;vla egendomlig formulering i <a href="http:&#47;&#47;www.dn.se&#47;DNet&#47;jsp&#47;polopoly.jsp?d=148&a=517483&previousRenderType=6">en artikel i DN<&#47;a>: <i>"Terrorn&auml;tverket al-Qaidas andreman Ayman Zawahiri &ouml;verlevde en amerikansk flygattack mot honom i Pakistan tidigare under januari, <b>h&auml;vdade han<&#47;b> i en videofolm som s&auml;ndes i satellittevekanalen al-Jazira p&aring; m&aring;ndagen."<&#47;i> (min fetning).
+Jävla egendomlig formulering i <a href="http://www.dn.se/DNet/jsp/polopoly.jsp?d=148&a=517483&previousRenderType=6">en artikel i DN</a>: <i>"Terrornätverket al-Qaidas andreman Ayman Zawahiri överlevde en amerikansk flygattack mot honom i Pakistan tidigare under januari, <b>hävdade han</b> i en videofolm som sändes i satellittevekanalen al-Jazira på måndagen."</i> (min fetning).
 
-D&ouml;da h&auml;vdar s&auml;llan saker, mig veterligen (f&ouml;rutom i <a href="http:&#47;&#47;www.kanal5.se&#47;templates&#47;page.aspx?id=2683">F&ouml;rnimmelse av mord<&#47;a>), s&aring; jag lutar faktiskt &aring;t att lita p&aring; p&aring;st&aring;endet. (I h&auml;ndelse att videon var bandad i f&ouml;rv&auml;g var det f&ouml;rbannat skickligt av honom att f&ouml;rutse anfallet.)
+Döda hävdar sällan saker, mig veterligen (förutom i <a href="http://www.kanal5.se/templates/page.aspx?id=2683">Förnimmelse av mord</a>), så jag lutar faktiskt åt att lita på påståendet. (I händelse att videon var bandad i förväg var det förbannat skickligt av honom att förutse anfallet.)
 
-(Ja, det st&aring;r verkligen "videofolm" i artikeln.)
+(Ja, det står verkligen "videofolm" i artikeln.)

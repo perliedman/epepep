@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Beundrandsv&auml;rt
+title: Beundrandsvärt
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-Jag har tv&auml;ttat kl&auml;dseln till min soffa idag. Ni fattar bara inte hur duktig jag egentligen &auml;r.
+Jag har tvättat klädseln till min soffa idag. Ni fattar bara inte hur duktig jag egentligen är.

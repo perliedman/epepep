@@ -21,19 +21,19 @@ comments:
     MjAwNS0xMS0yOSAxMjowNjoxOCArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0xMS0yOSAxMjowNjoxOCArMDEwMA==
-  content: ! "Visst &auml;r det jobbigt n&auml;r program, som man tror skall komma
-    upp p&aring; typ swebits eller TPB, inte dyker upp. \r\n\r\nJag har gjort ngr
-    s&aring;dana missar av program jag t&auml;nkt spela in, men som jag inte orkat
-    och ist&auml;llet t&auml;nkt - den kommer ju att finnas p&aring; TPB."
+  content: ! "Visst är det jobbigt när program, som man tror skall komma upp på typ
+    swebits eller TPB, inte dyker upp. \r\n\r\nJag har gjort ngr sådana missar av
+    program jag tänkt spela in, men som jag inte orkat och istället tänkt - den kommer
+    ju att finnas på TPB."
 - id: 22
-  author: Utsikt fr&Atilde;&yen;n H&Atilde;&para;jden
+  author: Utsikt frÃ¥n HÃ¶jden
   author_email: ''
   author_url: http://www.mattias.st/blogg.asp?ID=610
   date: !binary |-
     MjAwNS0xMS0yOSAyMTo0ODo1NCArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0xMS0yOSAyMTo0ODo1NCArMDEwMA==
-  content: ! 'Per p&aring; epepep har uppm&auml;rksammat en intressant grej:'
+  content: ! 'Per på epepep har uppmärksammat en intressant grej:'
 - id: 23
   author: Low
   author_email: ''
@@ -42,8 +42,7 @@ comments:
     MjAwNS0xMi0wMyAxODowODo1NSArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0xMi0wMyAxODowODo1NSArMDEwMA==
-  content: Om ni kan och brukar anv&auml;nda *DC++* s&aring; finns b&aring;da avsnitten
-    p&aring; m&aring;nga hubbar.
+  content: Om ni kan och brukar använda *DC++* så finns båda avsnitten på många hubbar.
 - id: 24
   author: Lollie
   author_email: ''
@@ -52,7 +51,7 @@ comments:
     MjAwNi0wMS0yMSAyMzozMDo1MSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wMS0yMSAyMzozMDo1MSArMDEwMA==
-  content: VAd betyder seeda, och hur ska man g&ouml;ra f&ouml;r att seeda?
+  content: VAd betyder seeda, och hur ska man göra för att seeda?
 - id: 25
   author: Per
   author_email: per@liedman.net
@@ -61,7 +60,7 @@ comments:
     MjAwNi0wMS0yMyAyMTowNTozMCArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wMS0yMyAyMTowNTozMCArMDEwMA==
-  content: ! 'Hej och v&auml;lkommen till verkligheten: http:&#47;&#47;www.vladd44.com&#47;torrent&#47;terms.php'
+  content: ! 'Hej och välkommen till verkligheten: http://www.vladd44.com/torrent/terms.php'
 - id: 210
   author: ''
   author_email: ''
@@ -70,7 +69,7 @@ comments:
     MjAwNy0xMS0wNSAxMzo0NTowNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0xMS0wNSAxMjo0NTowNyArMDEwMA==
-  content: Hur Seedar man  svara g&auml;rna mig p&aring; msn hehe   mgs177@msn.com        mvh
+  content: Hur Seedar man  svara gärna mig på msn hehe   mgs177@msn.com        mvh
     Markus
 - id: 211
   author: ''
@@ -80,8 +79,8 @@ comments:
     MjAwNy0xMS0wNSAxMzo0Njo1NyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0xMS0wNSAxMjo0Njo1NyArMDEwMA==
-  content: Hej Hur Seedar Man Skulle Vara Mkt Tacksam &Ouml;ver Svar Svara G&auml;rna
-    Till Mig P&aring; Msn    mga177@msn.com  hehe   Mvh Markus
+  content: Hej Hur Seedar Man Skulle Vara Mkt Tacksam Över Svar Svara Gärna Till Mig
+    På Msn    mga177@msn.com  hehe   Mvh Markus
 - id: 720
   author: luzz3bulle
   author_email: ''
@@ -90,8 +89,8 @@ comments:
     MjAwOC0wNS0wMyAxMjo1NjoyMSArMDIwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0wMyAxMTo1NjoyMSArMDIwMA==
-  content: anv&auml;nd aldrig DC++
+  content: använd aldrig DC++
 ---
-Det har nu g&aring;tt s&aring; l&aring;ngt att jag inser att jag inte kan f&ouml;lja <a href="http:&#47;&#47;svt.se&#47;svt&#47;jsp&#47;Crosslink.jsp?d=39760&lid=Dokument_Humor">Dokument: humor<&#47;a> eftersom det inte visas p&aring; <a href="http:&#47;&#47;thepiratebay.org&#47;">The Pirate Bay<&#47;a>. &Aring;tminstone inte f&ouml;r tillf&auml;llet. F&ouml;rsta avsnittet, vars repris jag r&aring;kade se av misstag, var mycket lovande.
+Det har nu gått så långt att jag inser att jag inte kan följa <a href="http://svt.se/svt/jsp/Crosslink.jsp?d=39760&lid=Dokument_Humor">Dokument: humor</a> eftersom det inte visas på <a href="http://thepiratebay.org/">The Pirate Bay</a>. Åtminstone inte för tillfället. Första avsnittet, vars repris jag råkade se av misstag, var mycket lovande.
 
-Sn&auml;lla, n&aring;gon, seeda!
+Snälla, någon, seeda!

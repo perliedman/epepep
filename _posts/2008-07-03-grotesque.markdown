@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-Som jag skrivit i en <a href="http:&#47;&#47;per.liedman.net&#47;?p=127">tidigare post<&#47;a> har jag skrivit ett program f&ouml;r katalogisering av <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Interactive_fiction">IF<&#47;a>-spel. F&ouml;r att g&ouml;ra det hela lite mer officiellt har jag nu registrerat projektet p&aring; SourceForge, som nu tar hand om <a href="http:&#47;&#47;grotesque.sourceforge.net&#47;">Grotesques hemsida<&#47;a> samt tar hand om <a href="http:&#47;&#47;grotesque.svn.sourceforge.net&#47;viewvc&#47;grotesque&#47;">projektets programkod<&#47;a>.
+Som jag skrivit i en <a href="http://per.liedman.net/?p=127">tidigare post</a> har jag skrivit ett program för katalogisering av <a href="http://en.wikipedia.org/wiki/Interactive_fiction">IF</a>-spel. För att göra det hela lite mer officiellt har jag nu registrerat projektet på SourceForge, som nu tar hand om <a href="http://grotesque.sourceforge.net/">Grotesques hemsida</a> samt tar hand om <a href="http://grotesque.svn.sourceforge.net/viewvc/grotesque/">projektets programkod</a>.

@@ -13,4 +13,4 @@ categories: []
 tags: []
 comments: []
 ---
-http:&#47;&#47;www.paulgraham.com&#47;hiring.html
+http://www.paulgraham.com/hiring.html

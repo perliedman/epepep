@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-Jag hyser en stor fascination f&ouml;r covers som tillf&ouml;r n&aring;got nytt till en gammal l&aring;t. Mitt senaste &auml;mne f&ouml;r f&ouml;rtjusning i genren &auml;r <a href="http:&#47;&#47;www.honeyroot.com&#47;">Honeyroot<&#47;a>s cover p&aring; Love will tear us apart; musik till eftertexterna till <a href="http:&#47;&#47;www.imdb.com&#47;title&#47;tt0471030&#47;">Red Road<&#47;a>. Blev ett av mina relativt ovanliga iTunes-k&ouml;p. Rekommenderas varmt.
+Jag hyser en stor fascination för covers som tillför något nytt till en gammal låt. Mitt senaste ämne för förtjusning i genren är <a href="http://www.honeyroot.com/">Honeyroot</a>s cover på Love will tear us apart; musik till eftertexterna till <a href="http://www.imdb.com/title/tt0471030/">Red Road</a>. Blev ett av mina relativt ovanliga iTunes-köp. Rekommenderas varmt.

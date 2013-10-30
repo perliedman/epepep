@@ -21,8 +21,8 @@ comments:
     MjAwNy0wMS0yMyAxNTowMDo0MyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wMS0yMyAxNDowMDo0MyArMDEwMA==
-  content: Ser man p&aring;. Den d&auml;r konverteringen &auml;r inget du k&auml;nner
-    f&ouml;r att g&ouml;ra fler g&aring;nger, eller...?
+  content: Ser man på. Den där konverteringen är inget du känner för att göra fler
+    gånger, eller...?
 - id: 38
   author: Johannes
   author_email: ''
@@ -31,7 +31,7 @@ comments:
     MjAwNy0wMS0yMyAxNTowMTo0MCArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wMS0yMyAxNDowMTo0MCArMDEwMA==
-  content: ! '...och s&aring; gl&ouml;mde jag kommentera att det ser bra ut...'
+  content: ! '...och så glömde jag kommentera att det ser bra ut...'
 - id: 39
   author: Per
   author_email: ''
@@ -40,8 +40,8 @@ comments:
     MjAwNy0wMS0yMyAxNToyOTowMSArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wMS0yMyAxNDoyOTowMSArMDEwMA==
-  content: Det var n&auml;stan s&aring; att jag r&auml;knade med att g&ouml;ra det
-    :) Jo, det skall inte vara n&aring;gra problem...
+  content: Det var nästan så att jag räknade med att göra det :) Jo, det skall inte
+    vara några problem...
 ---
-Efter att irriterat mig l&auml;nge och v&auml;l &ouml;ver <a href="http:&#47;&#47;www.s9y.org">Serendipitys<&#47;a> egenheter har jag best&auml;mt mig f&ouml;r att konvertera min blogg till <a href="http:&#47;&#47;www.wordpress.org">WordPress<&#47;a>. Detta &auml;r resultatet. Hittills har jag k&auml;nslan att WP fungerar lite b&auml;ttre, lite snyggare, utan att f&ouml;r den skull vara revolutionerande. Det mesta fungerar nu, tror jag, &auml;ven om lite v&auml;l mycket fortfarande &auml;r p&aring; engelska. Om man prenumererar p&aring; n&aring;gon feed eller s&aring; l&auml;r man f&aring; uppdatera sina l&auml;nkar nu. Urs&auml;kta besv&auml;ret.
-Konverteringen fr&aring;n Serendipity gjordes med hj&auml;lp av <a href="http:&#47;&#47;www.filipdewaard.com&#47;personal&#47;long-time-no-see">ett script<&#47;a> skrivet av Filip de Waard. Mycket smidigt, &auml;ven om jag fick justera n&aring;gra saker f&ouml;r att f&aring; det att fungera smidigt i f&ouml;r mina inst&auml;llningar. I h&auml;ndelse att n&aring;gon skulle vara intresserad har jag gjort det tillg&auml;ngligt h&auml;r: <a title="wpimport.zip" rel="attachment" id="p78" href="http:&#47;&#47;per.liedman.net&#47;?attachment_id=78">wpimport.zip<&#47;a>
+Efter att irriterat mig länge och väl över <a href="http://www.s9y.org">Serendipitys</a> egenheter har jag bestämt mig för att konvertera min blogg till <a href="http://www.wordpress.org">WordPress</a>. Detta är resultatet. Hittills har jag känslan att WP fungerar lite bättre, lite snyggare, utan att för den skull vara revolutionerande. Det mesta fungerar nu, tror jag, även om lite väl mycket fortfarande är på engelska. Om man prenumererar på någon feed eller så lär man få uppdatera sina länkar nu. Ursäkta besväret.
+Konverteringen från Serendipity gjordes med hjälp av <a href="http://www.filipdewaard.com/personal/long-time-no-see">ett script</a> skrivet av Filip de Waard. Mycket smidigt, även om jag fick justera några saker för att få det att fungera smidigt i för mina inställningar. I händelse att någon skulle vara intresserad har jag gjort det tillgängligt här: <a title="wpimport.zip" rel="attachment" id="p78" href="http://per.liedman.net/?attachment_id=78">wpimport.zip</a>

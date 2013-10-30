@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: V&auml;gledning till verkligheten
+title: Vägledning till verkligheten
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Hittade som av en slump en alldeles utm&auml;rkt och alldeles gratis bok p&aring; n&auml;tet. <i><a href="http:&#47;&#47;www.faqs.org&#47;docs&#47;artu&#47;">The Art of Unix Programming<&#47;a><&#47;i> heter den, skriven av legenden <a href="http:&#47;&#47;www.catb.org&#47;~esr&#47;">Eric S. Raymond<&#47;a>. Boken g&ouml;r ett gediget arbete med att f&ouml;rklara vad UNIX inneb&auml;r, inte bara i form av att vara en familj av operativsystem, utan &auml;ven fundamentet f&ouml;r en designfilosofi och tankes&auml;tt.
+Hittade som av en slump en alldeles utmärkt och alldeles gratis bok på nätet. <i><a href="http://www.faqs.org/docs/artu/">The Art of Unix Programming</a></i> heter den, skriven av legenden <a href="http://www.catb.org/~esr/">Eric S. Raymond</a>. Boken gör ett gediget arbete med att förklara vad UNIX innebär, inte bara i form av att vara en familj av operativsystem, utan även fundamentet för en designfilosofi och tankesätt.
 
-Om man bortser fr&aring;n att Raymonds kompakta hat mot MS ibland skiner igenom lite v&auml;l tydligt s&aring; g&ouml;r den ett utm&auml;rkt jobb i att placera UNIX p&aring; kartan bland andra operativsystem, samt visa hur andra f&ouml;rh&aring;ller sig till de samma. M&aring;nga tankar som jag l&auml;nge burit p&aring; utan att riktigt kunna artikulera f&aring;r h&auml;r en god bakgrund och motivation, kanske b&auml;st sammanfattade <a href="http:&#47;&#47;www.faqs.org&#47;docs&#47;artu&#47;ch01s06.html">h&auml;r<&#47;a>.
+Om man bortser från att Raymonds kompakta hat mot MS ibland skiner igenom lite väl tydligt så gör den ett utmärkt jobb i att placera UNIX på kartan bland andra operativsystem, samt visa hur andra förhåller sig till de samma. Många tankar som jag länge burit på utan att riktigt kunna artikulera får här en god bakgrund och motivation, kanske bäst sammanfattade <a href="http://www.faqs.org/docs/artu/ch01s06.html">här</a>.
 
-Nu &ouml;nskar man bara att ESR kunde ta sig samman och sluta vara <a href="http:&#47;&#47;www.catb.org&#47;~esr&#47;guns&#47;">en s&aring;n helt utflippad vapengalning<&#47;a>.
+Nu önskar man bara att ESR kunde ta sig samman och sluta vara <a href="http://www.catb.org/~esr/guns/">en sån helt utflippad vapengalning</a>.

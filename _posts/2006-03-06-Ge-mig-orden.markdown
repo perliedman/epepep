@@ -14,4 +14,4 @@ categories: []
 tags: []
 comments: []
 ---
-Ni borde kolla in min systerdotter Rebeccas blogg, <a href="http:&#47;&#47;ge-mig-orden.blogs.se&#47;">Ge mig orden<&#47;a>. Hon bloggar b&aring;de mer och seri&ouml;sare &auml;n jag.
+Ni borde kolla in min systerdotter Rebeccas blogg, <a href="http://ge-mig-orden.blogs.se/">Ge mig orden</a>. Hon bloggar både mer och seriösare än jag.

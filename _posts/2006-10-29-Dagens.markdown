@@ -21,9 +21,9 @@ comments:
     MjAwNi0xMC0zMSAyMDowMTo1MyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0zMSAyMDowMTo1MyArMDEwMA==
-  content: ! 'H&auml;r sitter jag i godan ro och surfar nya l&auml;nkar p&aring; v&auml;nners
-    bloggar, hittar en oemotst&aring;ndlig titel som m&aring;ste f&ouml;ljas upp och
-    konstaterar att det hela k&auml;nns bekant: inte bara det att jag tror jag sett
-    fotot f&ouml;rut, men visst &auml;r det konstigt att det finns en l'
+  content: ! 'Här sitter jag i godan ro och surfar nya länkar på vänners bloggar,
+    hittar en oemotståndlig titel som måste följas upp och konstaterar att det hela
+    känns bekant: inte bara det att jag tror jag sett fotot förut, men visst är det
+    konstigt att det finns en l'
 ---
-Dagens festligaste: Mr Muscle Proppl&ouml;sare; fr&auml;ser, ryker, luktar f&ouml;rbluffande illa utan att sk&auml;mmas, och g&ouml;r v&auml;ldigt rent. F&aring; saker ger &aring;ngest som ett badkar som v&auml;grar t&ouml;mmas efter anv&auml;ndning.
+Dagens festligaste: Mr Muscle Propplösare; fräser, ryker, luktar förbluffande illa utan att skämmas, och gör väldigt rent. Få saker ger ångest som ett badkar som vägrar tömmas efter användning.

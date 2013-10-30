@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Nu m&aring;ste jag sticka, vi ses sen!
+title: Nu måste jag sticka, vi ses sen!
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,10 +14,10 @@ categories: []
 tags: []
 comments: []
 ---
-Vad &auml;r grejen med ordet "sticka"? Eller r&auml;ttare sagt: vad &auml;r grejen med de ord som alla stavas "sticka" p&aring; svenska? Ok f&ouml;r att samma kombination bokst&auml;ver kan ha flera betydelser i m&aring;nga fall, men just "sticka" &auml;r ovanligt opraktiskt.
+Vad är grejen med ordet "sticka"? Eller rättare sagt: vad är grejen med de ord som alla stavas "sticka" på svenska? Ok för att samma kombination bokstäver kan ha flera betydelser i många fall, men just "sticka" är ovanligt opraktiskt.
 
 "Akta, den kan sticka!" (geting)
-"Men stick d&aring;!" (vilt viftande &aring;t samma geting, men gissningsvis med annan inneb&ouml;rd)
-"Jag m&aring;ste sticka nu, men vi h&ouml;rs sen!" (bekant som tidvis &auml;gnar sig &aring;t att sticka tr&ouml;jor tar adj&ouml; och man l&auml;mnas undrande exakt vad som kommer att ske)
+"Men stick då!" (vilt viftande åt samma geting, men gissningsvis med annan innebörd)
+"Jag måste sticka nu, men vi hörs sen!" (bekant som tidvis ägnar sig åt att sticka tröjor tar adjö och man lämnas undrande exakt vad som kommer att ske)
 
-Semesterfirande &ouml;ppnar f&ouml;r mycket funderingar.
+Semesterfirande öppnar för mycket funderingar.

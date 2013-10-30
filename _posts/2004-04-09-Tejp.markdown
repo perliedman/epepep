@@ -16,6 +16,6 @@ comments: []
 ---
 Teknik meets konst meets...vansinne?
 
-<a href="http:&#47;&#47;civ.idc.cs.chalmers.se&#47;projects&#47;pps&#47;tejp&#47;">http:&#47;&#47;civ.idc.cs.chalmers.se&#47;projects&#47;pps&#47;tejp&#47;<&#47;a>
+<a href="http://civ.idc.cs.chalmers.se/projects/pps/tejp/">http://civ.idc.cs.chalmers.se/projects/pps/tejp/</a>
 
 Coolt som fan.

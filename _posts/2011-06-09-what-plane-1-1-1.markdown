@@ -40,10 +40,10 @@ comments:
   date_gmt: !binary |-
     MjAxMS0xMC0xOCAxNzo1Njo0MSArMDIwMA==
   content: ! "That's great to hear!\r\n\r\nI certainly won't promise I'll implement
-    those things, but it's great suggestions, and I'll keep them in mind when&#47;if
-    I get around to do some more development.\r\n\r\n(And in case you or anyone else
+    those things, but it's great suggestions, and I'll keep them in mind when/if I
+    get around to do some more development.\r\n\r\n(And in case you or anyone else
     is interested, I wouldn't mind opening up the source for others.)"
 ---
 I'm still alive even if posts here are even less frequent than usual.
 
-<a href="http:&#47;&#47;www.liedman.net&#47;share&#47;WhatPlane-android-1.1.1.apk">What Plane? version 1.1.1<&#47;a> is now available for download. It has a lot of bug fixes, adds a small needle pointing the direction of the plane (if your compass works, mine never does on my HTC Desire), and also adds an application icon. I have more fun with this version than is really healthy.
+<a href="http://www.liedman.net/share/WhatPlane-android-1.1.1.apk">What Plane? version 1.1.1</a> is now available for download. It has a lot of bug fixes, adds a small needle pointing the direction of the plane (if your compass works, mine never does on my HTC Desire), and also adds an application icon. I have more fun with this version than is really healthy.

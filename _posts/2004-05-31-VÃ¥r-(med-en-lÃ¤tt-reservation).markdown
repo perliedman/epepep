@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: V&aring;r (med en l&auml;tt reservation)
+title: Vår (med en lätt reservation)
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Jag pr&ouml;vade att g&aring; ut i solen idag, och det visade sig att det var v&aring;r eller n&auml;stan sommar. Det var kv&auml;ll men solen var fortfarande uppe. Allt var lite rosa och det var fortfarande f&aring;glar som fl&ouml;g omkring och sj&ouml;ng.
+Jag prövade att gå ut i solen idag, och det visade sig att det var vår eller nästan sommar. Det var kväll men solen var fortfarande uppe. Allt var lite rosa och det var fortfarande fåglar som flög omkring och sjöng.
 
-Det k&auml;nns trist att allt som har med s&aring;dant har &auml;ltats i evigheter. Att man knappt kan prata om fin v&aring;r utan att det blir banalt och platt. Jag tror jag efters&ouml;ker en bild av v&aring;ren med udd p&aring;, n&aring;got som inte bara &auml;r rosor och f&aring;glar, men fortfarande vackert. N&aring;got som inte kv&auml;ver med mj&auml;kighet, utan k&auml;nns friskt och hoppfullt.
+Det känns trist att allt som har med sådant har ältats i evigheter. Att man knappt kan prata om fin vår utan att det blir banalt och platt. Jag tror jag eftersöker en bild av våren med udd på, något som inte bara är rosor och fåglar, men fortfarande vackert. Något som inte kväver med mjäkighet, utan känns friskt och hoppfullt.
 
-(Senare till&auml;gg: jag tror en del av det jag efters&ouml;ker finns h&auml;r: <a href="http:&#47;&#47;www.fotosidan.se&#47;gallery&#47;viewlarge.htm?ID=199986">http:&#47;&#47;www.fotosidan.se&#47;gallery&#47;viewlarge.htm?ID=199986<&#47;a>)
+(Senare tillägg: jag tror en del av det jag eftersöker finns här: <a href="http://www.fotosidan.se/gallery/viewlarge.htm?ID=199986">http://www.fotosidan.se/gallery/viewlarge.htm?ID=199986</a>)

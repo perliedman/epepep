@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Mallorca-krisen och s&ouml;derfamiljen
+title: Mallorca-krisen och söderfamiljen
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -22,43 +22,41 @@ comments:
     MjAxMC0xMi0wOSAwMDowNjozNCArMDEwMA==
   date_gmt: !binary |-
     MjAxMC0xMi0wOCAyMzowNjozNCArMDEwMA==
-  content: ! "Nu borde jag v&auml;l inte tala f&ouml;r n&aring;gon annan &auml;n mig
-    sj&auml;lv, men jag kan t&auml;nka mig att det som Eric Ros&eacute;n och Jesper
-    Nilsson retar sig p&aring; &auml;r den d&auml;r sj&auml;lvbel&aring;tna v&auml;rldsfr&aring;nv&auml;nda
-    blicken som familjen i reportaget ger uttryck f&ouml;r. \"Mallorca-kris\", liksom,
-    det &Auml;R ett komiskt uttryck. Kanske bottnar det i avundsjuka ocks&aring;,
-    &aring;tminstone kommer varken Eric eller jag fr&aring;n n&aring;gra v&auml;lbemedlade
-    hem (hur det &auml;r med Jesper Nilsson vet jag inte).\r\n\r\nVidare: Man m&aring;ste
-    f&aring; kritisera m&auml;nniskor. Id&eacute;n att medelklassrepresentanter i
-    media skall skyddas mot inv&auml;ndningar tycker jag &auml;r konstig. Den sortens
-    med&ouml;mkan &aring;tnjuter knappast vare sig den trashiga arbetarklassen eller
-    den snobbiga &ouml;verklassen. Och att tonen understundom blev alltf&ouml;r h&auml;tsk
-    vad vindsv&aring;ningsparet anbelangar betyder inte att _all_ kritik mot mysreportage
-    &auml;r tr&ouml;tt och billig i-landsproblemsbashing.\r\n\r\nMin bloggpost: http:&#47;&#47;blogg.aftonbladet.se&#47;lisamagnusson&#47;2010&#47;12&#47;klimatangest"
+  content: ! "Nu borde jag väl inte tala för någon annan än mig själv, men jag kan
+    tänka mig att det som Eric Rosén och Jesper Nilsson retar sig på är den där självbelåtna
+    världsfrånvända blicken som familjen i reportaget ger uttryck för. \"Mallorca-kris\",
+    liksom, det ÄR ett komiskt uttryck. Kanske bottnar det i avundsjuka också, åtminstone
+    kommer varken Eric eller jag från några välbemedlade hem (hur det är med Jesper
+    Nilsson vet jag inte).\r\n\r\nVidare: Man måste få kritisera människor. Idén att
+    medelklassrepresentanter i media skall skyddas mot invändningar tycker jag är
+    konstig. Den sortens medömkan åtnjuter knappast vare sig den trashiga arbetarklassen
+    eller den snobbiga överklassen. Och att tonen understundom blev alltför hätsk
+    vad vindsvåningsparet anbelangar betyder inte att _all_ kritik mot mysreportage
+    är trött och billig i-landsproblemsbashing.\r\n\r\nMin bloggpost: http://blogg.aftonbladet.se/lisamagnusson/2010/12/klimatangest"
 ---
-N&auml;r Svenska Dagbladet publicerar en artikel om <a href="http:&#47;&#47;www.svd.se&#47;nyheter&#47;idagsidan&#47;psykologi&#47;klimathotet-har-andrat-deras-livsstil_5789585.svd">familjen Bramfors-Engelmarks f&ouml;rs&ouml;k att anpassa sitt liv efter klimathotet<&#47;a> dr&ouml;jer det inte l&auml;nge innan det twittras i en l&auml;tt h&aring;nfull ton:
+När Svenska Dagbladet publicerar en artikel om <a href="http://www.svd.se/nyheter/idagsidan/psykologi/klimathotet-har-andrat-deras-livsstil_5789585.svd">familjen Bramfors-Engelmarks försök att anpassa sitt liv efter klimathotet</a> dröjer det inte länge innan det twittras i en lätt hånfull ton:
 
 
-<blockquote>&Auml;r den h&auml;r snubben verklighetens svar p&aring; uppdiktade bloggen S&ouml;derfamiljen? http:&#47;&#47;tinyurl.com&#47;38d5vd2<&#47;blockquote>
+<blockquote>Är den här snubben verklighetens svar på uppdiktade bloggen Söderfamiljen? http://tinyurl.com/38d5vd2</blockquote>
 
-skriver Eric Ros&eacute;n (<a href="http:&#47;&#47;twitter.com&#47;detljuvalivet">@detljuvalivet<&#47;a>), och
+skriver Eric Rosén (<a href="http://twitter.com/detljuvalivet">@detljuvalivet</a>), och
 
-<blockquote>Medelklassen tar till sig klimatpolitiken: "F&ouml;r ett par &aring;r sedan hade vi ocks&aring; en mindre Mallorca-kris" http:&#47;&#47;bit.ly&#47;hPq3Ke i @svdse<&#47;blockquote>
+<blockquote>Medelklassen tar till sig klimatpolitiken: "För ett par år sedan hade vi också en mindre Mallorca-kris" http://bit.ly/hPq3Ke i @svdse</blockquote>
 
-skriver Jesper Nilsson (<a href="http:&#47;&#47;twitter.com&#47;redundans">@redundans<&#47;a>). 
+skriver Jesper Nilsson (<a href="http://twitter.com/redundans">@redundans</a>). 
 
-Jag har sv&aring;rt att se vari problemet med artikeln egentligen ligger, bortom sj&auml;lva formen av utsl&auml;tat familje-reportage med Sara Trus-inslag, som knappast familjen sj&auml;lv kan klandras f&ouml;r. Man kan naturligtvis sl&aring; sig f&ouml;r kn&auml;na &ouml;ver den senaste i den o&auml;ndliga r&auml;ckan av vad som minst sagt utslitet brukar kallas f&ouml;r i-landsproblem: "Mallorca-kris", och en m&auml;ngd andra ordval i artikeln, men bortom det beskrivs ett reellt problem: m&auml;nniskor som har en &ouml;vertygelse (klimathotet &auml;r h&ouml;gst reellt och &ouml;verh&auml;ngande) som &auml;r i konflikt med mycket i deras livssituation.
+Jag har svårt att se vari problemet med artikeln egentligen ligger, bortom själva formen av utslätat familje-reportage med Sara Trus-inslag, som knappast familjen själv kan klandras för. Man kan naturligtvis slå sig för knäna över den senaste i den oändliga räckan av vad som minst sagt utslitet brukar kallas för i-landsproblem: "Mallorca-kris", och en mängd andra ordval i artikeln, men bortom det beskrivs ett reellt problem: människor som har en övertygelse (klimathotet är högst reellt och överhängande) som är i konflikt med mycket i deras livssituation.
 
-Jag &auml;r inte helt p&aring; det klara med var k&auml;rnan i Ros&eacute;n och Nilssons kritik ligger, men det verkar ligga n&aring;gonstans mellan den upplevda sj&auml;lvgodheten: "det finns n&aring;got v&auml;ldigt d&ouml;mande i att han &auml;r &ouml;vertygad om att det redan &auml;r k&ouml;rt, men att han &auml;r en av f&aring; som kommit till insikt." skriver Ros&eacute;n i en senare tweet, och att familjen tar p&aring; sig ett personligt ansvar: "Om man hanterar klimatproblemet med konsumtionshets och &aring;ngest ist&auml;llet f&ouml;r politik skall man h&aring;nas." skriver Nilsson. Det sistn&auml;mnda blir f&ouml;r mig l&auml;tt obegripligt i d&aring; jag varken vet var det st&aring;r om konsumtionshets, mer &auml;n att de f&ouml;rs&ouml;ker handla ekologiskt, och uttryckligen n&auml;mner en politisk frustration:
+Jag är inte helt på det klara med var kärnan i Rosén och Nilssons kritik ligger, men det verkar ligga någonstans mellan den upplevda självgodheten: "det finns något väldigt dömande i att han är övertygad om att det redan är kört, men att han är en av få som kommit till insikt." skriver Rosén i en senare tweet, och att familjen tar på sig ett personligt ansvar: "Om man hanterar klimatproblemet med konsumtionshets och ångest istället för politik skall man hånas." skriver Nilsson. Det sistnämnda blir för mig lätt obegripligt i då jag varken vet var det står om konsumtionshets, mer än att de försöker handla ekologiskt, och uttryckligen nämner en politisk frustration:
 
-<blockquote>Hon beskriver sig sj&auml;lv som en ganska realistisk person som mest k&auml;nner ilska &ouml;ver att politikerna, som sitter p&aring; den verkliga makten att f&ouml;r&auml;ndra, inte g&ouml;r mer.<&#47;blockquote>
+<blockquote>Hon beskriver sig själv som en ganska realistisk person som mest känner ilska över att politikerna, som sitter på den verkliga makten att förändra, inte gör mer.</blockquote>
 
-Utan att veta n&aring;got om hur varken Eric Ros&eacute;n eller Jesper Nilssons familjesituationer, f&ouml;rv&aring;nas jag snarare &ouml;ver att de inte ger uttryck f&ouml;r den minsta igenk&auml;nning. Jag vet inte om det beror p&aring; att de sj&auml;lva ignorerar all oro f&ouml;r klimatet, eller om de lever i klimatneutralt liv utan konflikter med andra intressen. Sj&auml;lv k&auml;nner jag d&auml;remot igen mig mycket i Bramfors-Engelmarks bekymmer, vilket troligen &auml;r anledningen att jag &ouml;verhuvudtaget orkar irritera mig &ouml;ver den raljanta tonen mot dem.
+Utan att veta något om hur varken Eric Rosén eller Jesper Nilssons familjesituationer, förvånas jag snarare över att de inte ger uttryck för den minsta igenkänning. Jag vet inte om det beror på att de själva ignorerar all oro för klimatet, eller om de lever i klimatneutralt liv utan konflikter med andra intressen. Själv känner jag däremot igen mig mycket i Bramfors-Engelmarks bekymmer, vilket troligen är anledningen att jag överhuvudtaget orkar irritera mig över den raljanta tonen mot dem.
 
-Ur en barnfamiljs perspektiv upplever jag dagens Sverige ur milj&ouml;perspektiv ungef&auml;r som att vara en gravt &ouml;verviktig p&aring; julbord: ett &ouml;verfl&ouml;d av saker du verkligen inte borde ta av, men b&aring;de smarriga och som du snarast f&ouml;rv&auml;ntas ta s&aring; mycket du kan av. Att f&ouml;rklara att man inte vill &auml;ta, d.v.s. k&ouml;pa en st&ouml;rre bil, st&ouml;rre hus, resa till Thailand och varf&ouml;r inte en teppanyaki-h&auml;ll, blir vare sig man vill eller inte till slut n&aring;got av ett socialt problem, s&aring; vida man inte har turen att enbart omges av andra personer med samma v&auml;rderingar. F&ouml;r mig &auml;r det detta artikeln handlar om, inte att familjen upplever sig som goda, eller deras politiska visioner (eller avsknad av dessa).
+Ur en barnfamiljs perspektiv upplever jag dagens Sverige ur miljöperspektiv ungefär som att vara en gravt överviktig på julbord: ett överflöd av saker du verkligen inte borde ta av, men både smarriga och som du snarast förväntas ta så mycket du kan av. Att förklara att man inte vill äta, d.v.s. köpa en större bil, större hus, resa till Thailand och varför inte en teppanyaki-häll, blir vare sig man vill eller inte till slut något av ett socialt problem, så vida man inte har turen att enbart omges av andra personer med samma värderingar. För mig är det detta artikeln handlar om, inte att familjen upplever sig som goda, eller deras politiska visioner (eller avsknad av dessa).
 
-Att inte kunna se bakom det d&aring;liga ordvalet "Mallorca-kris", d.v.s. problematiken i att f&ouml;rklara f&ouml;r barn och sl&auml;kt att man inte vill bli bjuden p&aring; solsemester f&ouml;r att man av princip inte vill flyga, tyder bara p&aring; en tr&ouml;ttsam brist p&aring; insikt.
+Att inte kunna se bakom det dåliga ordvalet "Mallorca-kris", d.v.s. problematiken i att förklara för barn och släkt att man inte vill bli bjuden på solsemester för att man av princip inte vill flyga, tyder bara på en tröttsam brist på insikt.
 
-Utan att g&aring; in p&aring; varf&ouml;r och vad man skall g&ouml;ra &aring;t det, s&aring; menar jag att det i allra h&ouml;gsta grad &auml;r relevant att illustrera de h&auml;r problemen, s&aring; som SVD g&ouml;r. All politisk f&ouml;r&auml;ndring b&ouml;rjar inte med att skrika sig hes om klass och bl&aring;sa i vuvuzela.
+Utan att gå in på varför och vad man skall göra åt det, så menar jag att det i allra högsta grad är relevant att illustrera de här problemen, så som SVD gör. All politisk förändring börjar inte med att skrika sig hes om klass och blåsa i vuvuzela.
 
-<strong>Uppdatering:<&#47;strong> Eric Ros&eacute;n p&aring;talar att han visst uttrycker f&ouml;rst&aring;else f&ouml;r problematiken i en annan twitter-tr&aring;d: "sj&auml;lvklart &auml;r en del av provokationen att det tangerar delar av ens eget liv. Ett uttryck f&ouml;r twittrarens egen klimat&aring;ngest", s&aring; helt svartvitt &auml;r det f&ouml;rst&aring;s inte (i samma tr&aring;d menar han dock ocks&aring; att Mikael Bramfors "l&aring;ter som en pajas").
+<strong>Uppdatering:</strong> Eric Rosén påtalar att han visst uttrycker förståelse för problematiken i en annan twitter-tråd: "självklart är en del av provokationen att det tangerar delar av ens eget liv. Ett uttryck för twittrarens egen klimatångest", så helt svartvitt är det förstås inte (i samma tråd menar han dock också att Mikael Bramfors "låter som en pajas").

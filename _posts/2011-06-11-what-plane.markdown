@@ -20,7 +20,7 @@ What Plane? is an Android app that lists the planes closest to your location, an
 
 Currently, What Plane is not available from Android Market, since I'm too lazy to register as a developer. This means you will have to set your Android phone to allow unsigned apps to install What Plane. You will have to take my word for it when I tell you it's a really friendly little app that will do no harm to you or your device.
 
-Aircraft information is borrowed from the fabulous site <a href="http:&#47;&#47;www.flightradar24.com">Flightradar24.com<&#47;a>.
+Aircraft information is borrowed from the fabulous site <a href="http://www.flightradar24.com">Flightradar24.com</a>.
 
 Download here:
-<a href="http:&#47;&#47;www.liedman.net&#47;share&#47;WhatPlane-android-1.1.1.apk">What Plane version 1.1.1.<&#47;a>
+<a href="http://www.liedman.net/share/WhatPlane-android-1.1.1.apk">What Plane version 1.1.1.</a>

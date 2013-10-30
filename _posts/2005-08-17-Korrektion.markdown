@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-N&auml;r ordet "Orwelliansk" k&auml;nns allt mer applicerbart p&aring; omv&auml;rlden f&aring;r man anpassa sin verklighet efter b&auml;sta f&ouml;rm&aring;ga. T.ex. genom att <a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;avantgame&#47;33841793&#47;">placera 1984 under "Current Affairs" i bokhandeln<&#47;a>. Meningsl&ouml;sa aktioner av civil olydnad, jag &auml;lskar er.
+När ordet "Orwelliansk" känns allt mer applicerbart på omvärlden får man anpassa sin verklighet efter bästa förmåga. T.ex. genom att <a href="http://www.flickr.com/photos/avantgame/33841793/">placera 1984 under "Current Affairs" i bokhandeln</a>. Meningslösa aktioner av civil olydnad, jag älskar er.
 
-(Via <a href="http:&#47;&#47;mymarkup.net&#47;blog&#47;archives&#47;007544.html">mymarkup.net<&#47;a>.)
+(Via <a href="http://mymarkup.net/blog/archives/007544.html">mymarkup.net</a>.)

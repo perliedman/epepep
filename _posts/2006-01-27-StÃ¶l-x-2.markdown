@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: St&ouml;l x 2
+title: Stöl x 2
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-Den b&auml;sta fyllan kommer av tv&aring; stora stark i baren p&aring; f&ouml;rsta v&aring;ningen i samma fastighet som jobbet, kl&auml;mda p&aring; en dryg halvtimma.
+Den bästa fyllan kommer av två stora stark i baren på första våningen i samma fastighet som jobbet, klämda på en dryg halvtimma.
 
-De s&auml;msta bloginl&auml;ggen skrivs i omedelbar n&auml;rhet till n&auml;mnda &ouml;l, men eftersom jag inte skrivit n&aring;got p&aring; flera m&aring;nader &auml;r det helt i sin ordning.
+De sämsta bloginläggen skrivs i omedelbar närhet till nämnda öl, men eftersom jag inte skrivit något på flera månader är det helt i sin ordning.

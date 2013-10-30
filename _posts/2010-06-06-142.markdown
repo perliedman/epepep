@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Nationaldagen p&aring; cykel
+title: Nationaldagen på cykel
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -23,10 +23,9 @@ comments:
   date_gmt: !binary |-
     MjAxMC0wNi0wNiAxNDoyNToyNSArMDIwMA==
   content: Jisses!! Imponerande tid! Det blir kanske cyklist av dig?? Med mer luft
-    i d&auml;cken, tighta kl&auml;der och aerohj&auml;lm &auml;r jag s&auml;ker p&aring;
-    att du kan kapa din tid med 30min, l&auml;gg sedan till lite tr&auml;ning.....vad
-    det g&auml;ller cykeln.....ALLA CYKLAR SKA TRAMPAS brukade min gamla tr&auml;nare
-    s&auml;ga...och jag tror han har r&auml;tt..eller?
+    i däcken, tighta kläder och aerohjälm är jag säker på att du kan kapa din tid
+    med 30min, lägg sedan till lite träning.....vad det gäller cykeln.....ALLA CYKLAR
+    SKA TRAMPAS brukade min gamla tränare säga...och jag tror han har rätt..eller?
 - id: 2929
   author: Johannes
   author_email: johannes@mac.se
@@ -35,18 +34,18 @@ comments:
     MjAxMC0wNi0wNyAxMjowMDo1OSArMDIwMA==
   date_gmt: !binary |-
     MjAxMC0wNi0wNyAxMTowMDo1OSArMDIwMA==
-  content: Imponerande! Jag som tycker att jag &auml;r duktig n&auml;r jag cyklar
-    en och en halv mil till kolonin.
+  content: Imponerande! Jag som tycker att jag är duktig när jag cyklar en och en
+    halv mil till kolonin.
 ---
-Efter mis&auml;ren med mitt <a href="http:&#47;&#47;twitter.com&#47;liedman&#47;status&#47;14483211447">inst&auml;llda G&ouml;teborgsvarv<&#47;a> har jag idag f&ouml;rs&ouml;kt kompensera &aring;tminstone delvis genom att cykla <a href="http:&#47;&#47;www.nationaldagsloppet.se&#47;index.html?main.asp">Nationaldagsloppet<&#47;a>, vilket jag nu t&auml;nkte fira genom att blogga f&ouml;r f&ouml;rsta g&aring;ngen p&aring; tusen &aring;r.
+Efter misären med mitt <a href="http://twitter.com/liedman/status/14483211447">inställda Göteborgsvarv</a> har jag idag försökt kompensera åtminstone delvis genom att cykla <a href="http://www.nationaldagsloppet.se/index.html?main.asp">Nationaldagsloppet</a>, vilket jag nu tänkte fira genom att blogga för första gången på tusen år.
 
-Har inte deltagit i n&aring;got cykellopp tidigare i mitt liv, s&aring; det blev &auml;ven lite studiebes&ouml;k i cykelv&auml;rlden. N&aring;gra iakttagelser:
+Har inte deltagit i något cykellopp tidigare i mitt liv, så det blev även lite studiebesök i cykelvärlden. Några iakttagelser:
 <ul>
-	<li>Till skillnad fr&aring;n l&ouml;pning &auml;r cykling lite av en materialsport. Det st&auml;ller nya krav p&aring; t&auml;vlingsdeltagaren i form av f&ouml;rberedelser. Medan l&ouml;pning enbart kr&auml;ver n&aring;got s&aring; n&auml;r rena kl&auml;der, b&ouml;r du innan ett cykellopp &aring;tminstone funderat p&aring; din utrustnings kondition. Rekommenderad miniminiv&aring; &auml;r att pumpa d&auml;cken och se till att kedjan &auml;r smord. (Varf&ouml;r man inte gemensamt har ordnat med tryckluft och munstycken till ett evenemang med hundratals cyklister i behov av detsamma &auml;r f&ouml;r mig oklart, men s&aring;dana &auml;r kanske konventionerna inom cykelsporten.)<&#47;li>
-	<li>Ang&aring;ende material &auml;r det &auml;ven s&aring; att medeldeltagaren i ett cykellopp har skaffat duktigt med s&aring;dant. Extremt tighta kl&auml;der, slimmade hj&auml;lmar och en cykel som v&auml;ger tio gram och med millimetersmala d&auml;ck &auml;r snarare regel &auml;n undantag. Om du dyker upp p&aring; en smutsig, d&aring;ligt underh&aring;llen cykel if&ouml;rd sladdriga shorts, t-shirt och en hj&auml;lm som inte riktigt matchar finns det risk att du k&auml;nner dig lite utanf&ouml;r.<&#47;li>
-	<li>Om man har ovan n&auml;mnda, svindyra utrustning skulle man kunna tro att det faktiskt g&aring;r undan, men s&aring; &auml;r inte n&ouml;dv&auml;ndigtvis fallet. Vissa cyklar trots sin svindyra utrustning inte s&auml;rskilt fort och f&aring;r "kramp" i f&ouml;rsta uppf&ouml;rsbacken efter 12 kilometer. F&ouml;r mig k&auml;nns det d&aring; som man missf&ouml;rst&aring;tt det hela f&ouml;r en maskerad och <i>kl&auml;tt ut sig<&#47;i> till cyklist, snarare.<&#47;li>
-	<li>Under ett cykellopp dricker man inte bara (som i l&ouml;pning), utan bjuds &auml;ven p&aring; &auml;tbara saker. Banan och i viss m&aring;n bulle k&auml;ndes naturligt, men saltgurka stack helt klart ut n&auml;r det erbj&ouml;ds efter 35 kilometer; det gick dock utm&auml;rkt, och min kropp gjorde g&auml;llande att &auml;ven en kebabrulle och kanske en prinsesst&aring;rta ocks&aring; hade varit p&aring; sin plats.<&#47;li>
-	<li>&Ouml;verviktiga herrar i besv&auml;rande &aring;tsittande kl&auml;der &auml;r festliga att cykla om i uppf&ouml;rsbackar. Sedan k&ouml;r de om i n&auml;sta nedf&ouml;rsbacke. Jag &auml;r mycket imponerad av att deras kolfibercyklar med d&auml;ck smala som skridskor kan rulla snabbare nedf&ouml;r &auml;n min ompumpade loser-hybrid.<&#47;li>
-	<li>De som kan cykla p&aring; riktigt cyklar sjukt fort och ropar glatt "opp-opp-opp-opp" om de tycker du ligger i v&auml;gen.<&#47;li>
-<&#47;ul>
-Sammanfattningsvis mycket n&ouml;jd med detta evenemang, kombinerad motion och sociologisk studie. Om du l&auml;st &auml;nda hit &auml;r du f&ouml;rst&aring;s galet nyfiken p&aring; hur det egentligen gick f&ouml;r mig. 60 kilometer p&aring; 2:22 &auml;r v&auml;l knappast snabbt f&ouml;r en tr&auml;nad cyklist, men jag &auml;r n&ouml;jd med tanke p&aring; att det &auml;r det l&auml;ngsta jag cyklat i mitt liv och att min vardagsdistans &auml;r runt fem kilometer till eller fr&aring;n jobbet. Om du &auml;r besatt, se <a href="http:&#47;&#47;www.liedman.net&#47;share&#47;gps-tracks&#47;250_geosition.html">de riktiga detaljerna fr&aring;n min GPS<&#47;a>. (Man f&aring;r zooma in lite f&ouml;r att se b&auml;ttre, och ja - kartan visar bara drygt 57 kilometer, men jag antar att arrang&ouml;ren m&auml;tt mer noggrant &auml;n min GPS tydligen g&ouml;r.)
+	<li>Till skillnad från löpning är cykling lite av en materialsport. Det ställer nya krav på tävlingsdeltagaren i form av förberedelser. Medan löpning enbart kräver något så när rena kläder, bör du innan ett cykellopp åtminstone funderat på din utrustnings kondition. Rekommenderad miniminivå är att pumpa däcken och se till att kedjan är smord. (Varför man inte gemensamt har ordnat med tryckluft och munstycken till ett evenemang med hundratals cyklister i behov av detsamma är för mig oklart, men sådana är kanske konventionerna inom cykelsporten.)</li>
+	<li>Angående material är det även så att medeldeltagaren i ett cykellopp har skaffat duktigt med sådant. Extremt tighta kläder, slimmade hjälmar och en cykel som väger tio gram och med millimetersmala däck är snarare regel än undantag. Om du dyker upp på en smutsig, dåligt underhållen cykel iförd sladdriga shorts, t-shirt och en hjälm som inte riktigt matchar finns det risk att du känner dig lite utanför.</li>
+	<li>Om man har ovan nämnda, svindyra utrustning skulle man kunna tro att det faktiskt går undan, men så är inte nödvändigtvis fallet. Vissa cyklar trots sin svindyra utrustning inte särskilt fort och får "kramp" i första uppförsbacken efter 12 kilometer. För mig känns det då som man missförstått det hela för en maskerad och <i>klätt ut sig</i> till cyklist, snarare.</li>
+	<li>Under ett cykellopp dricker man inte bara (som i löpning), utan bjuds även på ätbara saker. Banan och i viss mån bulle kändes naturligt, men saltgurka stack helt klart ut när det erbjöds efter 35 kilometer; det gick dock utmärkt, och min kropp gjorde gällande att även en kebabrulle och kanske en prinsesstårta också hade varit på sin plats.</li>
+	<li>Överviktiga herrar i besvärande åtsittande kläder är festliga att cykla om i uppförsbackar. Sedan kör de om i nästa nedförsbacke. Jag är mycket imponerad av att deras kolfibercyklar med däck smala som skridskor kan rulla snabbare nedför än min ompumpade loser-hybrid.</li>
+	<li>De som kan cykla på riktigt cyklar sjukt fort och ropar glatt "opp-opp-opp-opp" om de tycker du ligger i vägen.</li>
+</ul>
+Sammanfattningsvis mycket nöjd med detta evenemang, kombinerad motion och sociologisk studie. Om du läst ända hit är du förstås galet nyfiken på hur det egentligen gick för mig. 60 kilometer på 2:22 är väl knappast snabbt för en tränad cyklist, men jag är nöjd med tanke på att det är det längsta jag cyklat i mitt liv och att min vardagsdistans är runt fem kilometer till eller från jobbet. Om du är besatt, se <a href="http://www.liedman.net/share/gps-tracks/250_geosition.html">de riktiga detaljerna från min GPS</a>. (Man får zooma in lite för att se bättre, och ja - kartan visar bara drygt 57 kilometer, men jag antar att arrangören mätt mer noggrant än min GPS tydligen gör.)

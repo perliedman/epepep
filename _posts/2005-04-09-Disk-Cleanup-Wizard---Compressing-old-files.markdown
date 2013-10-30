@@ -14,13 +14,13 @@ categories: []
 tags: []
 comments: []
 ---
-Jag hatar att f&aring; slut p&aring; diskutrymme, och framf&ouml;r allt n&auml;r det tar slut precis n&auml;r man h&aring;ller p&aring; med n&aring;got viktigt eller n&aring;got som m&aring;ste g&aring; fort. D&auml;rf&ouml;r &auml;r <a href="http:&#47;&#47;support.microsoft.com&#47;default.aspx?scid=kb;en-us;310312">Disk cleanup<&#47;a>, som finns i senare versioner av Windows, ett fint hj&auml;lpmedel f&ouml;r att st&auml;da upp det v&auml;rsta lite snabbt. Oftast har webbl&auml;sare och andra program sparat en massa m&ouml;g som man egentligen alls &auml;r intresserad av, och precis det rensas bort.
+Jag hatar att få slut på diskutrymme, och framför allt när det tar slut precis när man håller på med något viktigt eller något som måste gå fort. Därför är <a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;310312">Disk cleanup</a>, som finns i senare versioner av Windows, ett fint hjälpmedel för att städa upp det värsta lite snabbt. Oftast har webbläsare och andra program sparat en massa mög som man egentligen alls är intresserad av, och precis det rensas bort.
 
-Tyv&auml;rr har <i>Disk cleanup<&#47;i> &auml;ven den m&auml;rkliga id&eacute;n att gamla filer b&ouml;r komprimeras, en &aring;tg&auml;rd som n&auml;stan aldrig verkar spara n&aring;got diskutrymme och dessutom tar ungef&auml;r ett &aring;r p&aring; sig att ens ber&auml;kna hur mycket utrymme som skulle sparas (f&ouml;ga &ouml;verraskande, eftersom varenda fil p&aring; h&aring;rddisken antagligen m&aring;ste unders&ouml;kas). <a href="http:&#47;&#47;www.microsoft.com">Microsoft<&#47;a> verkar  inte ha insett problemet, fast det i mina &ouml;gon f&ouml;rtar hela po&auml;ngen med att &ouml;verhuvudtaget ha en Disk cleanup-pryl; det g&aring;r ju snabbare att rensa manuellt.
+Tyvärr har <i>Disk cleanup</i> även den märkliga idén att gamla filer bör komprimeras, en åtgärd som nästan aldrig verkar spara något diskutrymme och dessutom tar ungefär ett år på sig att ens beräkna hur mycket utrymme som skulle sparas (föga överraskande, eftersom varenda fil på hårddisken antagligen måste undersökas). <a href="http://www.microsoft.com">Microsoft</a> verkar  inte ha insett problemet, fast det i mina ögon förtar hela poängen med att överhuvudtaget ha en Disk cleanup-pryl; det går ju snabbare att rensa manuellt.
 
-Som tur &auml;r kan man st&auml;nga av compressed files-delen av Disk cleanup med ett registerhack. S&aring; h&auml;r g&ouml;r man:
+Som tur är kan man stänga av compressed files-delen av Disk cleanup med ett registerhack. Så här gör man:
 <ol>
-<li>&Ouml;ppna HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion \Explorer\VolumeCaches\Compress old files i RegEdit<&#47;li><li>Ta bort alla v&auml;rden under nyckeln<&#47;li>
-<&#47;ol>
+<li>Öppna HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion \Explorer\VolumeCaches\Compress old files i RegEdit</li><li>Ta bort alla värden under nyckeln</li>
+</ol>
 
-G&ouml;r det. G&ouml;r det nu!
+Gör det. Gör det nu!

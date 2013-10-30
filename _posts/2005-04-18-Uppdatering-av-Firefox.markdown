@@ -14,8 +14,8 @@ categories: []
 tags: []
 comments: []
 ---
-Varf&ouml;r har <a href="http:&#47;&#47;www.mozilla.org&#47;products&#47;firefox&#47;central.html">Firefox<&#47;a> b&ouml;rjat med n&aring;got slags fjortisaktigt <a href="http:&#47;&#47;www.msn.se">MSN<&#47;a>-beteende och som default f&ouml;resl&aring; om man vill anv&auml;nda Firefox egen startsida, ist&auml;llet f&ouml;r den man sj&auml;lv noggrant valt, varje g&aring;ng man uppgraderar?
+Varför har <a href="http://www.mozilla.org/products/firefox/central.html">Firefox</a> börjat med något slags fjortisaktigt <a href="http://www.msn.se">MSN</a>-beteende och som default föreslå om man vill använda Firefox egen startsida, istället för den man själv noggrant valt, varje gång man uppgraderar?
 
-Har m&auml;rkt beteendet sen uppgraderingen till 1.0.1, tror jag. L&auml;tt st&ouml;rigt och ger en oprofessionell k&auml;nsla.
+Har märkt beteendet sen uppgraderingen till 1.0.1, tror jag. Lätt störigt och ger en oprofessionell känsla.
 
-Uppgradera till <a href="http:&#47;&#47;www.mozilla.org&#47;products&#47;firefox&#47;releases&#47;1.0.3.html">Firefox 1.0.3<&#47;a> ska man &auml;nd&aring;, bara s&aring; ni vet.
+Uppgradera till <a href="http://www.mozilla.org/products/firefox/releases/1.0.3.html">Firefox 1.0.3</a> ska man ändå, bara så ni vet.

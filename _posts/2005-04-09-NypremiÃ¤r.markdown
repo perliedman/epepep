@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Nypremi&auml;r
+title: Nypremiär
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-Idag &auml;r det lite nypremi&auml;r p&aring; <i>epepep<&#47;i>. Nu &auml;r det dags att vara duktig, skriva sp&auml;nnande, t&auml;nkv&auml;rda, djupa och insiktsfulla saker med imponerande regelbundenhet, o.s.v. Till allas stora f&ouml;rtjusning.
+Idag är det lite nypremiär på <i>epepep</i>. Nu är det dags att vara duktig, skriva spännande, tänkvärda, djupa och insiktsfulla saker med imponerande regelbundenhet, o.s.v. Till allas stora förtjusning.
 
-F&ouml;r att fira det hela lite extra har jag flyttat &ouml;ver alla gamla inl&auml;gg fr&aring;n <a href="http:&#47;&#47;www.sixapart.com&#47;movabletype&#47;">MovableType<&#47;a> till <a href="http:&#47;&#47;www.s9y.org&#47;">Serendipity<&#47;a>, som en n&aring;got slags gratishistoria av sympatiskt snitt (&auml;n s&aring; l&auml;nge iallafall). Bort med den s&ouml;nderspammade gamla bloggen, allts&aring;. Tyv&auml;rr betyder det att alla gamla kommentarer, &auml;ven de som inte var spam, &auml;r borta. S&aring; kan det g&aring;.
+För att fira det hela lite extra har jag flyttat över alla gamla inlägg från <a href="http://www.sixapart.com/movabletype/">MovableType</a> till <a href="http://www.s9y.org/">Serendipity</a>, som en något slags gratishistoria av sympatiskt snitt (än så länge iallafall). Bort med den sönderspammade gamla bloggen, alltså. Tyvärr betyder det att alla gamla kommentarer, även de som inte var spam, är borta. Så kan det gå.

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Varf&ouml;r alltid mj&ouml;lk?
+title: Varför alltid mjölk?
 author: Per Liedman
 author_login: per
 author_email: per@liedman.net
@@ -14,6 +14,6 @@ categories: []
 tags: []
 comments: []
 ---
-Ett sp&aring;r som en anonym g&auml;st i mitt hem l&auml;mnat efter sig i form av magnetpoesi p&aring; mitt kylsk&aring;p:
+Ett spår som en anonym gäst i mitt hem lämnat efter sig i form av magnetpoesi på mitt kylskåp:
 
-<i>Varf&ouml;r alltid mj&ouml;lk?<&#47;i> - ja, precis: varf&ouml;r tjatas det alltid om mj&ouml;lk fr&aring;n det att man f&ouml;ds (ok, just d&aring; kan det v&auml;l vara ok) och upp till vuxen &aring;lder? Starka ben i all &auml;ra, men det &auml;r ju p&aring; gr&auml;nsen till hj&auml;rntv&auml;tt.
+<i>Varför alltid mjölk?</i> - ja, precis: varför tjatas det alltid om mjölk från det att man föds (ok, just då kan det väl vara ok) och upp till vuxen ålder? Starka ben i all ära, men det är ju på gränsen till hjärntvätt.
